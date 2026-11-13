@@ -1,4 +1,4 @@
-:HL["/snow-log/_next/static/chunks/088hnnewlc2n1.css","style"]
+:HL["/snow-log/_next/static/chunks/0-zgvi-cnva0-.css","style"]
 :HL["/snow-log/_next/static/media/f06bf9da926bae75-s.p.2874ccu1_u7jf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"btzFZjmkuS9DKyhslB5zB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"LVqjPE3pxxbeDgyzT38kN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
