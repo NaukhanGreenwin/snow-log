@@ -1,0 +1,10 @@
+{
+  "name": "Snow Log",
+  "short_name": "Snow Log",
+  "start_url": "/snow-log/",
+  "scope": "/snow-log/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [{ "src": "/snow-log/brand/icon.png", "sizes": "512x512", "type": "image/png" }]
+}

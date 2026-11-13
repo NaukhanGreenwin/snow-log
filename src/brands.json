@@ -1,0 +1,10 @@
+[
+  {
+    "slug": "itrs-test",
+    "name": "Northgate Test Properties",
+    "accent": "#2f4b3a",
+    "city": "Calgary",
+    "sampleProperty": "Northgate Test Building",
+    "sampleAddress": "100 Test Ave SW, Calgary, AB"
+  }
+]
