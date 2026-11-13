@@ -20,11 +20,11 @@ export const DEFAULT_ACCENT = "#1f3a5f";
 
 const DEMO: Brand = {
   slug: "demo",
-  name: "Demo Property Management",
+  name: "Sample Property Management",
   accent: DEFAULT_ACCENT,
   city: "Calgary",
-  sampleProperty: "Bowness Court Apartments",
-  sampleAddress: "6420 Bowness Rd NW, Calgary, AB",
+  sampleProperty: "Kestrel Court Apartments",
+  sampleAddress: "1450 Kestrel Way SW, Calgary, AB",
 };
 
 const LIST = brands as Brand[];

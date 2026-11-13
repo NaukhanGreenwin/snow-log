@@ -161,6 +161,7 @@ export async function buildPdf(v: Visit, brand: Brand): Promise<Blob> {
     y += 16;
     for (const s of salt) {
       const cells = [s.product || "-", [s.amount, s.amount ? s.unit : ""].filter(Boolean).join(" ") || "-", s.areas || "-"];
+      font("normal", 9.5, INK);
       const ls = cells.map((c, i) => lines(c, cols[i].w - 10));
       const h = Math.max(...ls.map((l) => l.length)) * 12 + 6;
       ensure(h);
@@ -197,7 +198,7 @@ export async function buildPdf(v: Visit, brand: Brand): Promise<Blob> {
   }
 
   /* ---------- sign-off ---------- */
-  section("Sign-off", 150);
+  section("Sign-off", 120);
   para(`I confirm that the work recorded above was carried out at ${v.property || "this property"} on ${fmtDay(v.date)}, at the times shown.`);
   y += 6;
   if (v.signature) {
@@ -214,9 +215,9 @@ export async function buildPdf(v: Visit, brand: Brand): Promise<Blob> {
   /* ---------- photos ---------- */
   const shots = v.photos.slice().sort((a, b) => (a.kind === b.kind ? a.takenAt.localeCompare(b.takenAt) : a.kind === "before" ? -1 : 1));
   if (shots.length) {
-    doc.addPage(); y = M + 4;
-    font("bold", 11, INK); doc.text(`Photos (${shots.length})`, M, y); y += 6; rule(y, ACC, 1); y += 18;
     const gap = 14, pw = (CW - gap) / 2, ph = pw * 0.75;
+    section(`Photos (${shots.length})`, ph + 20);
+    y += 2;
     for (let i = 0; i < shots.length; i += 2) {
       ensure(ph + 34);
       for (let j = 0; j < 2 && i + j < shots.length; j++) {

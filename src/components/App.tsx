@@ -379,8 +379,8 @@ export default function App() {
                         <span className="tick-box">{a.done && <IconCheck size={20} />}</span>
                         <span className="tick-l">{a.label}</span>
                       </button>
-                      {a.custom && (
-                        <button type="button" className="tick-x" aria-label={`Remove ${a.label}`} onClick={() => update((d) => ({ ...d, areas: d.areas.filter((x) => x.key !== a.key) }))}><IconClose size={18} /></button>
+                      {(a.custom || !a.done) && (
+                        <button type="button" className="tick-x" aria-label={`Remove ${a.label} (not at this site)`} onClick={() => update((d) => ({ ...d, areas: d.areas.filter((x) => x.key !== a.key) }))}><IconClose size={18} /></button>
                       )}
                     </li>
                   ))}

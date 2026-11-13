@@ -30,21 +30,18 @@ export function fmtDay(ymd: string, long = true) {
   const d = new Date(`${ymd}T12:00:00Z`);
   return d.toLocaleDateString("en-CA", { timeZone: "UTC", weekday: long ? "long" : undefined, month: long ? "long" : "short", day: "numeric", year: "numeric" });
 }
-/** "Dec 12, 2026, 7:14 a.m. MST" from an ISO instant */
+/** "Dec 12, 2026, 7:14 a.m. MT" from an ISO instant (MT = Mountain Time, site time) */
 export function fmtStamp(iso: string) {
   if (!iso) return "";
   const d = new Date(iso);
   if (isNaN(+d)) return "";
-  return d.toLocaleString("en-CA", { timeZone: TZ, month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit", timeZoneName: "short" });
+  return `${d.toLocaleString("en-CA", { timeZone: TZ, month: "short", day: "numeric", year: "numeric", hour: "numeric", minute: "2-digit" })} MT`;
 }
 /** "7:14 a.m." from an ISO instant */
 export function fmtStampTime(iso: string) {
   if (!iso) return "";
   return new Date(iso).toLocaleTimeString("en-CA", { timeZone: TZ, hour: "numeric", minute: "2-digit" });
 }
-/** Zone abbreviation for a site date (MST in winter, MDT in summer) */
-export function zoneAbbr(ymd: string) {
-  const d = /^\d{4}-\d{2}-\d{2}$/.test(ymd) ? new Date(`${ymd}T18:00:00Z`) : new Date();
-  const p = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, timeZoneName: "short" }).formatToParts(d).find((x) => x.type === "timeZoneName");
-  return p?.value ?? "MT";
-}
+/** Zone label shown next to site times. Plain "MT" (Mountain Time): Alberta's offset follows the
+    tz rules on the phone, and the label stays right whatever those rules are. */
+export function zoneAbbr(_ymd?: string) { void _ymd; return "MT"; }
