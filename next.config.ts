@@ -1,6 +1,6 @@
 import type { NextConfig } from "next";
 
-// Served at https://naukhangreenwin.github.io/snow-log/ (GitHub Pages project site).
+// Served at https://itrapidsupport.github.io/snow-log/ (folder snow-log/ in the itrapidsupport.github.io Pages repo).
 const BASE = "/snow-log";
 
 const nextConfig: NextConfig = {

@@ -6,7 +6,7 @@ import { chromium, webkit, devices } from "playwright";
 import fs from "node:fs";
 import path from "node:path";
 
-const BASE = process.argv[2] ?? "https://naukhangreenwin.github.io/snow-log/";
+const BASE = process.argv[2] ?? "https://itrapidsupport.github.io/snow-log/";
 const OUT = process.argv[3] ?? path.resolve("test-results");
 const FIX = path.resolve("test/fixtures");
 fs.mkdirSync(OUT, { recursive: true });

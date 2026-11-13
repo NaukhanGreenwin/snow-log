@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 BRANDS = ROOT / "src" / "brands.json"
-URL = "https://naukhangreenwin.github.io/snow-log/?c={}"
+URL = "https://itrapidsupport.github.io/snow-log/?c={}"
 DEFAULT_ACCENT = "#1f3a5f"
 STOP = {"inc", "ltd", "limited", "corp", "corporation", "co", "llc", "the"}
 
