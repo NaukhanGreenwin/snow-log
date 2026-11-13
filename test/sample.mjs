@@ -31,6 +31,7 @@ await page.locator("fieldset").nth(1).locator("select").selectOption("pails");
 for (const a of ["Parking lot", "Drive aisles"]) await page.locator("fieldset").nth(1).getByRole("button", { name: a }).click();
 await btn(/^Next/).click();
 await page.waitForTimeout(2500);
+await page.waitForFunction(() => ![...document.querySelectorAll("button")].some((b) => b.textContent.includes("Filling")), null, { timeout: 20000 }).catch(() => {});
 await page.locator("#temp").fill("-14");
 await page.locator("#snow").fill("6");
 await btn("Light snow").click();

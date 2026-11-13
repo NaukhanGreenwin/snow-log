@@ -15,6 +15,11 @@ service worker keeps the app usable offline. The demo's "Email the report" opens
 sheet (Mail) with the PDF, and falls back to a download; the production version emails the office
 automatically.
 
+Each company's real logo is self-hosted in `public/logos/<slug>.png` (pipeline in `scripts/logos/`:
+Firecrawl branding scrape -> download/trim/judge -> manual overrides -> `apply.py` writes `src/brands.json`);
+companies without a usable logo get a monogram. Coverage: `public/logos/manifest.json`. The PDF embeds
+Instrument Sans from `public/fonts/`.
+
 Files: `src/components/App.tsx` (screens and flow), `src/lib/pdf.ts` (report), `src/lib/store.ts`,
 `src/lib/photos.ts`, `src/lib/weather.ts`, `src/lib/brand.ts`, `src/lib/time.ts`, `public/sw.js`.
 
@@ -23,4 +28,5 @@ Files: `src/components/App.tsx` (screens and flow), `src/lib/pdf.ts` (report), `
     python3 scripts/add_brands.py rows.json       # add companies, prints one link per company
     ./deploy.sh                                   # build + publish into snow-log/ of itrapidsupport.github.io
     node test/flow.mjs [url]                      # iPhone 13 WebKit + Pixel 7 Chromium full-visit test
-    node test/sample.mjs <url> <out.pdf> <dir>    # rebuilds the sample report
+    node test/sample.mjs "<url>?c=<slug>" <out.pdf> <dir>   # sample report for a company
+    node test/showcase.mjs <url> <slug> <dir>     # three design screenshots
