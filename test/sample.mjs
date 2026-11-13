@@ -1,5 +1,5 @@
 // Builds the sample report: fictional Calgary property, December morning visit, 4 photos.
-// node test/sample.mjs <baseUrl> <out.pdf> <screensDir>
+// node test/sample.mjs <baseUrl[?c=slug]> <out.pdf> <screensDir>
 import { chromium, devices } from "playwright";
 import path from "node:path";
 const [BASE, OUTPDF, SHOTS] = process.argv.slice(2);
@@ -12,6 +12,8 @@ await page.clock.install({ time: T("07:02") });
 await page.goto(BASE, { waitUntil: "networkidle" });
 const btn = (re) => page.getByRole("button", typeof re === "string" ? { name: re, exact: true } : { name: re });
 await btn(/Start a site visit/).click();
+await page.locator("#property").fill("Kestrel Court Apartments");
+await page.locator("#address").fill("1450 Kestrel Way SW, Calgary, AB");
 await page.locator("#crew").fill("Dana Mercer, Jordan Alvarez");
 await page.waitForTimeout(1500);
 await btn(/^Next/).click();

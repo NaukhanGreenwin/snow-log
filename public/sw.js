@@ -1,11 +1,11 @@
 /* Offline shell for Snow Log: the app opens with no signal (parking lots, back lanes).
-   Pages: network first, cache fallback. Hashed _next/static assets and brand files: cache first.
+   Pages: network first, cache fallback. Hashed _next/static assets, brand files, fonts and company logos: cache first.
    Query strings (?c=<company>) all map to the one cached shell. */
 // Shares the itrapidsupport.github.io origin with the inspection apps: only ever touch caches named "snowlog-*".
-const CACHE = "snowlog-v2";
+const CACHE = "snowlog-v3";
 const BASE = "/snow-log";
 self.addEventListener("install", (e) => {
-  e.waitUntil(caches.open(CACHE).then((c) => c.addAll([`${BASE}/`, `${BASE}/brand/icon.png`, `${BASE}/manifest.webmanifest`])).then(() => self.skipWaiting()));
+  e.waitUntil(caches.open(CACHE).then((c) => c.addAll([`${BASE}/`, `${BASE}/brand/icon.png`, `${BASE}/manifest.webmanifest`, `${BASE}/fonts/InstrumentSans-Regular.ttf`, `${BASE}/fonts/InstrumentSans-Medium.ttf`, `${BASE}/fonts/InstrumentSans-SemiBold.ttf`])).then(() => self.skipWaiting()));
 });
 self.addEventListener("activate", (e) => {
   e.waitUntil(caches.keys().then((ks) => Promise.all(ks.filter((k) => k.startsWith("snowlog-") && k !== CACHE).map((k) => caches.delete(k)))).then(() => self.clients.claim()));
@@ -22,7 +22,7 @@ self.addEventListener("fetch", (e) => {
     );
     return;
   }
-  if (url.pathname.startsWith(`${BASE}/_next/`) || url.pathname.startsWith(`${BASE}/brand/`)) {
+  if (["_next", "brand", "fonts", "logos"].some((d) => url.pathname.startsWith(`${BASE}/${d}/`))) {
     e.respondWith(caches.match(req).then((hit) => hit || fetch(req).then((res) => { if (res.ok) { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); } return res; })));
   }
 });

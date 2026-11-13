@@ -4,7 +4,7 @@
     python3 scripts/add_brands.py <rows.json> [--deploy] [--tsv out.tsv]
 
 rows.json: a JSON array of objects. Uses "company" (required) and "city"; optional "slug", "logo"
-(https URL), "accent" (#rrggbb), "sample_property", "sample_address". Research rows from
+(https URL; self-hosted logos "logos/<slug>.png" come from scripts/logos/, see README), "accent" (#rrggbb), "sample_property", "sample_address". Research rows from
 projects/alberta-snowlog/research/*.json work as-is (extra keys are ignored).
 Existing brands are matched by slug or company name and updated, never duplicated.
 Writes src/brands.json. --deploy runs ./deploy.sh afterwards so the links go live.
@@ -62,10 +62,11 @@ def main(argv):
             "sampleAddress": (r.get("sample_address") or b.get("sampleAddress") or (f"{city}, AB" if city else "")).strip(),
         })
         logo = (r.get("logo") or b.get("logo") or "").strip()
-        if logo.startswith("https://"):
+        if logo.startswith("https://") or logo.startswith("logos/"):
             b["logo"] = logo
         else:
-            b.pop("logo", None)
+            for k in ("logo", "logoW", "logoH", "logoLight"):
+                b.pop(k, None)
         out.append((name, URL.format(b["slug"])))
     brands.sort(key=lambda x: x["slug"])
     BRANDS.write_text(json.dumps(brands, indent=2, ensure_ascii=False) + "\n")

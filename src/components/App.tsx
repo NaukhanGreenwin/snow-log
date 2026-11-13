@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { CSSProperties } from "react";
 import type { PhotoKind, Visit } from "@/lib/types";
-import { type Brand, MAKER, accentOf, currentBrand, brandBySlug } from "@/lib/brand";
+import { type Brand, MAKER, accentOf, currentBrand, brandBySlug, logoUrl, monogram, shade } from "@/lib/brand";
 import { METHODS, PRODUCTS, UNITS, newSalt, newVisit, pdfFileName, saltFilled } from "@/lib/template";
 import { fmtClock, fmtDay, fmtStamp, fmtStampTime, siteTime, uid, zoneAbbr } from "@/lib/time";
 import { CONDITIONS, fetchWeather, getGps } from "@/lib/weather";
@@ -13,7 +13,10 @@ import {
 } from "@/lib/store";
 import { PhotoError, isHeic, processPhoto } from "@/lib/photos";
 import SignaturePad from "./SignaturePad";
-import { IconBack, IconCamera, IconCheck, IconClose, IconDownload, IconFile, IconNext, IconPin, IconPlus, IconRefresh, IconShare } from "./icons";
+import {
+  IconBack, IconCamera, IconCheck, IconChevron, IconClock, IconClose, IconDownload, IconFile, IconGrain, IconGrid, IconNext, IconPen,
+  IconPin, IconPlus, IconRefresh, IconShare, IconShield, IconSnow, IconTemp, IconWifiOff,
+} from "./icons";
 
 const STEPS = ["Site and time", "Areas cleared", "Salt and ice melt", "Weather", "Photos and notes", "Sign off"];
 type Screen = "home" | "step" | "done" | "history";
@@ -29,10 +32,12 @@ function Thumb({ id, alt }: { id: string; alt: string }) {
   return src ? <img src={src} alt={alt} /> : <span className="ph-missing" aria-label={alt} />;
 }
 
-function Field({ label, hint, children, id }: { label: string; hint?: string; children: React.ReactNode; id: string }) {
+function Field({ label, hint, children, id, action }: { label: string; hint?: string; children: React.ReactNode; id: string; action?: React.ReactNode }) {
   return (
     <div className="field">
-      <label htmlFor={id} className="label">{label}</label>
+      {action
+        ? <div className="label-row"><label htmlFor={id} className="label">{label}</label>{action}</div>
+        : <label htmlFor={id} className="label">{label}</label>}
       {children}
       {hint && <p className="hint">{hint}</p>}
     </div>
@@ -43,13 +48,31 @@ function Chip({ on, onClick, children }: { on: boolean; onClick: () => void; chi
   return <button type="button" className={`chip${on ? " is-on" : ""}`} aria-pressed={on} onClick={onClick}>{children}</button>;
 }
 
-function BrandMark({ brand }: { brand: Brand }) {
+/** The company's own logo; a light logo sits on an accent tile; no logo = monogram + name. */
+function BrandMark({ brand, variant }: { brand: Brand; variant: "bar" | "hero" }) {
   const [bad, setBad] = useState(false);
-  if (brand.logo && !bad) {
+  const src = logoUrl(brand);
+  const img = src && !bad
     // eslint-disable-next-line @next/next/no-img-element
-    return <img className="brand-logo" src={brand.logo} alt={brand.name} onError={() => setBad(true)} />;
+    ? <img className="mark-img" src={src} alt={brand.name} width={brand.logoW} height={brand.logoH} onError={() => setBad(true)} />
+    : null;
+  if (variant === "hero") {
+    return (
+      <span className={`hero-logo${img ? (brand.logoLight ? " is-light" : "") : " is-mono"}`}>
+        {img ?? <span className="mark-mono" aria-hidden="true">{monogram(brand.name)}</span>}
+      </span>
+    );
   }
-  return <span className="brand-name">{brand.name}</span>;
+  return (
+    <span className="mark mark-bar">
+      {img ? (brand.logoLight ? <span className="mark-tile">{img}</span> : img) : (
+        <>
+          <span className="mark-mono" aria-hidden="true">{monogram(brand.name)}</span>
+          <span className="mark-name">{brand.name}</span>
+        </>
+      )}
+    </span>
+  );
 }
 
 /* ---------------------------------------------------------------- app */
@@ -86,7 +109,7 @@ export default function App() {
       const keep = new Set(h.map((x) => x.id)); if (d) keep.add(d.id);
       prunePhotos(keep).catch(() => {});
       requestPersistence();
-      import("@/lib/pdf").catch(() => {}); // warm the PDF code so it is cached for offline use
+      import("@/lib/pdf").then((m) => m.warm(b)).catch(() => {}); // warm the PDF code, fonts and logo so they are cached for offline use
     })();
     if ("serviceWorker" in navigator && process.env.NODE_ENV === "production") {
       navigator.serviceWorker.register(`${BASE}/sw.js`, { scope: `${BASE}/` }).catch(() => {});
@@ -95,7 +118,7 @@ export default function App() {
   }, []);
 
   const accent = brand ? accentOf(brand) : "#1f3a5f";
-  const style = { "--accent": accent } as CSSProperties;
+  const style = { "--accent": accent, "--accent-2": shade(accent, 0.7) } as CSSProperties;
 
   /* every change autosaves the draft */
   const update = useCallback((fn: (d: Visit) => Visit) => {
@@ -268,27 +291,34 @@ export default function App() {
       <header className="bar">
         <div className="bar-inner">
           <button type="button" className="bar-brand" onClick={() => { setScreen("home"); scrollTop(); }} aria-label="Home">
-            <BrandMark brand={brand} />
+            <BrandMark brand={brand} variant="bar" />
           </button>
-          <span className="bar-app">Snow Log</span>
+          <span className="bar-app"><IconSnow size={15} /> Snow Log</span>
         </div>
         {screen === "step" && (
-          <div className="progress" aria-hidden="true"><span style={{ width: `${((step + 1) / STEPS.length) * 100}%` }} /></div>
+          <div className="steps" aria-hidden="true">
+            {STEPS.map((s, i) => <span key={s} className={i < step ? "is-done" : i === step ? "is-on" : ""} />)}
+          </div>
         )}
       </header>
 
-      {!online && <p className="offline">Offline. Everything is saved on this phone; weather can be typed in.</p>}
+      {!online && <p className="offline"><IconWifiOff size={18} /> Offline. Everything is saved on this phone; weather can be typed in.</p>}
       {noStore && <p className="warn">This browser cannot keep photos (private browsing). Open the link in a normal tab before starting.</p>}
 
       <main className="main" ref={top} tabIndex={-1}>
         {/* ---------------- home ---------------- */}
         {screen === "home" && (
           <div className="home">
-            <p className="eyebrow">Prepared for {brand.name}</p>
-            <h1 className="h1">Snow clearing and salting log</h1>
-            <p className="lede">Record each site visit as it happens: areas cleared, salt used, weather, photos and a signature. The phone makes a dated PDF report for the office.</p>
+            <section className="hero">
+              <BrandMark brand={brand} variant="hero" />
+              <p className="hero-for">Prepared for <b>{brand.name}</b></p>
+              <h1 className="h1">Snow clearing and salting log</h1>
+              <p className="hero-lede">Log each site visit as it happens: areas cleared, salt used, weather, photos and a signature. The phone builds a signed PDF report for the office.</p>
+              {!draft && <button type="button" className="btn btn-hero" onClick={() => start(true)}><IconPlus /> Start a site visit</button>}
+              <div className="hero-meta"><span><IconWifiOff size={15} /> Works without signal</span><span><IconShield size={15} /> Time-stamped record</span></div>
+            </section>
 
-            {draft ? (
+            {draft && (
               <div className="card">
                 <p className="card-k">Visit in progress</p>
                 <p className="card-t">{draft.property || "Untitled site"}</p>
@@ -298,25 +328,25 @@ export default function App() {
                   <button type="button" className="btn btn-quiet" onClick={discard}>Discard</button>
                 </div>
               </div>
-            ) : (
-              <button type="button" className="btn btn-primary btn-xl" onClick={() => start(true)}><IconPlus /> Start a site visit</button>
             )}
-
-            <ol className="how">
-              <li><span>1</span>Site, crew and start time</li>
-              <li><span>2</span>Tick the areas cleared</li>
-              <li><span>3</span>Log salt, ice melt or sand</li>
-              <li><span>4</span>Weather, filled from your location</li>
-              <li><span>5</span>Before and after photos</li>
-              <li><span>6</span>Sign off and send the PDF</li>
-            </ol>
 
             {history.length > 0 && (
-              <button type="button" className="btn btn-quiet btn-block" onClick={() => { setScreen("history"); scrollTop(); }}>
-                <IconFile /> Past reports on this phone ({history.length})
+              <button type="button" className="hist-link" onClick={() => { setScreen("history"); scrollTop(); }}>
+                <IconFile /><span>Past reports on this phone ({history.length})</span><IconChevron size={18} />
               </button>
             )}
-            <p className="fine">Works without signal. Reports stay on this phone until you send them. Snow Log by {MAKER}.</p>
+
+            <h2 className="sec-t">Six quick steps</h2>
+            <ol className="how">
+              <li><i><IconClock size={20} /></i><span><small>01</small>Site, crew and start time</span></li>
+              <li><i><IconGrid size={20} /></i><span><small>02</small>Tick the areas cleared</span></li>
+              <li><i><IconGrain size={20} /></i><span><small>03</small>Salt, ice melt or sand</span></li>
+              <li><i><IconTemp size={20} /></i><span><small>04</small>Weather from your location</span></li>
+              <li><i><IconCamera size={20} /></i><span><small>05</small>Before and after photos</span></li>
+              <li><i><IconPen size={20} /></i><span><small>06</small>Sign off, send the PDF</span></li>
+            </ol>
+
+            <p className="fine"><span>Reports stay on this phone until you send them.</span><span className="maker"><IconSnow size={13} /> Snow Log by {MAKER}</span></p>
           </div>
         )}
 
@@ -334,12 +364,15 @@ export default function App() {
 
             {step === 0 && (
               <>
+               <div className="panel">
                 <Field id="property" label="Property">
                   <input id="property" className="input" value={v.property} autoComplete="off" onChange={(e) => update((d) => ({ ...d, property: e.target.value }))} placeholder="Building or site name" />
                 </Field>
                 <Field id="address" label="Address">
                   <input id="address" className="input" value={v.address} autoComplete="off" onChange={(e) => update((d) => ({ ...d, address: e.target.value }))} placeholder="Street, city" />
                 </Field>
+               </div>
+               <div className="panel">
                 <Field id="date" label="Visit date">
                   <input id="date" type="date" className="input" value={v.date} onChange={(e) => update((d) => ({ ...d, date: e.target.value }))} />
                 </Field>
@@ -347,16 +380,14 @@ export default function App() {
                   <Field id="start" label={`Start (${zone})`}>
                     <input id="start" type="time" className="input" value={v.start} onChange={(e) => update((d) => ({ ...d, start: e.target.value }))} />
                   </Field>
-                  <Field id="end" label={`Finish (${zone})`}>
-                    <div className="with-btn">
-                      <input id="end" type="time" className="input" value={v.end} onChange={(e) => update((d) => ({ ...d, end: e.target.value }))} />
-                      <button type="button" className="btn btn-quiet btn-sm" onClick={() => update((d) => ({ ...d, end: siteTime() }))}>Now</button>
-                    </div>
+                  <Field id="end" label={`Finish (${zone})`} action={<button type="button" className="link link-sm" onClick={() => update((d) => ({ ...d, end: siteTime() }))}>Now</button>}>
+                    <input id="end" type="time" className="input" value={v.end} onChange={(e) => update((d) => ({ ...d, end: e.target.value }))} />
                   </Field>
                 </div>
                 <Field id="crew" label="Crew" hint="Names of everyone who worked this visit.">
                   <input id="crew" className="input" value={v.crew} autoComplete="off" onChange={(e) => update((d) => ({ ...d, crew: e.target.value }))} placeholder="e.g. Sam Ortiz, Priya Nair" />
                 </Field>
+               </div>
                 <div className="gps">
                   <IconPin />
                   <div>
@@ -390,11 +421,13 @@ export default function App() {
                   <button type="button" className="link" onClick={() => update((d) => ({ ...d, areas: d.areas.map((x) => ({ ...x, done: true })) }))}>Tick all</button>
                   <button type="button" className="link" onClick={() => update((d) => ({ ...d, areas: d.areas.map((x) => ({ ...x, done: false })) }))}>Clear all</button>
                 </div>
-                <h2 className="h3">Method</h2>
-                <div className="chips">
-                  {METHODS.map((m) => (
-                    <Chip key={m} on={v.methods.includes(m)} onClick={() => update((d) => ({ ...d, methods: d.methods.includes(m) ? d.methods.filter((x) => x !== m) : [...d.methods, m] }))}>{m}</Chip>
-                  ))}
+                <div className="panel">
+                  <h2 className="panel-h"><IconSnow size={18} /> Method</h2>
+                  <div className="chips">
+                    {METHODS.map((m) => (
+                      <Chip key={m} on={v.methods.includes(m)} onClick={() => update((d) => ({ ...d, methods: d.methods.includes(m) ? d.methods.filter((x) => x !== m) : [...d.methods, m] }))}>{m}</Chip>
+                    ))}
+                  </div>
                 </div>
               </>
             )}
@@ -445,7 +478,7 @@ export default function App() {
             )}
 
             {step === 3 && (
-              <>
+              <div className="panel">
                 <div className="wx-head">
                   <p className="hint">{v.weather.source === "open-meteo" ? `Filled from Open-Meteo for your location, ${fmtStampTime(v.weather.fetchedAt)}. Correct anything that does not match the site.` : "Fill from the weather service by your location, or type what you see."}</p>
                   <button type="button" className="btn btn-quiet btn-sm" onClick={() => fillWeather(false)} disabled={busy === "wx" || !online}><IconRefresh size={18} /> {busy === "wx" ? "Filling" : "Fill"}</button>
@@ -465,19 +498,21 @@ export default function App() {
                 <Field id="wind" label="Wind (km/h)">
                   <input id="wind" className="input" inputMode="numeric" value={v.weather.wind} onChange={(e) => update((d) => ({ ...d, weather: { ...d.weather, wind: e.target.value.replace(/[^0-9]/g, ""), source: "manual" } }))} placeholder="Optional" />
                 </Field>
-              </>
+              </div>
             )}
 
             {step === 4 && (
               <>
                 <PhotoBlock kind="before" title="Before" hint="Snow and ice as you found it." list={before} onAdd={(f) => addPhotos(f, "before")} onOpen={setViewer} />
                 <PhotoBlock kind="after" title="After" hint="Cleared and salted areas." list={after} onAdd={(f) => addPhotos(f, "after")} onOpen={setViewer} />
+               <div className="panel">
                 <Field id="hazards" label="Hazards" hint="Ice build-up, drainage, damaged steps, anything the office should know.">
                   <textarea id="hazards" className="input area" rows={3} value={v.hazards} onChange={(e) => update((d) => ({ ...d, hazards: e.target.value }))} />
                 </Field>
                 <Field id="notes" label="Notes">
                   <textarea id="notes" className="input area" rows={3} value={v.notes} onChange={(e) => update((d) => ({ ...d, notes: e.target.value }))} />
                 </Field>
+               </div>
               </>
             )}
 
@@ -492,12 +527,10 @@ export default function App() {
                   <div><dt>Weather</dt><dd>{[v.weather.tempC && `${v.weather.tempC} °C`, v.weather.conditions, v.weather.snowCm && `${v.weather.snowCm} cm`].filter(Boolean).join(", ") || "Not entered"}</dd></div>
                   <div><dt>Photos</dt><dd>{before.length} before, {after.length} after</dd></div>
                 </dl>
+               <div className="panel">
                 <div className="two">
-                  <Field id="end2" label={`Finish (${zone})`}>
-                    <div className="with-btn">
-                      <input id="end2" type="time" className="input" value={v.end} onChange={(e) => update((d) => ({ ...d, end: e.target.value }))} />
-                      <button type="button" className="btn btn-quiet btn-sm" onClick={() => update((d) => ({ ...d, end: siteTime() }))}>Now</button>
-                    </div>
+                  <Field id="end2" label={`Finish (${zone})`} action={<button type="button" className="link link-sm" onClick={() => update((d) => ({ ...d, end: siteTime() }))}>Now</button>}>
+                    <input id="end2" type="time" className="input" value={v.end} onChange={(e) => update((d) => ({ ...d, end: e.target.value }))} />
                   </Field>
                   <Field id="signRole" label="Role">
                     <input id="signRole" className="input" value={v.signRole} onChange={(e) => update((d) => ({ ...d, signRole: e.target.value }))} placeholder="e.g. Site supervisor" />
@@ -509,6 +542,7 @@ export default function App() {
                 <p className="label">Signature</p>
                 <p className="hint">I confirm the work above was done at this property at the times shown.</p>
                 <SignaturePad label="Crew" value={v.signature} onChange={(s) => update((d) => ({ ...d, signature: s, signedAt: s ? new Date().toISOString() : "" }))} />
+               </div>
               </>
             )}
 
@@ -524,11 +558,20 @@ export default function App() {
         {/* ---------------- done ---------------- */}
         {screen === "done" && pdf && (
           <div className="done">
-            <p className="eyebrow">Report {pdf.visit.id}</p>
-            <h1 className="h2">Visit logged</h1>
-            <p className="lede">{pdf.visit.property}, {fmtDay(pdf.visit.date, false)}. The signed PDF is ready.</p>
-            <button type="button" className="btn btn-primary btn-xl" onClick={() => share(pdf)}><IconShare /> Email the report</button>
-            <button type="button" className="btn btn-quiet btn-block" onClick={() => download(pdf)}><IconDownload /> Download PDF</button>
+            <div className="done-hero">
+              <span className="done-badge"><IconCheck size={30} /></span>
+              <p className="eyebrow">Report {pdf.visit.id}</p>
+              <h1 className="h2">Visit logged</h1>
+              <p className="lede">{pdf.visit.property}, {fmtDay(pdf.visit.date, false)}. The signed PDF is ready.</p>
+              <dl className="done-meta">
+                <div><dt>On site</dt><dd>{fmtClock(pdf.visit.start)} to {fmtClock(pdf.visit.end)} {zoneAbbr(pdf.visit.date)}</dd></div>
+                <div><dt>Areas cleared</dt><dd>{pdf.visit.areas.filter((a) => a.done).length} of {pdf.visit.areas.length}</dd></div>
+                <div><dt>Photos</dt><dd>{pdf.visit.photos.length}</dd></div>
+                <div><dt>Signed by</dt><dd>{pdf.visit.signName || "-"}</dd></div>
+              </dl>
+              <button type="button" className="btn btn-primary btn-xl" onClick={() => share(pdf)}><IconShare /> Email the report</button>
+              <button type="button" className="btn btn-quiet btn-block" onClick={() => download(pdf)}><IconDownload /> Download PDF</button>
+            </div>
             <p className="note">This demo opens your phone&apos;s share sheet so you can pick Mail. In the full version the report is emailed to your office automatically as soon as the visit is signed off.</p>
             <button type="button" className="btn btn-quiet btn-block" onClick={() => start(true)}><IconPlus /> Start the next visit</button>
             <button type="button" className="link" onClick={() => { setScreen("history"); scrollTop(); }}>Past reports</button>

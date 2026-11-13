@@ -1,0 +1,13 @@
+{
+  "_doc": "Manual review of the logo contact sheet. monogram = the scraped image is not this company's logo (partner badge, flyer, another brand); light = white/cream logo, show on an accent tile; source = better file on the company's own site.",
+  "boardwalk-rental-communities": { "light": true, "why": "negative (white) SVG" },
+  "zenith-commercial": { "light": true, "why": "cream mark" },
+  "royal-park-realty": { "source": "https://royalparkrealty.com/wp-content/themes/royalpark/images/logo.png", "why": "header logo is white" },
+  "bos-property-management": { "monogram": true, "why": "site image shows another brand" },
+  "lenyx": { "monogram": true, "why": "site image shows another brand" },
+  "urbanlease": { "monogram": true, "why": "site image shows another brand" },
+  "reliable-property-management": { "monogram": true, "why": "promo flyer, not a logo" },
+  "roots-to-peak-management": { "monogram": true, "why": "CCI membership badge" },
+  "skyline-property-management": { "monogram": true, "why": "CCI membership badge" },
+  "realty-executives-alberta-elite-realty-store": { "monogram": true, "why": "strip of partner logos" }
+}

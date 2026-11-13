@@ -2,10 +2,13 @@
   {
     "slug": "20-20-management",
     "name": "20|20 Management",
-    "accent": "#1f3a5f",
+    "accent": "#347283",
     "city": "Fort McMurray",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Fort McMurray, AB"
+    "sampleAddress": "Fort McMurray, AB",
+    "logo": "logos/20-20-management.png",
+    "logoW": 533,
+    "logoH": 300
   },
   {
     "slug": "accurate-realty-and-property-management",
@@ -18,55 +21,74 @@
   {
     "slug": "acmx-rental-properties",
     "name": "ACMX Rental Properties",
-    "accent": "#1f3a5f",
+    "accent": "#004970",
     "city": "Bonnyville",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Bonnyville, AB"
+    "sampleAddress": "Bonnyville, AB",
+    "logo": "logos/acmx-rental-properties.png",
+    "logoW": 133,
+    "logoH": 56
   },
   {
     "slug": "ag-property-services",
     "name": "AG Property Services",
-    "accent": "#1f3a5f",
+    "accent": "#3679c2",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/ag-property-services.png",
+    "logoW": 900,
+    "logoH": 280
   },
   {
     "slug": "airdrie-housing",
     "name": "Airdrie Housing Limited",
-    "accent": "#1f3a5f",
+    "accent": "#077747",
     "city": "Airdrie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Airdrie, AB"
+    "sampleAddress": "Airdrie, AB",
+    "logo": "logos/airdrie-housing.png",
+    "logoW": 294,
+    "logoH": 101
   },
   {
     "slug": "airdrie-real-estate-rentals",
     "name": "Airdrie Real Estate Rentals",
-    "accent": "#1f3a5f",
+    "accent": "#d90000",
     "city": "Airdrie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Airdrie, AB"
+    "sampleAddress": "Airdrie, AB",
+    "logo": "logos/airdrie-real-estate-rentals.png",
+    "logoW": 224,
+    "logoH": 117
   },
   {
     "slug": "aisling-baile-short-term-rental-management",
     "name": "Aisling Baile Short-Term Rental Management",
-    "accent": "#1f3a5f",
+    "accent": "#277b7f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/aisling-baile-short-term-rental-management.png",
+    "logoW": 170,
+    "logoH": 76,
+    "logoLight": true
   },
   {
     "slug": "alberta-property-management-solutions",
     "name": "Alberta Property Management Solutions Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#cd0009",
     "city": "Fort McMurray",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Fort McMurray, AB"
+    "sampleAddress": "Fort McMurray, AB",
+    "logo": "logos/alberta-property-management-solutions.png",
+    "logoW": 416,
+    "logoH": 108
   },
   {
     "slug": "all-in-one-property-management",
     "name": "All In One Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#134dc7",
     "city": "Blackfalds",
     "sampleProperty": "Sample property",
     "sampleAddress": "Blackfalds, AB"
@@ -74,26 +96,35 @@
   {
     "slug": "alliance-rental-management",
     "name": "Alliance Rental Management",
-    "accent": "#1f3a5f",
+    "accent": "#937734",
     "city": "Taber",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Taber, AB"
+    "sampleAddress": "Taber, AB",
+    "logo": "logos/alliance-rental-management.png",
+    "logoW": 416,
+    "logoH": 300
   },
   {
     "slug": "ally-realty",
     "name": "Ally Realty",
-    "accent": "#1f3a5f",
+    "accent": "#8c6a0e",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/ally-realty.png",
+    "logoW": 785,
+    "logoH": 300
   },
   {
     "slug": "angie-s-best-choice-property-management",
     "name": "Angie's Best Choice Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#920b06",
     "city": "Medicine Hat",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Medicine Hat, AB"
+    "sampleAddress": "Medicine Hat, AB",
+    "logo": "logos/angie-s-best-choice-property-management.png",
+    "logoW": 438,
+    "logoH": 125
   },
   {
     "slug": "anthem-properties-calgary",
@@ -101,119 +132,170 @@
     "accent": "#1f3a5f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/anthem-properties-calgary.png",
+    "logoW": 242,
+    "logoH": 243,
+    "logoLight": true
   },
   {
     "slug": "aof-team-property-management",
     "name": "AOF Team Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#1f1d1b",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/aof-team-property-management.png",
+    "logoW": 388,
+    "logoH": 300
   },
   {
     "slug": "approved-properties-better-homes-and-gardens-rea",
     "name": "Approved Properties (Better Homes and Gardens Real Estate)",
-    "accent": "#1f3a5f",
+    "accent": "#2f8a3f",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/approved-properties-better-homes-and-gardens-rea.png",
+    "logoW": 453,
+    "logoH": 119
   },
   {
     "slug": "asset-west-property-management",
     "name": "Asset West Property Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#3a5b44",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/asset-west-property-management.png",
+    "logoW": 275,
+    "logoH": 41,
+    "logoLight": true
   },
   {
     "slug": "associa-c-era-property-management-and-realty",
     "name": "Associa C-ERA Property Management & Realty",
-    "accent": "#1f3a5f",
+    "accent": "#32675f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/associa-c-era-property-management-and-realty.png",
+    "logoW": 900,
+    "logoH": 286,
+    "logoLight": true
   },
   {
     "slug": "atlas-development",
     "name": "Atlas Development Corporation",
-    "accent": "#1f3a5f",
+    "accent": "#143b7a",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/atlas-development.png",
+    "logoW": 705,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "attainable-homes-calgary",
     "name": "Attainable Homes Calgary",
-    "accent": "#1f3a5f",
+    "accent": "#b72826",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/attainable-homes-calgary.png",
+    "logoW": 140,
+    "logoH": 78
   },
   {
     "slug": "avail-properties",
     "name": "Avail Properties",
-    "accent": "#1f3a5f",
+    "accent": "#d64d18",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/avail-properties.png",
+    "logoW": 395,
+    "logoH": 208
   },
   {
     "slug": "avenue-commercial",
     "name": "Avenue Commercial",
-    "accent": "#1f3a5f",
+    "accent": "#9d6c03",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/avenue-commercial.png",
+    "logoW": 536,
+    "logoH": 106,
+    "logoLight": true
   },
   {
     "slug": "badlands-property-management",
     "name": "Badlands Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#8c7a2f",
     "city": "Drumheller",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Drumheller, AB"
+    "sampleAddress": "Drumheller, AB",
+    "logo": "logos/badlands-property-management.png",
+    "logoW": 217,
+    "logoH": 224
   },
   {
     "slug": "balsam-court",
     "name": "Balsam Court",
-    "accent": "#1f3a5f",
+    "accent": "#583c2c",
     "city": "Hinton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Hinton, AB"
+    "sampleAddress": "Hinton, AB",
+    "logo": "logos/balsam-court.png",
+    "logoW": 423,
+    "logoH": 300
   },
   {
     "slug": "barclay-street-real-estate",
     "name": "Barclay Street Real Estate",
-    "accent": "#1f3a5f",
+    "accent": "#004487",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/barclay-street-real-estate.png",
+    "logoW": 644,
+    "logoH": 256,
+    "logoLight": true
   },
   {
     "slug": "bds-properties",
     "name": "BDS Properties",
-    "accent": "#1f3a5f",
+    "accent": "#cc5252",
     "city": "Strathmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Strathmore, AB"
+    "sampleAddress": "Strathmore, AB",
+    "logo": "logos/bds-properties.png",
+    "logoW": 240,
+    "logoH": 142
   },
   {
     "slug": "beck-real-estate",
     "name": "BECK Real Estate Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#0055a5",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/beck-real-estate.png",
+    "logoW": 258,
+    "logoH": 300
   },
   {
     "slug": "berezan-management",
     "name": "Berezan Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#238343",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/berezan-management.png",
+    "logoW": 227,
+    "logoH": 117
   },
   {
     "slug": "bermont-realty",
@@ -221,44 +303,60 @@
     "accent": "#1f3a5f",
     "city": "St. Albert",
     "sampleProperty": "Sample property",
-    "sampleAddress": "St. Albert, AB"
+    "sampleAddress": "St. Albert, AB",
+    "logo": "logos/bermont-realty.png",
+    "logoW": 245,
+    "logoH": 92
   },
   {
     "slug": "birchwood-equities",
     "name": "Birchwood Equities Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#800020",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/birchwood-equities.png",
+    "logoW": 436,
+    "logoH": 300
   },
   {
     "slug": "black-mountain-property-management",
     "name": "Black Mountain Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#84721e",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/black-mountain-property-management.png",
+    "logoW": 265,
+    "logoH": 300
   },
   {
     "slug": "blackstone-commercial",
     "name": "Blackstone Commercial",
-    "accent": "#1f3a5f",
+    "accent": "#25425b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/blackstone-commercial.png",
+    "logoW": 726,
+    "logoH": 132
   },
   {
     "slug": "boardwalk-rental-communities",
     "name": "Boardwalk Rental Communities",
-    "accent": "#1f3a5f",
+    "accent": "#296fe8",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/boardwalk-rental-communities.png",
+    "logoW": 834,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "bold-property-management",
     "name": "Bold Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#151b26",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -266,15 +364,18 @@
   {
     "slug": "bookcanmore-vacations",
     "name": "BookCanmore Vacations",
-    "accent": "#1f3a5f",
+    "accent": "#887100",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/bookcanmore-vacations.png",
+    "logoW": 501,
+    "logoH": 300
   },
   {
     "slug": "bos-property-management",
     "name": "BOS Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#86775c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -282,63 +383,87 @@
   {
     "slug": "boutique-properties",
     "name": "Boutique Properties",
-    "accent": "#1f3a5f",
+    "accent": "#7f688c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/boutique-properties.png",
+    "logoW": 900,
+    "logoH": 112
   },
   {
     "slug": "bow-property-services",
     "name": "BOW Property Services",
-    "accent": "#1f3a5f",
+    "accent": "#0a3542",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/bow-property-services.png",
+    "logoW": 708,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "bow-realty",
     "name": "Bow Realty",
-    "accent": "#1f3a5f",
+    "accent": "#047d95",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/bow-realty.png",
+    "logoW": 404,
+    "logoH": 300
   },
   {
     "slug": "bow-valley-home-maintenance",
     "name": "Bow Valley Home Maintenance Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#617e7c",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/bow-valley-home-maintenance.png",
+    "logoW": 198,
+    "logoH": 238,
+    "logoLight": true
   },
   {
     "slug": "bradford-property-management-and-realty",
     "name": "Bradford Property Management & Realty Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#387fbb",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/bradford-property-management-and-realty.png",
+    "logoW": 339,
+    "logoH": 158,
+    "logoLight": true
   },
   {
     "slug": "bricks-and-mortar-real-estate",
     "name": "Bricks & Mortar Real Estate",
-    "accent": "#1f3a5f",
+    "accent": "#847430",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/bricks-and-mortar-real-estate.png",
+    "logoW": 285,
+    "logoH": 100
   },
   {
     "slug": "briere-property-management",
     "name": "Briere Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#336699",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/briere-property-management.png",
+    "logoW": 216,
+    "logoH": 82
   },
   {
     "slug": "brooks-housing-society",
     "name": "Brooks Housing Society",
-    "accent": "#1f3a5f",
+    "accent": "#20454f",
     "city": "Brooks",
     "sampleProperty": "Sample property",
     "sampleAddress": "Brooks, AB"
@@ -349,343 +474,480 @@
     "accent": "#1f3a5f",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/burk-management-and-realty.png",
+    "logoW": 83,
+    "logoH": 64
   },
   {
     "slug": "c21-ace-property-management",
     "name": "C21 Ace Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#88794e",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/c21-ace-property-management.png",
+    "logoW": 815,
+    "logoH": 189
   },
   {
     "slug": "calgary-housing-company",
     "name": "Calgary Housing Company",
-    "accent": "#1f3a5f",
+    "accent": "#413724",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/calgary-housing-company.png",
+    "logoW": 900,
+    "logoH": 255
   },
   {
     "slug": "calgary-str-management",
     "name": "Calgary STR Management",
-    "accent": "#1f3a5f",
+    "accent": "#1f4bb1",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/calgary-str-management.png",
+    "logoW": 121,
+    "logoH": 102,
+    "logoLight": true
   },
   {
     "slug": "calnan-core-investment-fund",
     "name": "Calnan / CORE Investment Fund",
-    "accent": "#1f3a5f",
+    "accent": "#926d1e",
     "city": "Lethbridge",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lethbridge, AB"
+    "sampleAddress": "Lethbridge, AB",
+    "logo": "logos/calnan-core-investment-fund.png",
+    "logoW": 900,
+    "logoH": 219
   },
   {
     "slug": "canadian-urban",
     "name": "Canadian Urban Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#aa0313",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/canadian-urban.png",
+    "logoW": 900,
+    "logoH": 283
   },
   {
     "slug": "canmore-host",
     "name": "Canmore Co-Host",
-    "accent": "#1f3a5f",
+    "accent": "#2b3854",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/canmore-host.png",
+    "logoW": 282,
+    "logoH": 300
   },
   {
     "slug": "canmore-premier-property-management",
     "name": "Canmore Premier Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#294071",
     "city": "Dead Man's Flats",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Dead Man's Flats, AB"
+    "sampleAddress": "Dead Man's Flats, AB",
+    "logo": "logos/canmore-premier-property-management.png",
+    "logoW": 833,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "canmore-rental-management",
     "name": "Canmore Rental Management",
-    "accent": "#1f3a5f",
+    "accent": "#8a784b",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/canmore-rental-management.png",
+    "logoW": 309,
+    "logoH": 300
   },
   {
     "slug": "canmore-vacation-properties",
     "name": "Canmore Vacation Properties",
-    "accent": "#1f3a5f",
+    "accent": "#ac6c2d",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/canmore-vacation-properties.png",
+    "logoW": 102,
+    "logoH": 114
   },
   {
     "slug": "capcity-realty-group",
     "name": "Capcity Realty Group",
-    "accent": "#1f3a5f",
+    "accent": "#007da5",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/capcity-realty-group.png",
+    "logoW": 569,
+    "logoH": 178
   },
   {
     "slug": "castor-condos",
     "name": "Castor Condos Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#ca2423",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/castor-condos.png",
+    "logoW": 900,
+    "logoH": 289
   },
   {
     "slug": "celtic-group-of-companies",
     "name": "Celtic Group of Companies",
-    "accent": "#1f3a5f",
+    "accent": "#bd5b4d",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/celtic-group-of-companies.png",
+    "logoW": 331,
+    "logoH": 300
   },
   {
     "slug": "century-21-maximum",
     "name": "Century 21 Maximum",
-    "accent": "#1f3a5f",
+    "accent": "#86775c",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/century-21-maximum.png",
+    "logoW": 900,
+    "logoH": 209
   },
   {
     "slug": "century-21-twin-realty",
     "name": "CENTURY 21 Twin Realty",
-    "accent": "#1f3a5f",
+    "accent": "#8a794b",
     "city": "Edson",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edson, AB"
+    "sampleAddress": "Edson, AB",
+    "logo": "logos/century-21-twin-realty.png",
+    "logoW": 900,
+    "logoH": 223
   },
   {
     "slug": "christenson-developments-christenson-communities",
     "name": "Christenson Developments (Christenson Communities)",
-    "accent": "#1f3a5f",
+    "accent": "#977400",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/christenson-developments-christenson-communities.png",
+    "logoW": 196,
+    "logoH": 43,
+    "logoLight": true
   },
   {
     "slug": "civida",
     "name": "Civida",
-    "accent": "#1f3a5f",
+    "accent": "#277da2",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/civida.png",
+    "logoW": 302,
+    "logoH": 300
   },
   {
     "slug": "clearview-commercial-realty",
     "name": "Clearview Commercial Realty Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#a06c02",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/clearview-commercial-realty.png",
+    "logoW": 900,
+    "logoH": 157,
+    "logoLight": true
   },
   {
     "slug": "cms-real-estate",
     "name": "CMS Real Estate Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#d84245",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/cms-real-estate.png",
+    "logoW": 455,
+    "logoH": 300
   },
   {
     "slug": "cnc-properties",
     "name": "CNC Properties",
-    "accent": "#1f3a5f",
+    "accent": "#357ebc",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/cnc-properties.png",
+    "logoW": 160,
+    "logoH": 112
   },
   {
     "slug": "coldwell-banker-cityside-realty",
     "name": "Coldwell Banker Cityside Realty",
-    "accent": "#1f3a5f",
+    "accent": "#38447e",
     "city": "Lloydminster",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lloydminster, AB"
+    "sampleAddress": "Lloydminster, AB",
+    "logo": "logos/coldwell-banker-cityside-realty.png",
+    "logoW": 365,
+    "logoH": 74,
+    "logoLight": true
   },
   {
     "slug": "continental-realty-and-management",
     "name": "Continental Realty & Management",
-    "accent": "#1f3a5f",
+    "accent": "#4d1d13",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/continental-realty-and-management.png",
+    "logoW": 572,
+    "logoH": 300
   },
   {
     "slug": "corporate-suites-calgary",
     "name": "Corporate Suites Calgary",
-    "accent": "#1f3a5f",
+    "accent": "#801323",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/corporate-suites-calgary.png",
+    "logoW": 504,
+    "logoH": 211
   },
   {
     "slug": "coulee-view-properties",
     "name": "Coulee View Properties",
-    "accent": "#1f3a5f",
+    "accent": "#a94624",
     "city": "Medicine Hat",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Medicine Hat, AB"
+    "sampleAddress": "Medicine Hat, AB",
+    "logo": "logos/coulee-view-properties.png",
+    "logoW": 900,
+    "logoH": 214
   },
   {
     "slug": "creative-rental-solutions",
     "name": "Creative Rental Solutions",
-    "accent": "#1f3a5f",
+    "accent": "#1c83a4",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/creative-rental-solutions.png",
+    "logoW": 302,
+    "logoH": 50
   },
   {
     "slug": "crowsnest-pass-to-md-of-willow-creek-property-ma",
     "name": "Crowsnest Pass to MD of Willow Creek Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#b70c12",
     "city": "Crowsnest Pass",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Crowsnest Pass, AB"
+    "sampleAddress": "Crowsnest Pass, AB",
+    "logo": "logos/crowsnest-pass-to-md-of-willow-creek-property-ma.png",
+    "logoW": 398,
+    "logoH": 300
   },
   {
     "slug": "dcci-management",
     "name": "DCCI Management",
-    "accent": "#1f3a5f",
+    "accent": "#165a73",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/dcci-management.png",
+    "logoW": 196,
+    "logoH": 153
   },
   {
     "slug": "deva-rentals",
     "name": "Deva Rentals",
-    "accent": "#1f3a5f",
+    "accent": "#6c1517",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/deva-rentals.png",
+    "logoW": 294,
+    "logoH": 300
   },
   {
     "slug": "devereaux-property-management-services",
     "name": "Devereaux Property Management Services Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#d0370f",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/devereaux-property-management-services.png",
+    "logoW": 341,
+    "logoH": 300
   },
   {
     "slug": "dgees-management",
     "name": "Dgees Management",
-    "accent": "#1f3a5f",
+    "accent": "#1777b7",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/dgees-management.png",
+    "logoW": 388,
+    "logoH": 140
   },
   {
     "slug": "diamond-management-group",
     "name": "Diamond Management Group Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#896a68",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/diamond-management-group.png",
+    "logoW": 737,
+    "logoH": 216,
+    "logoLight": true
   },
   {
     "slug": "dreamhouse-realty",
     "name": "Dreamhouse Realty",
-    "accent": "#1f3a5f",
+    "accent": "#b80202",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/dreamhouse-realty.png",
+    "logoW": 297,
+    "logoH": 154
   },
   {
     "slug": "edon-management",
     "name": "Edon Management",
-    "accent": "#1f3a5f",
+    "accent": "#0d4d97",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/edon-management.png",
+    "logoW": 162,
+    "logoH": 91
   },
   {
     "slug": "elevate-property-management",
     "name": "Elevate Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#986f24",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/elevate-property-management.png",
+    "logoW": 614,
+    "logoH": 300
   },
   {
     "slug": "elk-and-owl-property-management-services",
     "name": "Elk & Owl Property Management Services",
-    "accent": "#1f3a5f",
+    "accent": "#9b1b1b",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/elk-and-owl-property-management-services.png",
+    "logoW": 797,
+    "logoH": 235,
+    "logoLight": true
   },
   {
     "slug": "epic-investment-services",
     "name": "Epic Investment Services",
-    "accent": "#1f3a5f",
+    "accent": "#458800",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/epic-investment-services.png",
+    "logoW": 500,
+    "logoH": 244
   },
   {
     "slug": "equity-rentals",
     "name": "Equity Rentals",
-    "accent": "#1f3a5f",
+    "accent": "#9a020c",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/equity-rentals.png",
+    "logoW": 900,
+    "logoH": 278
   },
   {
     "slug": "equium-group",
     "name": "Equium Group",
-    "accent": "#1f3a5f",
+    "accent": "#0085af",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/equium-group.png",
+    "logoW": 166,
+    "logoH": 140
   },
   {
     "slug": "excelsior-rentals",
     "name": "Excelsior Rentals",
-    "accent": "#1f3a5f",
+    "accent": "#063b8c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/excelsior-rentals.png",
+    "logoW": 683,
+    "logoH": 300
   },
   {
     "slug": "fairshare-property-management",
     "name": "FairShare Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#438367",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/fairshare-property-management.png",
+    "logoW": 584,
+    "logoH": 163,
+    "logoLight": true
   },
   {
     "slug": "first-choice-property-management",
     "name": "First Choice Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#536c7c",
     "city": "Medicine Hat",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Medicine Hat, AB"
+    "sampleAddress": "Medicine Hat, AB",
+    "logo": "logos/first-choice-property-management.png",
+    "logoW": 900,
+    "logoH": 294
   },
   {
     "slug": "firstservice-residential-calgary",
     "name": "FirstService Residential Calgary",
-    "accent": "#1f3a5f",
+    "accent": "#007ba9",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/firstservice-residential-calgary.png",
+    "logoW": 482,
+    "logoH": 154
   },
   {
     "slug": "fortress-properties",
     "name": "Fortress Properties",
-    "accent": "#1f3a5f",
+    "accent": "#17286d",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/fortress-properties.png",
+    "logoW": 499,
+    "logoH": 129
   },
   {
     "slug": "foundation-property-management",
@@ -693,68 +955,94 @@
     "accent": "#1f3a5f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/foundation-property-management.png",
+    "logoW": 260,
+    "logoH": 65
   },
   {
     "slug": "gartner-management",
     "name": "Gartner Management",
-    "accent": "#1f3a5f",
+    "accent": "#cd0000",
     "city": "Lloydminster",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lloydminster, AB"
+    "sampleAddress": "Lloydminster, AB",
+    "logo": "logos/gartner-management.png",
+    "logoW": 825,
+    "logoH": 300
   },
   {
     "slug": "gef-seniors-housing",
     "name": "GEF Seniors Housing",
-    "accent": "#1f3a5f",
+    "accent": "#ce365b",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/gef-seniors-housing.png",
+    "logoW": 360,
+    "logoH": 152
   },
   {
     "slug": "go-smart-property-managers",
     "name": "Go Smart Property Managers Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#d03f0e",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/go-smart-property-managers.png",
+    "logoW": 267,
+    "logoH": 69
   },
   {
     "slug": "grand-realty-and-management",
     "name": "Grand Realty & Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#2e3291",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/grand-realty-and-management.png",
+    "logoW": 195,
+    "logoH": 90
   },
   {
     "slug": "grande-spirit-foundation",
     "name": "Grande Spirit Foundation",
-    "accent": "#1f3a5f",
+    "accent": "#5e8011",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/grande-spirit-foundation.png",
+    "logoW": 147,
+    "logoH": 134
   },
   {
     "slug": "grassroots-realty-group",
     "name": "Grassroots Realty Group",
-    "accent": "#1f3a5f",
+    "accent": "#ed233d",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/grassroots-realty-group.png",
+    "logoW": 296,
+    "logoH": 296,
+    "logoLight": true
   },
   {
     "slug": "grassroots-realty-south",
     "name": "Grassroots Realty South",
-    "accent": "#1f3a5f",
+    "accent": "#151b26",
     "city": "Lethbridge",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lethbridge, AB"
+    "sampleAddress": "Lethbridge, AB",
+    "logo": "logos/grassroots-realty-south.png",
+    "logoW": 331,
+    "logoH": 125,
+    "logoLight": true
   },
   {
     "slug": "great-west-property-management",
     "name": "Great West Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#1a8772",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -762,114 +1050,159 @@
   {
     "slug": "green-casa-property-management",
     "name": "Green Casa Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#0b4936",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/green-casa-property-management.png",
+    "logoW": 408,
+    "logoH": 116
   },
   {
     "slug": "gsk-properties",
     "name": "GSK Properties",
-    "accent": "#1f3a5f",
+    "accent": "#0b69fd",
     "city": "Spruce Grove",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Spruce Grove, AB"
+    "sampleAddress": "Spruce Grove, AB",
+    "logo": "logos/gsk-properties.png",
+    "logoW": 568,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "hallmark-management",
     "name": "Hallmark Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#004970",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/hallmark-management.png",
+    "logoW": 518,
+    "logoH": 87
   },
   {
     "slug": "hearthstone-management",
     "name": "Hearthstone Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#307e98",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/hearthstone-management.png",
+    "logoW": 900,
+    "logoH": 60
   },
   {
     "slug": "heartland-housing-foundation",
     "name": "Heartland Housing Foundation",
-    "accent": "#1f3a5f",
+    "accent": "#817522",
     "city": "Sherwood Park",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Sherwood Park, AB"
+    "sampleAddress": "Sherwood Park, AB",
+    "logo": "logos/heartland-housing-foundation.png",
+    "logoW": 197,
+    "logoH": 96,
+    "logoLight": true
   },
   {
     "slug": "high-rise-property-management",
     "name": "High Rise Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#8a6d3f",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/high-rise-property-management.png",
+    "logoW": 300,
+    "logoH": 300
   },
   {
     "slug": "hilltop-realty",
     "name": "Hilltop Realty",
-    "accent": "#1f3a5f",
+    "accent": "#3467b2",
     "city": "Strathmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Strathmore, AB"
+    "sampleAddress": "Strathmore, AB",
+    "logo": "logos/hilltop-realty.png",
+    "logoW": 351,
+    "logoH": 300
   },
   {
     "slug": "hollyburn-properties",
     "name": "Hollyburn Properties",
-    "accent": "#1f3a5f",
+    "accent": "#003976",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/hollyburn-properties.png",
+    "logoW": 900,
+    "logoH": 292
   },
   {
     "slug": "homecare-realty",
     "name": "Homecare Realty Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#920c11",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/homecare-realty.png",
+    "logoW": 136,
+    "logoH": 63,
+    "logoLight": true
   },
   {
     "slug": "homevest-property-management",
     "name": "HomeVest Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#ae5a09",
     "city": "Sherwood Park",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Sherwood Park, AB"
+    "sampleAddress": "Sherwood Park, AB",
+    "logo": "logos/homevest-property-management.png",
+    "logoW": 300,
+    "logoH": 300
   },
   {
     "slug": "homewatch-medicine-hat",
     "name": "Homewatch Medicine Hat",
-    "accent": "#1f3a5f",
+    "accent": "#1b1bd3",
     "city": "Medicine Hat",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Medicine Hat, AB"
+    "sampleAddress": "Medicine Hat, AB",
+    "logo": "logos/homewatch-medicine-hat.png",
+    "logoW": 250,
+    "logoH": 80
   },
   {
     "slug": "hughes-commercial-realty-group",
     "name": "Hughes Commercial Realty Group",
-    "accent": "#1f3a5f",
+    "accent": "#91712e",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/hughes-commercial-realty-group.png",
+    "logoW": 900,
+    "logoH": 289
   },
   {
     "slug": "imperial-suites",
     "name": "Imperial Suites",
-    "accent": "#1f3a5f",
+    "accent": "#28485d",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/imperial-suites.png",
+    "logoW": 489,
+    "logoH": 181
   },
   {
     "slug": "inland-property-management",
     "name": "Inland Property Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#491d1d",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/inland-property-management.png",
+    "logoW": 855,
+    "logoH": 165
   },
   {
     "slug": "itrs-test",
@@ -882,95 +1215,130 @@
   {
     "slug": "jems-condo-management",
     "name": "Jems Condo Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#18489c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/jems-condo-management.png",
+    "logoW": 735,
+    "logoH": 300
   },
   {
     "slug": "kennington-properties",
     "name": "Kennington Properties Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#233e85",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/kennington-properties.png",
+    "logoW": 844,
+    "logoH": 124,
+    "logoLight": true
   },
   {
     "slug": "key-condo-management",
     "name": "Key Condo Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#1a7d90",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/key-condo-management.png",
+    "logoW": 200,
+    "logoH": 160
   },
   {
     "slug": "key-investment-property-management",
     "name": "Key Investment Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#637827",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/key-investment-property-management.png",
+    "logoW": 881,
+    "logoH": 194
   },
   {
     "slug": "kidder-and-company-real-estate-and-property-mana",
     "name": "Kidder & Company Real Estate and Property Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#562d82",
     "city": "Cochrane",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Cochrane, AB"
+    "sampleAddress": "Cochrane, AB",
+    "logo": "logos/kidder-and-company-real-estate-and-property-mana.png",
+    "logoW": 110,
+    "logoH": 32
   },
   {
     "slug": "killam-apartment-reit",
     "name": "Killam Apartment REIT",
-    "accent": "#1f3a5f",
+    "accent": "#4b852a",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/killam-apartment-reit.png",
+    "logoW": 164,
+    "logoH": 50,
+    "logoLight": true
   },
   {
     "slug": "kirin-realty-and-management",
     "name": "Kirin Realty & Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#007da7",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/kirin-realty-and-management.png",
+    "logoW": 814,
+    "logoH": 235
   },
   {
     "slug": "kyan-properties",
     "name": "KYAN Properties",
-    "accent": "#1f3a5f",
+    "accent": "#89730e",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/kyan-properties.png",
+    "logoW": 317,
+    "logoH": 300
   },
   {
     "slug": "laebon-rental-communities",
     "name": "Laebon Rental Communities",
-    "accent": "#1f3a5f",
+    "accent": "#313a54",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/laebon-rental-communities.png",
+    "logoW": 301,
+    "logoH": 42
   },
   {
     "slug": "larlyn-property-management",
     "name": "Larlyn Property Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#d33541",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/larlyn-property-management.png",
+    "logoW": 459,
+    "logoH": 118
   },
   {
     "slug": "leduc-op-properties",
     "name": "Leduc Co-op Properties",
-    "accent": "#1f3a5f",
+    "accent": "#8f6e6e",
     "city": "Leduc",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Leduc, AB"
+    "sampleAddress": "Leduc, AB",
+    "logo": "logos/leduc-op-properties.png",
+    "logoW": 108,
+    "logoH": 59
   },
   {
     "slug": "lenyx",
     "name": "Lenyx Corp.",
-    "accent": "#1f3a5f",
+    "accent": "#8d6a16",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -978,15 +1346,18 @@
   {
     "slug": "lesser-slave-lake-regional-housing-authority",
     "name": "Lesser Slave Lake Regional Housing Authority",
-    "accent": "#1f3a5f",
+    "accent": "#2e3760",
     "city": "Slave Lake",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Slave Lake, AB"
+    "sampleAddress": "Slave Lake, AB",
+    "logo": "logos/lesser-slave-lake-regional-housing-authority.png",
+    "logoW": 280,
+    "logoH": 278
   },
   {
     "slug": "lions-village-bethany",
     "name": "Lions Village (Bethany)",
-    "accent": "#1f3a5f",
+    "accent": "#1e73be",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -994,55 +1365,75 @@
   {
     "slug": "live-furnished",
     "name": "Live Furnished",
-    "accent": "#1f3a5f",
+    "accent": "#987107",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/live-furnished.png",
+    "logoW": 180,
+    "logoH": 96
   },
   {
     "slug": "lizotte-real-estate",
     "name": "Lizotte Real Estate",
-    "accent": "#1f3a5f",
+    "accent": "#a37001",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/lizotte-real-estate.png",
+    "logoW": 900,
+    "logoH": 201,
+    "logoLight": true
   },
   {
     "slug": "lloydminster-region-housing-group",
     "name": "Lloydminster Region Housing Group",
-    "accent": "#1f3a5f",
+    "accent": "#883845",
     "city": "Lloydminster",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lloydminster, AB"
+    "sampleAddress": "Lloydminster, AB",
+    "logo": "logos/lloydminster-region-housing-group.png",
+    "logoW": 450,
+    "logoH": 84
   },
   {
     "slug": "mac-s-realty-and-property-management",
     "name": "Mac's Realty Ltd. & Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#767257",
     "city": "Lloydminster",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lloydminster, AB"
+    "sampleAddress": "Lloydminster, AB",
+    "logo": "logos/mac-s-realty-and-property-management.png",
+    "logoW": 274,
+    "logoH": 109
   },
   {
     "slug": "maclab-development-group",
     "name": "Maclab Development Group",
-    "accent": "#1f3a5f",
+    "accent": "#007bb0",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/maclab-development-group.png",
+    "logoW": 862,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "magnum-york-property-management-associa",
     "name": "Magnum York Property Management (Associa)",
-    "accent": "#1f3a5f",
+    "accent": "#288c46",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/magnum-york-property-management-associa.png",
+    "logoW": 481,
+    "logoH": 90
   },
   {
     "slug": "mainstreet-equity",
     "name": "Mainstreet Equity Corp.",
-    "accent": "#1f3a5f",
+    "accent": "#007078",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -1050,42 +1441,58 @@
   {
     "slug": "manchester-properties",
     "name": "Manchester Properties",
-    "accent": "#1f3a5f",
+    "accent": "#151b26",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/manchester-properties.png",
+    "logoW": 900,
+    "logoH": 281,
+    "logoLight": true
   },
   {
     "slug": "manhattan-realty",
     "name": "Manhattan Realty Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#e1341d",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/manhattan-realty.png",
+    "logoW": 900,
+    "logoH": 204
   },
   {
     "slug": "mastre-property-management",
     "name": "Mastre Property Management Ltd",
-    "accent": "#1f3a5f",
+    "accent": "#2362aa",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/mastre-property-management.png",
+    "logoW": 900,
+    "logoH": 260
   },
   {
     "slug": "maxwell-horizon",
     "name": "Maxwell Horizon",
-    "accent": "#1f3a5f",
+    "accent": "#d0202f",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/maxwell-horizon.png",
+    "logoW": 581,
+    "logoH": 300
   },
   {
     "slug": "mccrae-property-management",
     "name": "McCrae Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#678222",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/mccrae-property-management.png",
+    "logoW": 181,
+    "logoH": 107
   },
   {
     "slug": "melcor-developments",
@@ -1098,122 +1505,170 @@
   {
     "slug": "melissa-juneau-realty-and-property-management",
     "name": "Melissa Juneau Realty & Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#8f6a27",
     "city": "Okotoks",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Okotoks, AB"
+    "sampleAddress": "Okotoks, AB",
+    "logo": "logos/melissa-juneau-realty-and-property-management.png",
+    "logoW": 623,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "metro-region-property-management",
     "name": "Metro Region Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#b25f00",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/metro-region-property-management.png",
+    "logoW": 382,
+    "logoH": 300
   },
   {
     "slug": "midwest-property-management",
     "name": "Midwest Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#9a7000",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/midwest-property-management.png",
+    "logoW": 101,
+    "logoH": 137
   },
   {
     "slug": "mission-management",
     "name": "Mission Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#a16708",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/mission-management.png",
+    "logoW": 279,
+    "logoH": 64
   },
   {
     "slug": "monday-management",
     "name": "Monday Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#283878",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/monday-management.png",
+    "logoW": 102,
+    "logoH": 114
   },
   {
     "slug": "nearctic-property-group",
     "name": "Nearctic Property Group",
-    "accent": "#1f3a5f",
+    "accent": "#be1d2c",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/nearctic-property-group.png",
+    "logoW": 900,
+    "logoH": 177,
+    "logoLight": true
   },
   {
     "slug": "new-concept-management",
     "name": "New Concept Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#67263c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/new-concept-management.png",
+    "logoW": 595,
+    "logoH": 109
   },
   {
     "slug": "new-imperial-suites",
     "name": "New Imperial Suites",
-    "accent": "#1f3a5f",
+    "accent": "#b65a10",
     "city": "Wetaskiwin",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Wetaskiwin, AB"
+    "sampleAddress": "Wetaskiwin, AB",
+    "logo": "logos/new-imperial-suites.png",
+    "logoW": 340,
+    "logoH": 300
   },
   {
     "slug": "new-leaf-properties",
     "name": "New Leaf Properties Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#458133",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/new-leaf-properties.png",
+    "logoW": 540,
+    "logoH": 166
   },
   {
     "slug": "nomadics",
     "name": "Nomadics",
-    "accent": "#1f3a5f",
+    "accent": "#0b759c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/nomadics.png",
+    "logoW": 900,
+    "logoH": 222,
+    "logoLight": true
   },
   {
     "slug": "nps-group-newpowersky",
     "name": "NPS Group (NewPowerSky)",
-    "accent": "#1f3a5f",
+    "accent": "#198591",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/nps-group-newpowersky.png",
+    "logoW": 248,
+    "logoH": 243
   },
   {
     "slug": "onward-homes",
     "name": "Onward Homes",
-    "accent": "#1f3a5f",
+    "accent": "#087583",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/onward-homes.png",
+    "logoW": 900,
+    "logoH": 288
   },
   {
     "slug": "opus",
     "name": "OPUS Corporation",
-    "accent": "#1f3a5f",
+    "accent": "#8a2529",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/opus.png",
+    "logoW": 352,
+    "logoH": 90
   },
   {
     "slug": "osonco-property",
     "name": "Osonco Property",
-    "accent": "#1f3a5f",
+    "accent": "#1f837b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/osonco-property.png",
+    "logoW": 138,
+    "logoH": 56
   },
   {
     "slug": "otb-properties-otb-investments",
     "name": "OTB Properties (OTB Investments Inc.)",
-    "accent": "#1f3a5f",
+    "accent": "#0057e1",
     "city": "Camrose",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Camrose, AB"
+    "sampleAddress": "Camrose, AB",
+    "logo": "logos/otb-properties-otb-investments.png",
+    "logoW": 741,
+    "logoH": 300
   },
   {
     "slug": "palliser-realty-and-management",
@@ -1221,180 +1676,249 @@
     "accent": "#1f3a5f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/palliser-realty-and-management.png",
+    "logoW": 708,
+    "logoH": 300
   },
   {
     "slug": "pangman-development",
     "name": "Pangman Development Corporation",
-    "accent": "#1f3a5f",
+    "accent": "#6f8057",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/pangman-development.png",
+    "logoW": 900,
+    "logoH": 160
   },
   {
     "slug": "panterra-developments",
     "name": "Panterra Developments Corp.",
-    "accent": "#1f3a5f",
+    "accent": "#283b62",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/panterra-developments.png",
+    "logoW": 900,
+    "logoH": 297
   },
   {
     "slug": "paradox-apartments",
     "name": "The Paradox Apartments",
-    "accent": "#1f3a5f",
+    "accent": "#846d31",
     "city": "Camrose",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Camrose, AB"
+    "sampleAddress": "Camrose, AB",
+    "logo": "logos/paradox-apartments.png",
+    "logoW": 260,
+    "logoH": 49
   },
   {
     "slug": "park-property-management-group",
     "name": "Park Property Management Group",
-    "accent": "#1f3a5f",
+    "accent": "#897356",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/park-property-management-group.png",
+    "logoW": 379,
+    "logoH": 114
   },
   {
     "slug": "parkland-foundation",
     "name": "Parkland Foundation",
-    "accent": "#1f3a5f",
+    "accent": "#640833",
     "city": "Innisfail",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Innisfail, AB"
+    "sampleAddress": "Innisfail, AB",
+    "logo": "logos/parkland-foundation.png",
+    "logoW": 466,
+    "logoH": 56
   },
   {
     "slug": "partners-properties",
     "name": "Partners Properties Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#447890",
     "city": "Okotoks",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Okotoks, AB"
+    "sampleAddress": "Okotoks, AB",
+    "logo": "logos/partners-properties.png",
+    "logoW": 269,
+    "logoH": 71,
+    "logoLight": true
   },
   {
     "slug": "pinnacle-realty-and-management",
     "name": "Pinnacle Realty & Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#286af6",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/pinnacle-realty-and-management.png",
+    "logoW": 328,
+    "logoH": 91
   },
   {
     "slug": "plainsmen-property-management",
     "name": "Plainsmen Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#a93736",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/plainsmen-property-management.png",
+    "logoW": 230,
+    "logoH": 41
   },
   {
     "slug": "prairie-management-and-realty",
     "name": "Prairie Management & Realty Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#a27107",
     "city": "Okotoks",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Okotoks, AB"
+    "sampleAddress": "Okotoks, AB",
+    "logo": "logos/prairie-management-and-realty.png",
+    "logoW": 300,
+    "logoH": 66
   },
   {
     "slug": "precise-property-management",
     "name": "Precise Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#318170",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/precise-property-management.png",
+    "logoW": 643,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "prestigious-properties-canada",
     "name": "Prestigious Properties Canada Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#886c00",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/prestigious-properties-canada.png",
+    "logoW": 161,
+    "logoH": 79
   },
   {
     "slug": "prime-property-management",
     "name": "Prime Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#1d5565",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/prime-property-management.png",
+    "logoW": 245,
+    "logoH": 52
   },
   {
     "slug": "prince-property",
     "name": "Prince Property Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#082d6e",
     "city": "Sherwood Park",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Sherwood Park, AB"
+    "sampleAddress": "Sherwood Park, AB",
+    "logo": "logos/prince-property.png",
+    "logoW": 502,
+    "logoH": 91
   },
   {
     "slug": "progressive-property-management",
     "name": "Progressive Property Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#ba5004",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/progressive-property-management.png",
+    "logoW": 291,
+    "logoH": 300
   },
   {
     "slug": "property-masters",
     "name": "Property Masters",
-    "accent": "#1f3a5f",
+    "accent": "#147d93",
     "city": "Sherwood Park",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Sherwood Park, AB"
+    "sampleAddress": "Sherwood Park, AB",
+    "logo": "logos/property-masters.png",
+    "logoW": 265,
+    "logoH": 300
   },
   {
     "slug": "property-shop",
     "name": "The Property Shop Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#0581b5",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/property-shop.png",
+    "logoW": 463,
+    "logoH": 95,
+    "logoLight": true
   },
   {
     "slug": "propfit-property-management",
     "name": "PropFit Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#008070",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/propfit-property-management.png",
+    "logoW": 321,
+    "logoH": 300
   },
   {
     "slug": "quarter-park-management",
     "name": "Quarter Park Management",
-    "accent": "#1f3a5f",
+    "accent": "#03456a",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/quarter-park-management.png",
+    "logoW": 500,
+    "logoH": 76
   },
   {
     "slug": "r-living",
     "name": "R Living",
-    "accent": "#1f3a5f",
+    "accent": "#3c8284",
     "city": "Banff",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Banff, AB"
+    "sampleAddress": "Banff, AB",
+    "logo": "logos/r-living.png",
+    "logoW": 251,
+    "logoH": 300
   },
   {
     "slug": "race-real-estate",
     "name": "Race Real Estate",
-    "accent": "#1f3a5f",
+    "accent": "#10367d",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/race-real-estate.png",
+    "logoW": 384,
+    "logoH": 30
   },
   {
     "slug": "rancho-management-services-alberta",
     "name": "Rancho Management Services (Alberta) Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#a76200",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/rancho-management-services-alberta.png",
+    "logoW": 261,
+    "logoH": 37
   },
   {
     "slug": "rc-condo-management",
     "name": "RC Condo Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#151b26",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -1402,47 +1926,62 @@
   {
     "slug": "re-max-boxshaw-realty-edson",
     "name": "RE/MAX Boxshaw Realty Edson",
-    "accent": "#1f3a5f",
+    "accent": "#dc1c2e",
     "city": "Edson",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edson, AB"
+    "sampleAddress": "Edson, AB",
+    "logo": "logos/re-max-boxshaw-realty-edson.png",
+    "logoW": 291,
+    "logoH": 54
   },
   {
     "slug": "re-max-commercial-properties-property-management",
     "name": "RE/MAX Commercial Properties (Property Management)",
-    "accent": "#1f3a5f",
+    "accent": "#dc1c2e",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/re-max-commercial-properties-property-management.png",
+    "logoW": 726,
+    "logoH": 300
   },
   {
     "slug": "re-max-edge-realty-and-property-management",
     "name": "RE/MAX Edge Realty and Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#8c0d0e",
     "city": "Fort Saskatchewan",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Fort Saskatchewan, AB"
+    "sampleAddress": "Fort Saskatchewan, AB",
+    "logo": "logos/re-max-edge-realty-and-property-management.png",
+    "logoW": 164,
+    "logoH": 88
   },
   {
     "slug": "real-living-estates",
     "name": "Real Living Estates Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#9f6b06",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/real-living-estates.png",
+    "logoW": 900,
+    "logoH": 170
   },
   {
     "slug": "realty-72",
     "name": "Realty 72",
-    "accent": "#1f3a5f",
+    "accent": "#006fe6",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/realty-72.png",
+    "logoW": 896,
+    "logoH": 240
   },
   {
     "slug": "realty-executives-alberta-elite-realty-store",
     "name": "Realty Executives Alberta Elite (The Realty Store)",
-    "accent": "#1f3a5f",
+    "accent": "#e02b20",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
     "sampleAddress": "Red Deer, AB"
@@ -1450,47 +1989,62 @@
   {
     "slug": "realty-executives-focus-realty-focus",
     "name": "Realty Executives Focus (Realty Focus)",
-    "accent": "#1f3a5f",
+    "accent": "#2c577a",
     "city": "Sherwood Park",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Sherwood Park, AB"
+    "sampleAddress": "Sherwood Park, AB",
+    "logo": "logos/realty-executives-focus-realty-focus.png",
+    "logoW": 810,
+    "logoH": 300
   },
   {
     "slug": "realty-group-western-realty-group",
     "name": "Realty Group (Western Realty Group)",
-    "accent": "#1f3a5f",
+    "accent": "#d60000",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/realty-group-western-realty-group.png",
+    "logoW": 900,
+    "logoH": 168
   },
   {
     "slug": "realty-key-group-condominium-management",
     "name": "Realty Key Group Condominium Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#875827",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/realty-key-group-condominium-management.png",
+    "logoW": 250,
+    "logoH": 121
   },
   {
     "slug": "red-key-realty-and-property-management",
     "name": "Red Key Realty & Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#006fe6",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/red-key-realty-and-property-management.png",
+    "logoW": 900,
+    "logoH": 199
   },
   {
     "slug": "regency-developments",
     "name": "Regency Developments",
-    "accent": "#1f3a5f",
+    "accent": "#997305",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/regency-developments.png",
+    "logoW": 180,
+    "logoH": 147
   },
   {
     "slug": "reliable-property-management",
     "name": "Reliable Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#154d57",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
     "sampleAddress": "Edmonton, AB"
@@ -1498,95 +2052,132 @@
   {
     "slug": "renaissance-management",
     "name": "Renaissance Management",
-    "accent": "#1f3a5f",
+    "accent": "#c55515",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/renaissance-management.png",
+    "logoW": 209,
+    "logoH": 64,
+    "logoLight": true
   },
   {
     "slug": "rent-xs",
     "name": "Rent XS",
-    "accent": "#1f3a5f",
+    "accent": "#946f22",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/rent-xs.png",
+    "logoW": 188,
+    "logoH": 47
   },
   {
     "slug": "rentals-in-rockies",
     "name": "Rentals in the Rockies",
-    "accent": "#1f3a5f",
+    "accent": "#498115",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/rentals-in-rockies.png",
+    "logoW": 493,
+    "logoH": 84,
+    "logoLight": true
   },
   {
     "slug": "rentals-real-estate-district",
     "name": "Rentals @ The Real Estate District",
-    "accent": "#1f3a5f",
+    "accent": "#0085ac",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/rentals-real-estate-district.png",
+    "logoW": 568,
+    "logoH": 231
   },
   {
     "slug": "rimrock-condo-management",
     "name": "Rimrock Condo Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#2f2d67",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/rimrock-condo-management.png",
+    "logoW": 292,
+    "logoH": 290
   },
   {
     "slug": "rimrock-property-management",
     "name": "Rimrock Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#151b26",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/rimrock-property-management.png",
+    "logoW": 150,
+    "logoH": 150,
+    "logoLight": true
   },
   {
     "slug": "rivercity-property-group",
     "name": "RiverCity Property Group",
-    "accent": "#1f3a5f",
+    "accent": "#bf622a",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/rivercity-property-group.png",
+    "logoW": 709,
+    "logoH": 210
   },
   {
     "slug": "riverpark-properties",
     "name": "Riverpark Properties Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#588022",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/riverpark-properties.png",
+    "logoW": 900,
+    "logoH": 140
   },
   {
     "slug": "rlm-financial",
     "name": "RLM Financial Limited",
-    "accent": "#1f3a5f",
+    "accent": "#0046ff",
     "city": "Cold Lake",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Cold Lake, AB"
+    "sampleAddress": "Cold Lake, AB",
+    "logo": "logos/rlm-financial.png",
+    "logoW": 173,
+    "logoH": 173,
+    "logoLight": true
   },
   {
     "slug": "rlmr-holdings",
     "name": "RLMR Holdings Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#243c58",
     "city": "Ponoka",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Ponoka, AB"
+    "sampleAddress": "Ponoka, AB",
+    "logo": "logos/rlmr-holdings.png",
+    "logoW": 367,
+    "logoH": 227
   },
   {
     "slug": "rockies-rentals",
     "name": "Rockies Rentals",
-    "accent": "#1f3a5f",
+    "accent": "#737912",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/rockies-rentals.png",
+    "logoW": 540,
+    "logoH": 250
   },
   {
     "slug": "roots-to-peak-management",
     "name": "Roots to Peak Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#054277",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
     "sampleAddress": "Edmonton, AB"
@@ -1594,111 +2185,152 @@
   {
     "slug": "royal-lepage-progressive-realty-slave-lake",
     "name": "Royal LePage Progressive Realty (Slave Lake)",
-    "accent": "#1f3a5f",
+    "accent": "#e71825",
     "city": "Slave Lake",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Slave Lake, AB"
+    "sampleAddress": "Slave Lake, AB",
+    "logo": "logos/royal-lepage-progressive-realty-slave-lake.png",
+    "logoW": 734,
+    "logoH": 300
   },
   {
     "slug": "royal-lepage-property-management-grande-prairie",
     "name": "Royal LePage Property Management Grande Prairie",
-    "accent": "#1f3a5f",
+    "accent": "#e12120",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/royal-lepage-property-management-grande-prairie.png",
+    "logoW": 168,
+    "logoH": 110
   },
   {
     "slug": "royal-park-realty",
     "name": "Royal Park Realty",
-    "accent": "#1f3a5f",
+    "accent": "#c32a1b",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/royal-park-realty.png",
+    "logoW": 350,
+    "logoH": 123
   },
   {
     "slug": "royop-development",
     "name": "Royop Development Corporation",
-    "accent": "#1f3a5f",
+    "accent": "#cf4f00",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/royop-development.png",
+    "logoW": 177,
+    "logoH": 300
   },
   {
     "slug": "ryco-properties",
     "name": "RYCO Properties",
-    "accent": "#1f3a5f",
+    "accent": "#661f33",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/ryco-properties.png",
+    "logoW": 300,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "s-and-t-properties",
     "name": "S&T Properties",
-    "accent": "#1f3a5f",
+    "accent": "#003d67",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/s-and-t-properties.png",
+    "logoW": 399,
+    "logoH": 300
   },
   {
     "slug": "salomons-commercial",
     "name": "Salomons Commercial",
-    "accent": "#1f3a5f",
+    "accent": "#aa6917",
     "city": "Red Deer",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Red Deer, AB"
+    "sampleAddress": "Red Deer, AB",
+    "logo": "logos/salomons-commercial.png",
+    "logoW": 900,
+    "logoH": 164
   },
   {
     "slug": "servis-realty",
     "name": "Servis Realty Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#e01fa0",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/servis-realty.png",
+    "logoW": 500,
+    "logoH": 104
   },
   {
     "slug": "shift-real-estate-investments-shift-rei",
     "name": "Shift Real Estate Investments (Shift REI)",
-    "accent": "#1f3a5f",
+    "accent": "#b62026",
     "city": "Lethbridge",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lethbridge, AB"
+    "sampleAddress": "Lethbridge, AB",
+    "logo": "logos/shift-real-estate-investments-shift-rei.png",
+    "logoW": 874,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "silvera-for-seniors",
     "name": "Silvera for Seniors",
-    "accent": "#1f3a5f",
+    "accent": "#0082c0",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/silvera-for-seniors.png",
+    "logoW": 900,
+    "logoH": 170
   },
   {
     "slug": "simco-management-calgary",
     "name": "Simco Management (Calgary) Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#837741",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/simco-management-calgary.png",
+    "logoW": 154,
+    "logoH": 73
   },
   {
     "slug": "simco-management-edmonton",
     "name": "Simco Management (Edmonton) Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#816f19",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/simco-management-edmonton.png",
+    "logoW": 168,
+    "logoH": 177
   },
   {
     "slug": "sitler-property-management",
     "name": "Sitler Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#16384f",
     "city": "Camrose",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Camrose, AB"
+    "sampleAddress": "Camrose, AB",
+    "logo": "logos/sitler-property-management.png",
+    "logoW": 300,
+    "logoH": 161
   },
   {
     "slug": "skyline-property-management",
     "name": "Skyline Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#94733a",
     "city": "Sherwood Park",
     "sampleProperty": "Sample property",
     "sampleAddress": "Sherwood Park, AB"
@@ -1706,130 +2338,180 @@
   {
     "slug": "sprout-properties",
     "name": "Sprout Properties",
-    "accent": "#1f3a5f",
+    "accent": "#627a3b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/sprout-properties.png",
+    "logoW": 375,
+    "logoH": 82
   },
   {
     "slug": "ssr-property-management-samsara-canmore",
     "name": "SSR Property Management (Samsara Canmore)",
-    "accent": "#1f3a5f",
+    "accent": "#3d5975",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/ssr-property-management-samsara-canmore.png",
+    "logoW": 365,
+    "logoH": 300
   },
   {
     "slug": "st-regis-management-cold-lake-office",
     "name": "St. Regis Management Inc. (Cold Lake office)",
-    "accent": "#1f3a5f",
+    "accent": "#275293",
     "city": "Cold Lake",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Cold Lake, AB"
+    "sampleAddress": "Cold Lake, AB",
+    "logo": "logos/st-regis-management-cold-lake-office.png",
+    "logoW": 394,
+    "logoH": 154
   },
   {
     "slug": "starks-property",
     "name": "Starks Property",
-    "accent": "#1f3a5f",
+    "accent": "#cc2127",
     "city": "Medicine Hat",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Medicine Hat, AB"
+    "sampleAddress": "Medicine Hat, AB",
+    "logo": "logos/starks-property.png",
+    "logoW": 267,
+    "logoH": 76
   },
   {
     "slug": "stevera-property-management",
     "name": "Stevera Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#10559a",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/stevera-property-management.png",
+    "logoW": 900,
+    "logoH": 136
   },
   {
     "slug": "stoneridge-mountain-resort",
     "name": "Stoneridge Mountain Resort",
-    "accent": "#1f3a5f",
+    "accent": "#005c7b",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/stoneridge-mountain-resort.png",
+    "logoW": 146,
+    "logoH": 52
   },
   {
     "slug": "strategic-group",
     "name": "Strategic Group",
-    "accent": "#1f3a5f",
+    "accent": "#063b42",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/strategic-group.png",
+    "logoW": 900,
+    "logoH": 105
   },
   {
     "slug": "streetwise-property-management",
     "name": "Streetwise Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#6d2773",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/streetwise-property-management.png",
+    "logoW": 245,
+    "logoH": 71
   },
   {
     "slug": "student-housing-calgary",
     "name": "Student Housing Calgary",
-    "accent": "#1f3a5f",
+    "accent": "#d33c00",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/student-housing-calgary.png",
+    "logoW": 900,
+    "logoH": 207
   },
   {
     "slug": "summit-lethbridge-summit-property-group",
     "name": "Summit Lethbridge (Summit Property Group)",
-    "accent": "#1f3a5f",
+    "accent": "#2273b2",
     "city": "Lethbridge",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Lethbridge, AB"
+    "sampleAddress": "Lethbridge, AB",
+    "logo": "logos/summit-lethbridge-summit-property-group.png",
+    "logoW": 462,
+    "logoH": 270
   },
   {
     "slug": "sunrise-estate-services",
     "name": "Sunrise Estate Services",
-    "accent": "#1f3a5f",
+    "accent": "#b85c06",
     "city": "Stony Plain",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Stony Plain, AB"
+    "sampleAddress": "Stony Plain, AB",
+    "logo": "logos/sunrise-estate-services.png",
+    "logoW": 300,
+    "logoH": 203,
+    "logoLight": true
   },
   {
     "slug": "sunset-properties-alberta",
     "name": "Sunset Properties Alberta",
-    "accent": "#1f3a5f",
+    "accent": "#74735b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/sunset-properties-alberta.png",
+    "logoW": 900,
+    "logoH": 274
   },
   {
     "slug": "sutton-group-grande-prairie-property-management",
     "name": "Sutton Group Grande Prairie Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#ea2c3a",
     "city": "Grande Prairie",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Grande Prairie, AB"
+    "sampleAddress": "Grande Prairie, AB",
+    "logo": "logos/sutton-group-grande-prairie-property-management.png",
+    "logoW": 900,
+    "logoH": 199
   },
   {
     "slug": "synterra-realty",
     "name": "Synterra Realty",
-    "accent": "#1f3a5f",
+    "accent": "#85712b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/synterra-realty.png",
+    "logoW": 655,
+    "logoH": 190
   },
   {
     "slug": "tanner-properties",
     "name": "Tanner Properties",
-    "accent": "#1f3a5f",
+    "accent": "#b4560f",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/tanner-properties.png",
+    "logoW": 900,
+    "logoH": 111
   },
   {
     "slug": "taurus-property-group",
     "name": "Taurus Property Group",
-    "accent": "#1f3a5f",
+    "accent": "#003462",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/taurus-property-group.png",
+    "logoW": 145,
+    "logoH": 78,
+    "logoLight": true
   },
   {
     "slug": "tega-property-management",
@@ -1842,95 +2524,129 @@
   {
     "slug": "telsec-property",
     "name": "Telsec Property Corporation",
-    "accent": "#1f3a5f",
+    "accent": "#5b4e96",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/telsec-property.png",
+    "logoW": 285,
+    "logoH": 284
   },
   {
     "slug": "three-by-three",
     "name": "Three by Three Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#28884f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/three-by-three.png",
+    "logoW": 150,
+    "logoH": 88
   },
   {
     "slug": "tillyard-management",
     "name": "Tillyard Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#906a0b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/tillyard-management.png",
+    "logoW": 193,
+    "logoH": 79
   },
   {
     "slug": "tmv-property-group",
     "name": "TMV Property Group Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#151b26",
     "city": "Medicine Hat",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Medicine Hat, AB"
+    "sampleAddress": "Medicine Hat, AB",
+    "logo": "logos/tmv-property-group.png",
+    "logoW": 216,
+    "logoH": 143
   },
   {
     "slug": "township-collective",
     "name": "Township Collective",
-    "accent": "#1f3a5f",
+    "accent": "#8d6f38",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/township-collective.png",
+    "logoW": 900,
+    "logoH": 111
   },
   {
     "slug": "tristone-property-management",
     "name": "Tristone Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#01629b",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/tristone-property-management.png",
+    "logoW": 498,
+    "logoH": 134
   },
   {
     "slug": "truman-rentals",
     "name": "Truman Rentals",
-    "accent": "#1f3a5f",
+    "accent": "#d70e70",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/truman-rentals.png",
+    "logoW": 900,
+    "logoH": 185,
+    "logoLight": true
   },
   {
     "slug": "unison-realty-group",
     "name": "Unison Realty Group",
-    "accent": "#1f3a5f",
+    "accent": "#013e85",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/unison-realty-group.png",
+    "logoW": 181,
+    "logoH": 123
   },
   {
     "slug": "upskill-condominium-advisory",
     "name": "Upskill Condominium Advisory Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#1a1a1a",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/upskill-condominium-advisory.png",
+    "logoW": 545,
+    "logoH": 300
   },
   {
     "slug": "urban-dwellings",
     "name": "Urban Dwellings",
-    "accent": "#1f3a5f",
+    "accent": "#841f27",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/urban-dwellings.png",
+    "logoW": 530,
+    "logoH": 300
   },
   {
     "slug": "urban-suites-calgary",
     "name": "Urban Suites Calgary",
-    "accent": "#1f3a5f",
+    "accent": "#cc450f",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/urban-suites-calgary.png",
+    "logoW": 768,
+    "logoH": 300
   },
   {
     "slug": "urbanlease",
     "name": "UrbanLease",
-    "accent": "#1f3a5f",
+    "accent": "#0a7b6c",
     "city": "Calgary",
     "sampleProperty": "Sample property",
     "sampleAddress": "Calgary, AB"
@@ -1938,111 +2654,153 @@
   {
     "slug": "vip-realty-and-management",
     "name": "VIP Realty & Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#997522",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/vip-realty-and-management.png",
+    "logoW": 439,
+    "logoH": 300
   },
   {
     "slug": "wawatay-management-group",
     "name": "Wawatay Management Group Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#9e6507",
     "city": "Fort McMurray",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Fort McMurray, AB"
+    "sampleAddress": "Fort McMurray, AB",
+    "logo": "logos/wawatay-management-group.png",
+    "logoW": 151,
+    "logoH": 199
   },
   {
     "slug": "westcorp-property-management",
     "name": "Westcorp Property Management Inc.",
-    "accent": "#1f3a5f",
+    "accent": "#92680e",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/westcorp-property-management.png",
+    "logoW": 178,
+    "logoH": 43,
+    "logoLight": true
   },
   {
     "slug": "westhawk-property-management",
     "name": "Westhawk Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#8d207d",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/westhawk-property-management.png",
+    "logoW": 214,
+    "logoH": 51
   },
   {
     "slug": "westnest",
     "name": "WestNest",
-    "accent": "#1f3a5f",
+    "accent": "#a96914",
     "city": "Canmore",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Canmore, AB"
+    "sampleAddress": "Canmore, AB",
+    "logo": "logos/westnest.png",
+    "logoW": 367,
+    "logoH": 300,
+    "logoLight": true
   },
   {
     "slug": "wexcel-realty-management",
     "name": "WExcel Realty Management Ltd.",
-    "accent": "#1f3a5f",
+    "accent": "#906f21",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/wexcel-realty-management.png",
+    "logoW": 683,
+    "logoH": 280
   },
   {
     "slug": "wood-buffalo-housing",
     "name": "Wood Buffalo Housing",
-    "accent": "#1f3a5f",
+    "accent": "#0863fc",
     "city": "Fort McMurray",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Fort McMurray, AB"
+    "sampleAddress": "Fort McMurray, AB",
+    "logo": "logos/wood-buffalo-housing.png",
+    "logoW": 390,
+    "logoH": 300
   },
   {
     "slug": "yeg-xpanded",
     "name": "YEG Xpanded",
-    "accent": "#1f3a5f",
+    "accent": "#896500",
     "city": "Spruce Grove",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Spruce Grove, AB"
+    "sampleAddress": "Spruce Grove, AB",
+    "logo": "logos/yeg-xpanded.png",
+    "logoW": 615,
+    "logoH": 300
   },
   {
     "slug": "ymm-property-rentals-coldwell-banker-fort-mcmurr",
     "name": "YMM Property Rentals (Coldwell Banker Fort McMurray PM Division)",
-    "accent": "#1f3a5f",
+    "accent": "#306093",
     "city": "Fort McMurray",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Fort McMurray, AB"
+    "sampleAddress": "Fort McMurray, AB",
+    "logo": "logos/ymm-property-rentals-coldwell-banker-fort-mcmurr.png",
+    "logoW": 212,
+    "logoH": 48
   },
   {
     "slug": "yorkton-group",
     "name": "Yorkton Group",
-    "accent": "#1f3a5f",
+    "accent": "#887754",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/yorkton-group.png",
+    "logoW": 682,
+    "logoH": 78
   },
   {
     "slug": "your-key-rental-management",
     "name": "Your Key Rental Management",
-    "accent": "#1f3a5f",
+    "accent": "#407b83",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/your-key-rental-management.png",
+    "logoW": 900,
+    "logoH": 294
   },
   {
     "slug": "zenith-commercial",
     "name": "Zenith Commercial",
-    "accent": "#1f3a5f",
+    "accent": "#907321",
     "city": "Edmonton",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Edmonton, AB"
+    "sampleAddress": "Edmonton, AB",
+    "logo": "logos/zenith-commercial.png",
+    "logoW": 200,
+    "logoH": 125,
+    "logoLight": true
   },
   {
     "slug": "zenyx-property-management",
     "name": "Zenyx Property Management",
-    "accent": "#1f3a5f",
+    "accent": "#94711d",
     "city": "Calgary",
     "sampleProperty": "Sample property",
-    "sampleAddress": "Calgary, AB"
+    "sampleAddress": "Calgary, AB",
+    "logo": "logos/zenyx-property-management.png",
+    "logoW": 900,
+    "logoH": 176
   },
   {
     "slug": "zonimi-management",
     "name": "Zonimi Management",
-    "accent": "#1f3a5f",
+    "accent": "#323644",
     "city": "Lloydminster",
     "sampleProperty": "Sample property",
     "sampleAddress": "Lloydminster, AB"

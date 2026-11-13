@@ -1,0 +1,4071 @@
+{
+ "total": 255,
+ "realLogo": 237,
+ "monogram": 18,
+ "brands": [
+  {
+   "slug": "airdrie-housing",
+   "company": "Airdrie Housing Limited",
+   "website": "https://airdriehousing.ca/",
+   "mark": "logo",
+   "file": "logos/airdrie-housing.png",
+   "size": [
+    294,
+    101
+   ],
+   "onAccentTile": false,
+   "source": "https://airdriehousing.ca/wp-content/uploads/2015/06/airdrie-housing-web.png",
+   "foundAs": "logo",
+   "accent": "#077747",
+   "notes": []
+  },
+  {
+   "slug": "airdrie-real-estate-rentals",
+   "company": "Airdrie Real Estate Rentals",
+   "website": "https://airdrierealestaterentals.ca/",
+   "mark": "logo",
+   "file": "logos/airdrie-real-estate-rentals.png",
+   "size": [
+    224,
+    117
+   ],
+   "onAccentTile": false,
+   "source": "https://airdrierealestaterentals.ca/wp-content/uploads/2016/03/nolan-kowalchuk-logo.png",
+   "foundAs": "logo",
+   "accent": "#d90000",
+   "notes": []
+  },
+  {
+   "slug": "r-living",
+   "company": "R Living",
+   "website": "https://www.rliving.ca/",
+   "mark": "logo",
+   "file": "logos/r-living.png",
+   "size": [
+    251,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/665a0a9537dff321af7fda20/3ea357d4-6e85-4cfa-bc9e-5ed36e3a581a/rlivinglogo.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#3c8284",
+   "notes": []
+  },
+  {
+   "slug": "all-in-one-property-management",
+   "company": "All In One Property Management",
+   "website": "https://www.allinonepropertymanagement.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#134dc7",
+   "notes": [
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "acmx-rental-properties",
+   "company": "ACMX Rental Properties",
+   "website": "https://www.acmxrentalproperties.com/",
+   "mark": "logo",
+   "file": "logos/acmx-rental-properties.png",
+   "size": [
+    133,
+    56
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/6166e9_8d493330c8914fe3a165bf9fe4502e22~mv2.jpeg",
+   "foundAs": "logo",
+   "accent": "#004970",
+   "notes": []
+  },
+  {
+   "slug": "brooks-housing-society",
+   "company": "Brooks Housing Society",
+   "website": "https://brookshousingsociety.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#20454f",
+   "notes": [
+    "logo: download failed",
+    "logo-img: download failed",
+    "logo-img: download failed",
+    "logo-img: download failed",
+    "icon: download failed",
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "aisling-baile-short-term-rental-management",
+   "company": "Aisling Baile Short-Term Rental Management",
+   "website": "https://www.aislingbaile.com/",
+   "mark": "logo",
+   "file": "logos/aisling-baile-short-term-rental-management.png",
+   "size": [
+    170,
+    76
+   ],
+   "onAccentTile": true,
+   "source": "https://irp.cdn-website.com/6060adda/dms3rep/multi/opt/aisling-baile-logo-white-172w.png",
+   "foundAs": "logo",
+   "accent": "#277b7f",
+   "notes": []
+  },
+  {
+   "slug": "ally-realty",
+   "company": "Ally Realty",
+   "website": "https://allyrealty.ca/",
+   "mark": "logo",
+   "file": "logos/ally-realty.png",
+   "size": [
+    785,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/izYSzDC1uyhOnZZzIqUelpdRwBQKRLvypqk585VXRn0/rs:auto:1600:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL2EvbC9sL3kvYWxseS1jb25kby1jYS5teXJlYWxwYWdld2Vic2l0ZS5jb20vX21lZGlhL3F1aWNrLXVwbG9hZHMvQUxMWS1SZWFsdHktTG9nbyh3aGl0ZXRleHQpLWNyb3BwZWQtMTY3NjA2MjM2ODA1OC5wbmc_dD0xNzkyMDA1NTQyODk2?t=1792005542896",
+   "foundAs": "logo",
+   "accent": "#8c6a0e",
+   "notes": []
+  },
+  {
+   "slug": "anthem-properties-calgary",
+   "company": "Anthem Properties (Calgary)",
+   "website": "https://anthemproperties.com/",
+   "mark": "logo",
+   "file": "logos/anthem-properties-calgary.png",
+   "size": [
+    242,
+    243
+   ],
+   "onAccentTile": true,
+   "source": "https://anthemproperties.com/wp-content/themes/Anthem25/images/logos/logo-icon-white.svg",
+   "foundAs": "logo",
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "asset-west-property-management",
+   "company": "Asset West Property Management Ltd.",
+   "website": "http://www.assetwest.com/",
+   "mark": "logo",
+   "file": "logos/asset-west-property-management.png",
+   "size": [
+    275,
+    41
+   ],
+   "onAccentTile": true,
+   "source": "https://assetwest.com/wp-content/uploads/2019/05/logo-white-mobile2.png",
+   "foundAs": "logo-img",
+   "accent": "#3a5b44",
+   "notes": [
+    "logo: too small 30x31"
+   ]
+  },
+  {
+   "slug": "associa-c-era-property-management-and-realty",
+   "company": "Associa C-ERA Property Management & Realty",
+   "website": "https://www.cerapm.com/",
+   "mark": "logo",
+   "file": "logos/associa-c-era-property-management-and-realty.png",
+   "size": [
+    900,
+    286
+   ],
+   "onAccentTile": true,
+   "source": "https://cdn.prod.website-files.com/62a832e74f9605a7a5b02bf9/62a85b5f50904c20f58c6c49_Associa%20C-ERA%20Property%20Management_WhiteGoldRed_STACKED.svg",
+   "foundAs": "logo",
+   "accent": "#32675f",
+   "notes": []
+  },
+  {
+   "slug": "atlas-development",
+   "company": "Atlas Development Corporation",
+   "website": "https://atlasdevco.com/",
+   "mark": "logo",
+   "file": "logos/atlas-development.png",
+   "size": [
+    705,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://www.atlasdevco.com/wp-content/uploads/2019/09/atlas_logo_v4.png",
+   "foundAs": "logo",
+   "accent": "#143b7a",
+   "notes": []
+  },
+  {
+   "slug": "attainable-homes-calgary",
+   "company": "Attainable Homes Calgary",
+   "website": "https://attainyourhome.com/",
+   "mark": "logo",
+   "file": "logos/attainable-homes-calgary.png",
+   "size": [
+    140,
+    78
+   ],
+   "onAccentTile": false,
+   "source": "https://attainyourhome.com/wp-content/uploads/2024/05/Rectangle.png",
+   "foundAs": "logo",
+   "accent": "#b72826",
+   "notes": []
+  },
+  {
+   "slug": "avenue-commercial",
+   "company": "Avenue Commercial",
+   "website": "https://avenuecommercial.ca/",
+   "mark": "logo",
+   "file": "logos/avenue-commercial.png",
+   "size": [
+    536,
+    106
+   ],
+   "onAccentTile": true,
+   "source": "https://avenuecommercial.ca/wp-content/uploads/2020/11/Avenue_commercial_realestate_calgary_alberta_canada.png",
+   "foundAs": "logo",
+   "accent": "#9d6c03",
+   "notes": []
+  },
+  {
+   "slug": "barclay-street-real-estate",
+   "company": "Barclay Street Real Estate",
+   "website": "https://barclaystreet.com/",
+   "mark": "logo",
+   "file": "logos/barclay-street-real-estate.png",
+   "size": [
+    644,
+    256
+   ],
+   "onAccentTile": true,
+   "source": "https://barclaystreet.com/wp-content/uploads/2023/04/barclay_logo_w.png",
+   "foundAs": "logo",
+   "accent": "#004487",
+   "notes": []
+  },
+  {
+   "slug": "beck-real-estate",
+   "company": "BECK Real Estate Ltd.",
+   "website": "https://beckrealestate.ca/",
+   "mark": "logo",
+   "file": "logos/beck-real-estate.png",
+   "size": [
+    258,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/373XHGAd0aSlQCTg50C5ajKuRY21P_MEfET5FqTwpsQ/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL24vYS90L2EvbmF0YXNoYS1zZXJydXJpZXIubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9xdWljay11cGxvYWRzL2V0cXhjdG50aXZjZy5wbmc_dD0xNzM4ODU0ODAyNDI2?t=1738854802426",
+   "foundAs": "logo",
+   "accent": "#0055a5",
+   "notes": []
+  },
+  {
+   "slug": "berezan-management",
+   "company": "Berezan Management Ltd.",
+   "website": "https://berezanmanagement.com/",
+   "mark": "logo",
+   "file": "logos/berezan-management.png",
+   "size": [
+    227,
+    117
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/85c6f7d0-6c0e-470e-bce9-68b585eec898/Berezan%20Logo%202010%20(2).jpg/:/rs=h:117,cg:true,m/qt=q:95",
+   "foundAs": "logo",
+   "accent": "#238343",
+   "notes": []
+  },
+  {
+   "slug": "blackstone-commercial",
+   "company": "Blackstone Commercial",
+   "website": "https://blackstonecommercial.com/",
+   "mark": "logo",
+   "file": "logos/blackstone-commercial.png",
+   "size": [
+    726,
+    132
+   ],
+   "onAccentTile": false,
+   "source": "https://blackstonecommercial.com/staging/wp-content/uploads/2025/08/Blackstone-2025.png",
+   "foundAs": "logo",
+   "accent": "#25425b",
+   "notes": []
+  },
+  {
+   "slug": "boardwalk-rental-communities",
+   "company": "Boardwalk Rental Communities",
+   "website": "https://www.bwalk.com/en-ca/",
+   "mark": "logo",
+   "file": "logos/boardwalk-rental-communities.png",
+   "size": [
+    834,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://www.bwalk.com/hubfs/Logos/bwalk_003-rgb-colour-small-negative.svg",
+   "foundAs": "logo",
+   "accent": "#296fe8",
+   "notes": []
+  },
+  {
+   "slug": "bold-property-management",
+   "company": "Bold Property Management",
+   "website": "https://boldpropertymanagement.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#151b26",
+   "notes": [
+    "favicon: download failed",
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "bos-property-management",
+   "company": "BOS Property Management",
+   "website": "https://bosmanagement.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#86775c",
+   "notes": [
+    "override: site image shows another brand"
+   ]
+  },
+  {
+   "slug": "boutique-properties",
+   "company": "Boutique Properties",
+   "website": "https://www.boutiqueproperties.biz/",
+   "mark": "logo",
+   "file": "logos/boutique-properties.png",
+   "size": [
+    900,
+    112
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/c0cd0f_167f1bbff94a4a4f9c357dee96508285~mv2.png",
+   "foundAs": "logo",
+   "accent": "#7f688c",
+   "notes": []
+  },
+  {
+   "slug": "bow-realty",
+   "company": "Bow Realty",
+   "website": "https://www.bowrealty.ca/",
+   "mark": "logo",
+   "file": "logos/bow-realty.png",
+   "size": [
+    404,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://www.bowrealty.ca/bow-realty-logo.png",
+   "foundAs": "logo",
+   "accent": "#047d95",
+   "notes": []
+  },
+  {
+   "slug": "bricks-and-mortar-real-estate",
+   "company": "Bricks & Mortar Real Estate",
+   "website": "https://bricksandmortar.ca/",
+   "mark": "logo",
+   "file": "logos/bricks-and-mortar-real-estate.png",
+   "size": [
+    285,
+    100
+   ],
+   "onAccentTile": false,
+   "source": "https://bricksandmortar.ca/wp-content/uploads/2022/02/Brick2-Mortar-1.jpg",
+   "foundAs": "logo",
+   "accent": "#847430",
+   "notes": []
+  },
+  {
+   "slug": "briere-property-management",
+   "company": "Briere Property Management",
+   "website": "https://brierepm.com/",
+   "mark": "logo",
+   "file": "logos/briere-property-management.png",
+   "size": [
+    216,
+    82
+   ],
+   "onAccentTile": false,
+   "source": "https://brierepm.com/wp-content/themes/briere-property/img/briere-logo.png",
+   "foundAs": "logo",
+   "accent": "#336699",
+   "notes": []
+  },
+  {
+   "slug": "c21-ace-property-management",
+   "company": "C21 Ace Property Management",
+   "website": "https://ace.c21propmanagement.ca/",
+   "mark": "logo",
+   "file": "logos/c21-ace-property-management.png",
+   "size": [
+    815,
+    189
+   ],
+   "onAccentTile": false,
+   "source": "https://ace.c21propmanagement.ca/wp-content/uploads/2023/07/Moxi_Pri_ACE_Gold.png",
+   "foundAs": "logo",
+   "accent": "#88794e",
+   "notes": []
+  },
+  {
+   "slug": "calgary-housing-company",
+   "company": "Calgary Housing Company",
+   "website": "https://calgaryhousingcompany.org/",
+   "mark": "logo",
+   "file": "logos/calgary-housing-company.png",
+   "size": [
+    900,
+    255
+   ],
+   "onAccentTile": false,
+   "source": "https://calgaryhousingcompany.org/wp-content/uploads/2021/09/CH-LOGO-Main-Horizontal-RGB.png",
+   "foundAs": "logo",
+   "accent": "#413724",
+   "notes": []
+  },
+  {
+   "slug": "calgary-str-management",
+   "company": "Calgary STR Management",
+   "website": "https://calgarystrmanagement.ca/",
+   "mark": "logo",
+   "file": "logos/calgary-str-management.png",
+   "size": [
+    121,
+    102
+   ],
+   "onAccentTile": true,
+   "source": "https://calgarystrmanagement.ca/wp-content/uploads/2026/01/ChatGPT-Image-Jan-14-2026-11_25_11-AM-150x150.png",
+   "foundAs": "logo",
+   "accent": "#1f4bb1",
+   "notes": []
+  },
+  {
+   "slug": "castor-condos",
+   "company": "Castor Condos Ltd.",
+   "website": "http://www.castorcondos.com/",
+   "mark": "logo",
+   "file": "logos/castor-condos.png",
+   "size": [
+    900,
+    289
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/651cd3f076a40f7466b9f7b1/239ec91b-3de7-4a09-920f-14dbaacb58de/CC+Logo.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#ca2423",
+   "notes": []
+  },
+  {
+   "slug": "clearview-commercial-realty",
+   "company": "Clearview Commercial Realty Inc.",
+   "website": "https://www.cvpartners.ca/",
+   "mark": "logo",
+   "file": "logos/clearview-commercial-realty.png",
+   "size": [
+    900,
+    157
+   ],
+   "onAccentTile": true,
+   "source": "https://static.wixstatic.com/media/61f242_c5db9313e4e7406b98b65af86d332a61~mv2.png",
+   "foundAs": "logo",
+   "accent": "#a06c02",
+   "notes": []
+  },
+  {
+   "slug": "cms-real-estate",
+   "company": "CMS Real Estate Ltd.",
+   "website": "https://cmsrealestateltd.com/",
+   "mark": "logo",
+   "file": "logos/cms-real-estate.png",
+   "size": [
+    455,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://cmsrealestateltd.com/wp-content/uploads/2023/09/cms-40years-ribbon-sm.png",
+   "foundAs": "logo",
+   "accent": "#d84245",
+   "notes": []
+  },
+  {
+   "slug": "cnc-properties",
+   "company": "CNC Properties",
+   "website": "https://cncproperties.ca/",
+   "mark": "logo",
+   "file": "logos/cnc-properties.png",
+   "size": [
+    160,
+    112
+   ],
+   "onAccentTile": false,
+   "source": "https://cncproperties.ca/wp-content/uploads/2022/05/White-on-Black-logo.png",
+   "foundAs": "logo",
+   "accent": "#357ebc",
+   "notes": []
+  },
+  {
+   "slug": "continental-realty-and-management",
+   "company": "Continental Realty & Management",
+   "website": "https://continentalcalgary.com/",
+   "mark": "logo",
+   "file": "logos/continental-realty-and-management.png",
+   "size": [
+    572,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://continentalcalgary.com/wp-content/uploads/2024/03/logo.png",
+   "foundAs": "logo",
+   "accent": "#4d1d13",
+   "notes": []
+  },
+  {
+   "slug": "corporate-suites-calgary",
+   "company": "Corporate Suites Calgary",
+   "website": "https://www.corporatesuitescalgary.com/",
+   "mark": "logo",
+   "file": "logos/corporate-suites-calgary.png",
+   "size": [
+    504,
+    211
+   ],
+   "onAccentTile": false,
+   "source": "https://www.corporatesuitescalgary.com/wp-content/uploads/2019/09/CorporateSuitesLogo_Burgundy-Sept2019.png",
+   "foundAs": "logo",
+   "accent": "#801323",
+   "notes": []
+  },
+  {
+   "slug": "creative-rental-solutions",
+   "company": "Creative Rental Solutions",
+   "website": "https://creativerentalsolutions.com/",
+   "mark": "logo",
+   "file": "logos/creative-rental-solutions.png",
+   "size": [
+    302,
+    50
+   ],
+   "onAccentTile": false,
+   "source": "https://creativerentalsolutions.com/site/assets/files/1/crs-logo-web_2-1.png",
+   "foundAs": "logo",
+   "accent": "#1c83a4",
+   "notes": []
+  },
+  {
+   "slug": "dcci-management",
+   "company": "DCCI Management",
+   "website": "https://www.dccimanagement.com/",
+   "mark": "logo",
+   "file": "logos/dcci-management.png",
+   "size": [
+    196,
+    153
+   ],
+   "onAccentTile": false,
+   "source": "https://i0.wp.com/dccimanagement.com/wp-content/uploads/2022/01/DCCI-Managementsmall.jpg?fit=212%2C164&ssl=1",
+   "foundAs": "logo",
+   "accent": "#165a73",
+   "notes": []
+  },
+  {
+   "slug": "dgees-management",
+   "company": "Dgees Management",
+   "website": "https://dgeesmanagement.com/commercial/",
+   "mark": "logo",
+   "file": "logos/dgees-management.png",
+   "size": [
+    388,
+    140
+   ],
+   "onAccentTile": false,
+   "source": "https://dgeesmanagement.com/wp-content/uploads/2025/12/D-Gees-Management-wt-Logo.png",
+   "foundAs": "logo",
+   "accent": "#1777b7",
+   "notes": []
+  },
+  {
+   "slug": "dreamhouse-realty",
+   "company": "Dreamhouse Realty",
+   "website": "https://dreamhouse.rentals/",
+   "mark": "logo",
+   "file": "logos/dreamhouse-realty.png",
+   "size": [
+    297,
+    154
+   ],
+   "onAccentTile": false,
+   "source": "https://dreamhouse.rentals/wp-content/uploads/2026/01/Logo_Top_Black.webp",
+   "foundAs": "logo",
+   "accent": "#b80202",
+   "notes": []
+  },
+  {
+   "slug": "edon-management",
+   "company": "Edon Management",
+   "website": "https://edonmgmt.com/",
+   "mark": "logo",
+   "file": "logos/edon-management.png",
+   "size": [
+    162,
+    91
+   ],
+   "onAccentTile": false,
+   "source": "https://edonmgmt.com/wp-content/uploads/2020/04/Edon-Standard-Web-01.png",
+   "foundAs": "logo",
+   "accent": "#0d4d97",
+   "notes": []
+  },
+  {
+   "slug": "elevate-property-management",
+   "company": "Elevate Property Management",
+   "website": "https://elevatepropertymgmt.ca/",
+   "mark": "logo",
+   "file": "logos/elevate-property-management.png",
+   "size": [
+    614,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://elevatepropertymgmt.ca/wp-content/uploads/elevate-Logo@2x.webp",
+   "foundAs": "logo",
+   "accent": "#986f24",
+   "notes": []
+  },
+  {
+   "slug": "equium-group",
+   "company": "Equium Group",
+   "website": "https://www.equium.ca/",
+   "mark": "logo",
+   "file": "logos/equium-group.png",
+   "size": [
+    166,
+    140
+   ],
+   "onAccentTile": false,
+   "source": "https://www.equium.ca/wp-content/uploads/2019/09/Equium_logo_colour.png",
+   "foundAs": "logo",
+   "accent": "#0085af",
+   "notes": []
+  },
+  {
+   "slug": "excelsior-rentals",
+   "company": "Excelsior Rentals",
+   "website": "https://excelsiorrentals.com/",
+   "mark": "logo",
+   "file": "logos/excelsior-rentals.png",
+   "size": [
+    683,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://excelsiorrentals.com/wp-content/uploads/2026/10/mainlogo.jpeg",
+   "foundAs": "logo",
+   "accent": "#063b8c",
+   "notes": []
+  },
+  {
+   "slug": "firstservice-residential-calgary",
+   "company": "FirstService Residential Calgary",
+   "website": "https://www.fsresidential.com/alberta/offices/calgary-property-management/",
+   "mark": "logo",
+   "file": "logos/firstservice-residential-calgary.png",
+   "size": [
+    482,
+    154
+   ],
+   "onAccentTile": false,
+   "source": "https://www.fsresidential.com/FSR/media/General/MenuItems/FSR-logo.png?ext=.png",
+   "foundAs": "logo-img",
+   "accent": "#007ba9",
+   "notes": []
+  },
+  {
+   "slug": "foundation-property-management",
+   "company": "Foundation Property Management Inc.",
+   "website": "https://www.foundation-pm.com/",
+   "mark": "logo",
+   "file": "logos/foundation-property-management.png",
+   "size": [
+    260,
+    65
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/64da1a_fa7e6eb3b0e74781946862b8ef1f47b7~mv2.png",
+   "foundAs": "logo",
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "go-smart-property-managers",
+   "company": "Go Smart Property Managers Inc.",
+   "website": "https://www.gosmartmanagers.com/",
+   "mark": "logo",
+   "file": "logos/go-smart-property-managers.png",
+   "size": [
+    267,
+    69
+   ],
+   "onAccentTile": false,
+   "source": "https://gosmartmanagers.com/wp-content/uploads/2025/05/image-9.png",
+   "foundAs": "logo-img",
+   "accent": "#d03f0e",
+   "notes": []
+  },
+  {
+   "slug": "grand-realty-and-management",
+   "company": "Grand Realty & Management Ltd.",
+   "website": "https://grandrealty.ca/",
+   "mark": "logo",
+   "file": "logos/grand-realty-and-management.png",
+   "size": [
+    195,
+    90
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/jvoSasnmBLvXodw9oOvut_hMFx9_0p-OW56URiZL-dY/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL2QvYS9uL2kvZGFuaWVsLXdvbmcyLWJsb2NrczEubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9jdXN0b20vR3JhbmQtUmVhbHR5LUxvZ28tY29sb3IucG5nP3Q9MTY3ODM3ODg4MTE3MQ?t=1678378881171",
+   "foundAs": "logo",
+   "accent": "#2e3291",
+   "notes": []
+  },
+  {
+   "slug": "great-west-property-management",
+   "company": "Great West Property Management Inc.",
+   "website": "https://www.greatwestpm.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#1a8772",
+   "notes": [
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "green-casa-property-management",
+   "company": "Green Casa Property Management",
+   "website": "https://greencasa.ca/",
+   "mark": "logo",
+   "file": "logos/green-casa-property-management.png",
+   "size": [
+    408,
+    116
+   ],
+   "onAccentTile": false,
+   "source": "http://greencasa.ca/wp-content/uploads/2025/04/green-casa-commercial-logo.avif",
+   "foundAs": "logo",
+   "accent": "#0b4936",
+   "notes": []
+  },
+  {
+   "slug": "hollyburn-properties",
+   "company": "Hollyburn Properties",
+   "website": "https://www.hollyburn.com/",
+   "mark": "logo",
+   "file": "logos/hollyburn-properties.png",
+   "size": [
+    900,
+    292
+   ],
+   "onAccentTile": false,
+   "source": "https://www.hollyburn.com/drive/themes/mt-hollyburn/assets/dist/img/logo-white.svg",
+   "foundAs": "logo",
+   "accent": "#003976",
+   "notes": []
+  },
+  {
+   "slug": "homecare-realty",
+   "company": "Homecare Realty Ltd.",
+   "website": "https://www.homecarerealty.com/",
+   "mark": "logo",
+   "file": "logos/homecare-realty.png",
+   "size": [
+    136,
+    63
+   ],
+   "onAccentTile": true,
+   "source": "https://www.homecarerealty.com/eadf26jst/1314/201512/image/96_photo.png",
+   "foundAs": "logo",
+   "accent": "#920c11",
+   "notes": []
+  },
+  {
+   "slug": "imperial-suites",
+   "company": "Imperial Suites",
+   "website": "https://imperialsuites.ca/",
+   "mark": "logo",
+   "file": "logos/imperial-suites.png",
+   "size": [
+    489,
+    181
+   ],
+   "onAccentTile": false,
+   "source": "https://imperialsuites.ca/wp-content/uploads/2024/02/logo-490x183.webp",
+   "foundAs": "logo",
+   "accent": "#28485d",
+   "notes": []
+  },
+  {
+   "slug": "jems-condo-management",
+   "company": "Jems Condo Management Ltd.",
+   "website": "https://www.jemscondo.ca/",
+   "mark": "logo",
+   "file": "logos/jems-condo-management.png",
+   "size": [
+    735,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/5de8277757d35f456749b5af/1581485146574-C1UAL6NM0N2DAJT7Z7GC/Asset+8.png",
+   "foundAs": "logo",
+   "accent": "#18489c",
+   "notes": []
+  },
+  {
+   "slug": "kennington-properties",
+   "company": "Kennington Properties Ltd.",
+   "website": "http://www.kennington.ca/",
+   "mark": "logo",
+   "file": "logos/kennington-properties.png",
+   "size": [
+    844,
+    124
+   ],
+   "onAccentTile": true,
+   "source": "http://www.kennington.ca/uploads/kennington/images/logo-dark.png",
+   "foundAs": "logo",
+   "accent": "#233e85",
+   "notes": []
+  },
+  {
+   "slug": "key-condo-management",
+   "company": "Key Condo Management Ltd.",
+   "website": "https://www.keycondo.ca/",
+   "mark": "logo",
+   "file": "logos/key-condo-management.png",
+   "size": [
+    200,
+    160
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/4a820b_ec9647ab1e5a4515b7833d71ff9f908c%7Emv2.png",
+   "foundAs": "icon",
+   "accent": "#1a7d90",
+   "notes": []
+  },
+  {
+   "slug": "killam-apartment-reit",
+   "company": "Killam Apartment REIT",
+   "website": "https://www.killamreit.com/",
+   "mark": "logo",
+   "file": "logos/killam-apartment-reit.png",
+   "size": [
+    164,
+    50
+   ],
+   "onAccentTile": true,
+   "source": "https://resource.rentcafe.com/image/upload/x_0,y_0,w_180,h_55,c_crop/q_auto,f_auto,c_limit,w_164,h_50/s3/2/47679/killam-corp1-propertylogo-default-live.png",
+   "foundAs": "logo",
+   "accent": "#4b852a",
+   "notes": []
+  },
+  {
+   "slug": "kirin-realty-and-management",
+   "company": "Kirin Realty & Management Inc.",
+   "website": "https://kirinrealty.ca/",
+   "mark": "logo",
+   "file": "logos/kirin-realty-and-management.png",
+   "size": [
+    814,
+    235
+   ],
+   "onAccentTile": false,
+   "source": "https://kirinrealty.ca/wp-content/uploads/2019/05/cropped-LOGO256.png",
+   "foundAs": "logo",
+   "accent": "#007da7",
+   "notes": []
+  },
+  {
+   "slug": "kyan-properties",
+   "company": "KYAN Properties",
+   "website": "https://www.kyanproperties.com/",
+   "mark": "logo",
+   "file": "logos/kyan-properties.png",
+   "size": [
+    317,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://www.kyanproperties.com/logo.png",
+   "foundAs": "logo",
+   "accent": "#89730e",
+   "notes": []
+  },
+  {
+   "slug": "larlyn-property-management",
+   "company": "Larlyn Property Management Ltd.",
+   "website": "https://www.larlyn.com/offices/calgary/",
+   "mark": "logo",
+   "file": "logos/larlyn-property-management.png",
+   "size": [
+    459,
+    118
+   ],
+   "onAccentTile": false,
+   "source": "https://www.larlyn.com/wp-content/themes/larlyn/images/larlyn-logo.png",
+   "foundAs": "logo",
+   "accent": "#d33541",
+   "notes": []
+  },
+  {
+   "slug": "lenyx",
+   "company": "Lenyx Corp.",
+   "website": "http://www.lenyxcorp.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#8d6a16",
+   "notes": [
+    "override: site image shows another brand"
+   ]
+  },
+  {
+   "slug": "lions-village-bethany",
+   "company": "Lions Village (Bethany)",
+   "website": "https://www.lionsvillagecalgary.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#1e73be",
+   "notes": [
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "magnum-york-property-management-associa",
+   "company": "Magnum York Property Management (Associa)",
+   "website": "https://magnumyork.com/",
+   "mark": "logo",
+   "file": "logos/magnum-york-property-management-associa.png",
+   "size": [
+    481,
+    90
+   ],
+   "onAccentTile": false,
+   "source": "https://magnumyork.com/wp-content/uploads/2025/05/MYP_Color_LG-1-1-1.png",
+   "foundAs": "logo",
+   "accent": "#288c46",
+   "notes": []
+  },
+  {
+   "slug": "mainstreet-equity",
+   "company": "Mainstreet Equity Corp.",
+   "website": "https://www.mainst.biz/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#007078",
+   "notes": [
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "manchester-properties",
+   "company": "Manchester Properties",
+   "website": "https://manchesterproperties.ca/",
+   "mark": "logo",
+   "file": "logos/manchester-properties.png",
+   "size": [
+    900,
+    281
+   ],
+   "onAccentTile": true,
+   "source": "https://manchesterproperties.ca/api/logos/file/White.svg",
+   "foundAs": "logo",
+   "accent": "#151b26",
+   "notes": []
+  },
+  {
+   "slug": "mastre-property-management",
+   "company": "Mastre Property Management Ltd",
+   "website": "https://calgaryhomerentals.com/",
+   "mark": "logo",
+   "file": "logos/mastre-property-management.png",
+   "size": [
+    900,
+    260
+   ],
+   "onAccentTile": false,
+   "source": "https://calgaryhomerentals.com/wp-content/uploads/2019/11/Webmastre.PNG.png",
+   "foundAs": "logo",
+   "accent": "#2362aa",
+   "notes": []
+  },
+  {
+   "slug": "midwest-property-management",
+   "company": "Midwest Property Management",
+   "website": "https://rentmidwest.com/",
+   "mark": "logo",
+   "file": "logos/midwest-property-management.png",
+   "size": [
+    101,
+    137
+   ],
+   "onAccentTile": false,
+   "source": "https://rentmidwest.com/wp-content/themes/midwest/inc/imgs/favicon/apple-touch-icon.png",
+   "foundAs": "logo",
+   "accent": "#9a7000",
+   "notes": []
+  },
+  {
+   "slug": "monday-management",
+   "company": "Monday Management Inc.",
+   "website": "http://www.mondaymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/monday-management.png",
+   "size": [
+    102,
+    114
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m",
+   "foundAs": "logo",
+   "accent": "#283878",
+   "notes": []
+  },
+  {
+   "slug": "new-concept-management",
+   "company": "New Concept Management Ltd.",
+   "website": "https://newconceptmanagement.com/",
+   "mark": "logo",
+   "file": "logos/new-concept-management.png",
+   "size": [
+    595,
+    109
+   ],
+   "onAccentTile": false,
+   "source": "https://newconceptmanagement.com/wp-content/uploads/2021/12/NCMLogo.png",
+   "foundAs": "logo",
+   "accent": "#67263c",
+   "notes": []
+  },
+  {
+   "slug": "new-leaf-properties",
+   "company": "New Leaf Properties Ltd.",
+   "website": "http://www.newleafproperties.ca/",
+   "mark": "logo",
+   "file": "logos/new-leaf-properties.png",
+   "size": [
+    540,
+    166
+   ],
+   "onAccentTile": false,
+   "source": "https://www.newleafpropertymanagement.ca/wp-content/uploads/2024/10/logo-new-leaf-properties-colour.webp",
+   "foundAs": "logo",
+   "accent": "#458133",
+   "notes": []
+  },
+  {
+   "slug": "nomadics",
+   "company": "Nomadics",
+   "website": "https://nomadics.ca/",
+   "mark": "logo",
+   "file": "logos/nomadics.png",
+   "size": [
+    900,
+    222
+   ],
+   "onAccentTile": true,
+   "source": "https://nomadics.ca/wp-content/uploads/2024/11/Nomadics-Logo-Nomadics.webp",
+   "foundAs": "logo",
+   "accent": "#0b759c",
+   "notes": []
+  },
+  {
+   "slug": "nps-group-newpowersky",
+   "company": "NPS Group (NewPowerSky)",
+   "website": "https://www.npsgroup.ca/",
+   "mark": "logo",
+   "file": "logos/nps-group-newpowersky.png",
+   "size": [
+    248,
+    243
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/0d0a03_898bc6cd633940eda4854b8a1a46ee0e~mv2.png",
+   "foundAs": "logo",
+   "accent": "#198591",
+   "notes": []
+  },
+  {
+   "slug": "onward-homes",
+   "company": "Onward Homes",
+   "website": "https://onwardhomes.ca/",
+   "mark": "logo",
+   "file": "logos/onward-homes.png",
+   "size": [
+    900,
+    288
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/652ec75b7e745a2586722d6c/1fa5077f-e4ee-4d13-912a-f909bba6cef2/OH_logo1%404x.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#087583",
+   "notes": []
+  },
+  {
+   "slug": "opus",
+   "company": "OPUS Corporation",
+   "website": "https://www.opuscorp.ca/",
+   "mark": "logo",
+   "file": "logos/opus.png",
+   "size": [
+    352,
+    90
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.prod.website-files.com/5db87a379cb0b6885d3d9695/5f74ef117caf66b19cffca8e_Opus_logo_rgb.png",
+   "foundAs": "logo",
+   "accent": "#8a2529",
+   "notes": []
+  },
+  {
+   "slug": "osonco-property",
+   "company": "Osonco Property",
+   "website": "https://osoncoproperty.com/",
+   "mark": "logo",
+   "file": "logos/osonco-property.png",
+   "size": [
+    138,
+    56
+   ],
+   "onAccentTile": false,
+   "source": "https://osoncoproperty.com/wp-content/uploads/2024/03/NewLogo-WB-1.png",
+   "foundAs": "logo",
+   "accent": "#1f837b",
+   "notes": []
+  },
+  {
+   "slug": "palliser-realty-and-management",
+   "company": "Palliser Realty & Management Corp.",
+   "website": "https://palliserrealty.com/",
+   "mark": "logo",
+   "file": "logos/palliser-realty-and-management.png",
+   "size": [
+    708,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/1607f3_0d55ea5e1cf74098a6c1aa00df592caa~mv2.png",
+   "foundAs": "logo",
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "plainsmen-property-management",
+   "company": "Plainsmen Property Management",
+   "website": "https://getplainsmen.ca/",
+   "mark": "logo",
+   "file": "logos/plainsmen-property-management.png",
+   "size": [
+    230,
+    41
+   ],
+   "onAccentTile": false,
+   "source": "https://getplainsmen.ca/wp-content/uploads/2014/10/PPGLogo02-1.png",
+   "foundAs": "logo",
+   "accent": "#a93736",
+   "notes": []
+  },
+  {
+   "slug": "quarter-park-management",
+   "company": "Quarter Park Management",
+   "website": "http://quarterpark.com/",
+   "mark": "logo",
+   "file": "logos/quarter-park-management.png",
+   "size": [
+    500,
+    76
+   ],
+   "onAccentTile": false,
+   "source": "https://quarterpark.com/images/Quarter-Park-Management-logo@2x.png",
+   "foundAs": "logo",
+   "accent": "#03456a",
+   "notes": []
+  },
+  {
+   "slug": "rancho-management-services-alberta",
+   "company": "Rancho Management Services (Alberta) Ltd.",
+   "website": "https://www.ranchocalgary.com/",
+   "mark": "logo",
+   "file": "logos/rancho-management-services-alberta.png",
+   "size": [
+    261,
+    37
+   ],
+   "onAccentTile": false,
+   "source": "https://www.ranchocalgary.com/wp-content/uploads/Rancho-Alberta2022-CMYK.png",
+   "foundAs": "logo",
+   "accent": "#a76200",
+   "notes": []
+  },
+  {
+   "slug": "rc-condo-management",
+   "company": "RC Condo Management Ltd.",
+   "website": "https://rccondomanagement.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#151b26",
+   "notes": [
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "re-max-commercial-properties-property-management",
+   "company": "RE/MAX Commercial Properties (Property Management)",
+   "website": "https://remaxcp.ca/property-management/",
+   "mark": "logo",
+   "file": "logos/re-max-commercial-properties-property-management.png",
+   "size": [
+    726,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://remaxcp.ca/wp-content/uploads/2026/01/Remax_Properties_Color_Retina.png",
+   "foundAs": "logo",
+   "accent": "#dc1c2e",
+   "notes": []
+  },
+  {
+   "slug": "real-living-estates",
+   "company": "Real Living Estates Ltd.",
+   "website": "https://reallivingestatesltd.com/",
+   "mark": "logo",
+   "file": "logos/real-living-estates.png",
+   "size": [
+    900,
+    170
+   ],
+   "onAccentTile": false,
+   "source": "https://reallivingestatesltd.com/wp-content/uploads/2025/09/Real-Living-New-Logo-2025-with-Dream-House-1.0.png",
+   "foundAs": "logo",
+   "accent": "#9f6b06",
+   "notes": []
+  },
+  {
+   "slug": "renaissance-management",
+   "company": "Renaissance Management",
+   "website": "https://renaissancemanagement.ca/",
+   "mark": "logo",
+   "file": "logos/renaissance-management.png",
+   "size": [
+    209,
+    64
+   ],
+   "onAccentTile": true,
+   "source": "http://renaissancemanagement.ca/wp-content/uploads/2015/11/RM-Logo-reversed-e1447892297298.png",
+   "foundAs": "logo",
+   "accent": "#c55515",
+   "notes": []
+  },
+  {
+   "slug": "rentals-real-estate-district",
+   "company": "Rentals @ The Real Estate District",
+   "website": "https://www.therealestatedistrict.ca/",
+   "mark": "logo",
+   "file": "logos/rentals-real-estate-district.png",
+   "size": [
+    568,
+    231
+   ],
+   "onAccentTile": false,
+   "source": "https://s.realtyninja.com/static/media/med/12119_e97ed032_12119_27ccd705_IMG_3602.JPG?width=289&dpr=2",
+   "foundAs": "logo",
+   "accent": "#0085ac",
+   "notes": []
+  },
+  {
+   "slug": "rimrock-condo-management",
+   "company": "Rimrock Condo Management Ltd.",
+   "website": "https://rimrockcondomanagement.ca/",
+   "mark": "logo",
+   "file": "logos/rimrock-condo-management.png",
+   "size": [
+    292,
+    290
+   ],
+   "onAccentTile": false,
+   "source": "https://rimrockcondomanagement.ca/wp-content/uploads/2026/03/cropped-RRCM-Black-Logo-300x300.png",
+   "foundAs": "logo",
+   "accent": "#2f2d67",
+   "notes": []
+  },
+  {
+   "slug": "rimrock-property-management",
+   "company": "Rimrock Property Management",
+   "website": "https://rimrockpropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/rimrock-property-management.png",
+   "size": [
+    150,
+    150
+   ],
+   "onAccentTile": true,
+   "source": "https://rimrockpropertymanagement.ca/wp-content/uploads/2026/09/rimrock-property-management-logo-150x150.png",
+   "foundAs": "logo",
+   "accent": "#151b26",
+   "notes": []
+  },
+  {
+   "slug": "riverpark-properties",
+   "company": "Riverpark Properties Ltd.",
+   "website": "https://riverparkproperties.ca/",
+   "mark": "logo",
+   "file": "logos/riverpark-properties.png",
+   "size": [
+    900,
+    140
+   ],
+   "onAccentTile": false,
+   "source": "https://riverparkproperties.ca/static/media/navLogo.57370fac930fabe23590c8c27454bd50.svg",
+   "foundAs": "logo",
+   "accent": "#588022",
+   "notes": []
+  },
+  {
+   "slug": "royop-development",
+   "company": "Royop Development Corporation",
+   "website": "https://royop.com/",
+   "mark": "logo",
+   "file": "logos/royop-development.png",
+   "size": [
+    177,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://royop.com/wp-content/uploads/2026/07/Royop_Development_Logo_RGB.png",
+   "foundAs": "logo",
+   "accent": "#cf4f00",
+   "notes": []
+  },
+  {
+   "slug": "ryco-properties",
+   "company": "RYCO Properties",
+   "website": "https://rycoproperties.ca/",
+   "mark": "logo",
+   "file": "logos/ryco-properties.png",
+   "size": [
+    300,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://rycoproperties.ca/icon.svg?icon.15qd6kmuza6mx.svg",
+   "foundAs": "icon",
+   "accent": "#661f33",
+   "notes": []
+  },
+  {
+   "slug": "silvera-for-seniors",
+   "company": "Silvera for Seniors",
+   "website": "https://www.silvera.ca/",
+   "mark": "logo",
+   "file": "logos/silvera-for-seniors.png",
+   "size": [
+    900,
+    170
+   ],
+   "onAccentTile": false,
+   "source": "https://www.silvera.ca/wp-content/uploads/2021/04/silvera-logo.svg",
+   "foundAs": "logo",
+   "accent": "#0082c0",
+   "notes": []
+  },
+  {
+   "slug": "simco-management-calgary",
+   "company": "Simco Management (Calgary) Inc.",
+   "website": "https://simcomanagement.ca/",
+   "mark": "logo",
+   "file": "logos/simco-management-calgary.png",
+   "size": [
+    154,
+    73
+   ],
+   "onAccentTile": false,
+   "source": "https://simcomanagement.ca/wp-content/uploads/2018/12/simco-logo.png",
+   "foundAs": "logo",
+   "accent": "#837741",
+   "notes": []
+  },
+  {
+   "slug": "sprout-properties",
+   "company": "Sprout Properties",
+   "website": "https://www.sproutproperties.ca/",
+   "mark": "logo",
+   "file": "logos/sprout-properties.png",
+   "size": [
+    375,
+    82
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/2f5959_75f92b1384604df7b85474605304bea5~mv2.png",
+   "foundAs": "logo",
+   "accent": "#627a3b",
+   "notes": []
+  },
+  {
+   "slug": "strategic-group",
+   "company": "Strategic Group",
+   "website": "https://www.strategicgroup.ca/",
+   "mark": "logo",
+   "file": "logos/strategic-group.png",
+   "size": [
+    900,
+    105
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/fc5eac_5e302524124e462a8908edc9de0418ae~mv2.png",
+   "foundAs": "logo",
+   "accent": "#063b42",
+   "notes": []
+  },
+  {
+   "slug": "streetwise-property-management",
+   "company": "Streetwise Property Management Inc.",
+   "website": "https://www.streetwisepropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/streetwise-property-management.png",
+   "size": [
+    245,
+    71
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/671956fe46affc6e7a022acf/d940d861-a84e-4769-a75a-c42023db7569/streetwise-property-logo.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#6d2773",
+   "notes": []
+  },
+  {
+   "slug": "student-housing-calgary",
+   "company": "Student Housing Calgary",
+   "website": "https://www.shcalgary.ca/",
+   "mark": "logo",
+   "file": "logos/student-housing-calgary.png",
+   "size": [
+    900,
+    207
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/6913fb5f348c90538c21c8fb/1762917222168-GENZHHRR00KJTYKPW181/Asset+3%40300x.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#d33c00",
+   "notes": []
+  },
+  {
+   "slug": "sunset-properties-alberta",
+   "company": "Sunset Properties Alberta",
+   "website": "https://sunsetproperties.ca/",
+   "mark": "logo",
+   "file": "logos/sunset-properties-alberta.png",
+   "size": [
+    900,
+    274
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/60023b72dfad4a36491a28d8/399a5d9d-2c91-48a6-a003-7c568c457eff/Sunset-horiz-nosun-bw.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#74735b",
+   "notes": []
+  },
+  {
+   "slug": "synterra-realty",
+   "company": "Synterra Realty",
+   "website": "https://www.synterrarealty.com/",
+   "mark": "logo",
+   "file": "logos/synterra-realty.png",
+   "size": [
+    655,
+    190
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/3bc335_51205a3887024353a26a097172f2cc6a~mv2.png",
+   "foundAs": "logo",
+   "accent": "#85712b",
+   "notes": []
+  },
+  {
+   "slug": "taurus-property-group",
+   "company": "Taurus Property Group",
+   "website": "https://taurusgroup.com/",
+   "mark": "logo",
+   "file": "logos/taurus-property-group.png",
+   "size": [
+    145,
+    78
+   ],
+   "onAccentTile": true,
+   "source": "https://taurusgroup.com/wp-content/uploads/2021/06/Logo-175x104.png",
+   "foundAs": "logo",
+   "accent": "#003462",
+   "notes": []
+  },
+  {
+   "slug": "telsec-property",
+   "company": "Telsec Property Corporation",
+   "website": "https://www.telsec.ca/",
+   "mark": "logo",
+   "file": "logos/telsec-property.png",
+   "size": [
+    285,
+    284
+   ],
+   "onAccentTile": false,
+   "source": "https://www.telsec.ca/wp-content/uploads/2022/05/cropped-Telsec-Property-Corp-1-300x300.webp",
+   "foundAs": "logo",
+   "accent": "#5b4e96",
+   "notes": []
+  },
+  {
+   "slug": "three-by-three",
+   "company": "Three by Three Inc.",
+   "website": "http://threebythree.ca/",
+   "mark": "logo",
+   "file": "logos/three-by-three.png",
+   "size": [
+    150,
+    88
+   ],
+   "onAccentTile": false,
+   "source": "http://threebythree.ca/wordpress/wp-content/uploads/2015/10/3X3-LOGO_small1.jpg",
+   "foundAs": "logo",
+   "accent": "#28884f",
+   "notes": []
+  },
+  {
+   "slug": "tillyard-management",
+   "company": "Tillyard Management Inc.",
+   "website": "https://tillyard.ca/",
+   "mark": "logo",
+   "file": "logos/tillyard-management.png",
+   "size": [
+    193,
+    79
+   ],
+   "onAccentTile": false,
+   "source": "https://tillyard.ca/wp-content/uploads/2024/07/Tillyard-logo-calgary-2.png",
+   "foundAs": "logo",
+   "accent": "#906a0b",
+   "notes": []
+  },
+  {
+   "slug": "township-collective",
+   "company": "Township Collective",
+   "website": "https://www.liveattownship.com/",
+   "mark": "logo",
+   "file": "logos/township-collective.png",
+   "size": [
+    900,
+    111
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.prod.website-files.com/6931f020aa68843331f7064a/6931f020aa68843331f7093a_Logo%20Terris.svg",
+   "foundAs": "logo",
+   "accent": "#8d6f38",
+   "notes": []
+  },
+  {
+   "slug": "tristone-property-management",
+   "company": "Tristone Property Management",
+   "website": "https://tristonepropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/tristone-property-management.png",
+   "size": [
+    498,
+    134
+   ],
+   "onAccentTile": false,
+   "source": "https://tristonepropertymanagement.ca/wp-content/uploads/2022/03/tristone-property-management-logo_horizontal-full-colour-dark-bg-v1.png",
+   "foundAs": "logo",
+   "accent": "#01629b",
+   "notes": []
+  },
+  {
+   "slug": "truman-rentals",
+   "company": "Truman Rentals",
+   "website": "https://renttruman.com/",
+   "mark": "logo",
+   "file": "logos/truman-rentals.png",
+   "size": [
+    900,
+    185
+   ],
+   "onAccentTile": true,
+   "source": "https://renttruman.com/wp-content/uploads/2026/08/truman_rentals_calgary_light2.png",
+   "foundAs": "logo",
+   "accent": "#d70e70",
+   "notes": []
+  },
+  {
+   "slug": "unison-realty-group",
+   "company": "Unison Realty Group",
+   "website": "https://www.unisonpropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/unison-realty-group.png",
+   "size": [
+    181,
+    123
+   ],
+   "onAccentTile": false,
+   "source": "https://www.unisonpropertymanagement.ca/wp-content/uploads/2023/07/Unison-Logo-1.webp",
+   "foundAs": "logo",
+   "accent": "#013e85",
+   "notes": []
+  },
+  {
+   "slug": "urban-dwellings",
+   "company": "Urban Dwellings",
+   "website": "https://urbandwellings.ca/",
+   "mark": "logo",
+   "file": "logos/urban-dwellings.png",
+   "size": [
+    530,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/sVPw7QX0MTgG4GgI-NwYz-45RVAjhlWl34TnEJ4OZoY/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL2EveS9wL2MvYXlwY2YtenJ3c2IubXlyZWFscGFnZXdlYnNpdGUuY29tL19tZWRpYS9jdXN0b20vVXJiYW5Ed2VsbGluZ3NfbG9nb19QTkcucG5nP3Q9MTc0MDYwMzk3MjA3Nw?t=1740603972077",
+   "foundAs": "logo",
+   "accent": "#841f27",
+   "notes": []
+  },
+  {
+   "slug": "urban-suites-calgary",
+   "company": "Urban Suites Calgary",
+   "website": "https://urbansuites.com/",
+   "mark": "logo",
+   "file": "logos/urban-suites-calgary.png",
+   "size": [
+    768,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://urbansuites.com/wp-content/themes/urban-suites/assets/images/Urban_Suites.svg",
+   "foundAs": "logo",
+   "accent": "#cc450f",
+   "notes": []
+  },
+  {
+   "slug": "urbanlease",
+   "company": "UrbanLease",
+   "website": "https://www.urbanlease.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#0a7b6c",
+   "notes": [
+    "override: site image shows another brand"
+   ]
+  },
+  {
+   "slug": "vip-realty-and-management",
+   "company": "VIP Realty & Management Ltd.",
+   "website": "https://www.viprealtyandmanagement.com/",
+   "mark": "logo",
+   "file": "logos/vip-realty-and-management.png",
+   "size": [
+    439,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://storage.ubertor.com/annettenielsen.my-ubertor.com/site/company_logo/13472.png",
+   "foundAs": "logo",
+   "accent": "#997522",
+   "notes": []
+  },
+  {
+   "slug": "westhawk-property-management",
+   "company": "Westhawk Property Management",
+   "website": "https://www.westhawkproperties.ca/",
+   "mark": "logo",
+   "file": "logos/westhawk-property-management.png",
+   "size": [
+    214,
+    51
+   ],
+   "onAccentTile": false,
+   "source": "https://www.westhawkproperties.ca/wp-content/uploads/2019/07/westhawkproperties-logo.png",
+   "foundAs": "logo",
+   "accent": "#8d207d",
+   "notes": []
+  },
+  {
+   "slug": "wexcel-realty-management",
+   "company": "WExcel Realty Management Ltd.",
+   "website": "https://www.wexcel.ca/",
+   "mark": "logo",
+   "file": "logos/wexcel-realty-management.png",
+   "size": [
+    683,
+    280
+   ],
+   "onAccentTile": false,
+   "source": "https://production-uploads.fastly.propertybase.com/assets/uploads/setting/company_header_logo/42414/cd2bde030f15f68fffdad156d92f0341.png?width=700&optimize=medium&auto=webp",
+   "foundAs": "logo",
+   "accent": "#906f21",
+   "notes": []
+  },
+  {
+   "slug": "your-key-rental-management",
+   "company": "Your Key Rental Management",
+   "website": "https://yourkey.ca/",
+   "mark": "logo",
+   "file": "logos/your-key-rental-management.png",
+   "size": [
+    900,
+    294
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.prod.website-files.com/67c8888b0f1c14b0e4992f74/690a3f7ea976ab4b86de0164_YK%20Logo%20Left.png",
+   "foundAs": "logo",
+   "accent": "#407b83",
+   "notes": []
+  },
+  {
+   "slug": "zenyx-property-management",
+   "company": "Zenyx Property Management",
+   "website": "https://www.zenyxproperty.com/",
+   "mark": "logo",
+   "file": "logos/zenyx-property-management.png",
+   "size": [
+    900,
+    176
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/6a8760339404493b0d6507da/6525875b-9402-4bf4-8244-af7cbc1651b4/Zenyx+Logo+%281%29+%281%29_page-0001.jpg?format=1500w",
+   "foundAs": "logo",
+   "accent": "#94711d",
+   "notes": []
+  },
+  {
+   "slug": "otb-properties-otb-investments",
+   "company": "OTB Properties (OTB Investments Inc.)",
+   "website": "https://www.otbproperties.ca/",
+   "mark": "logo",
+   "file": "logos/otb-properties-otb-investments.png",
+   "size": [
+    741,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/6c9a24_dac86533f9474e5380b6215efa4863a0~mv2.jpg",
+   "foundAs": "logo",
+   "accent": "#0057e1",
+   "notes": []
+  },
+  {
+   "slug": "sitler-property-management",
+   "company": "Sitler Property Management Inc.",
+   "website": "https://www.sitlerpm.com/",
+   "mark": "logo",
+   "file": "logos/sitler-property-management.png",
+   "size": [
+    300,
+    161
+   ],
+   "onAccentTile": false,
+   "source": "https://custom-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_limit,fl_lossy,h_300,w_300,f_auto,q_auto/20515697/940701_728498.png",
+   "foundAs": "logo",
+   "accent": "#16384f",
+   "notes": []
+  },
+  {
+   "slug": "paradox-apartments",
+   "company": "The Paradox Apartments",
+   "website": "https://paradoxcamrose.com/",
+   "mark": "logo",
+   "file": "logos/paradox-apartments.png",
+   "size": [
+    260,
+    49
+   ],
+   "onAccentTile": false,
+   "source": "https://paradoxcamrose.com/wp-content/uploads/2024/12/The-Paradox-Logo_Only-Text-7.png",
+   "foundAs": "logo",
+   "accent": "#846d31",
+   "notes": []
+  },
+  {
+   "slug": "bookcanmore-vacations",
+   "company": "BookCanmore Vacations",
+   "website": "https://www.bookcanmore.com/",
+   "mark": "logo",
+   "file": "logos/bookcanmore-vacations.png",
+   "size": [
+    501,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.prod.website-files.com/6451190ad107fddb00946bf8/65f9e1ae7b8e86530d9b2626_New%20BookCanmore%20Bear%20Logo2.png",
+   "foundAs": "logo",
+   "accent": "#887100",
+   "notes": []
+  },
+  {
+   "slug": "bow-property-services",
+   "company": "BOW Property Services",
+   "website": "https://www.bowvacationpropertymanagement.com/",
+   "mark": "logo",
+   "file": "logos/bow-property-services.png",
+   "size": [
+    708,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://static.wixstatic.com/media/891566_4d10abf0edc040118d419001ccee3ddc~mv2.png",
+   "foundAs": "logo",
+   "accent": "#0a3542",
+   "notes": []
+  },
+  {
+   "slug": "bow-valley-home-maintenance",
+   "company": "Bow Valley Home Maintenance Ltd.",
+   "website": "https://canmorehomemaintenance.ca/",
+   "mark": "logo",
+   "file": "logos/bow-valley-home-maintenance.png",
+   "size": [
+    198,
+    238
+   ],
+   "onAccentTile": true,
+   "source": "https://canmorehomemaintenance.ca/images/logo.png",
+   "foundAs": "logo",
+   "accent": "#617e7c",
+   "notes": []
+  },
+  {
+   "slug": "canmore-host",
+   "company": "Canmore Co-Host",
+   "website": "https://canmorecohost.com/",
+   "mark": "logo",
+   "file": "logos/canmore-host.png",
+   "size": [
+    282,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://canmorecohost.com/wp-content/smush-webp/2026/02/cropped-cropped-Canmore-Co-Host-2026-LOGO-FILES-v2.jpg.webp",
+   "foundAs": "logo",
+   "accent": "#2b3854",
+   "notes": []
+  },
+  {
+   "slug": "canmore-rental-management",
+   "company": "Canmore Rental Management",
+   "website": "https://canmorerentalmanagement.com/",
+   "mark": "logo",
+   "file": "logos/canmore-rental-management.png",
+   "size": [
+    309,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://canmorerentalmanagement.com/wp-content/uploads/2024/04/cropped-CRM-LOGO.png",
+   "foundAs": "logo",
+   "accent": "#8a784b",
+   "notes": []
+  },
+  {
+   "slug": "canmore-vacation-properties",
+   "company": "Canmore Vacation Properties",
+   "website": "https://canmorevacationproperties.com/",
+   "mark": "logo",
+   "file": "logos/canmore-vacation-properties.png",
+   "size": [
+    102,
+    114
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/static/pwa-app/logo-default.png/:/rs=w:180,h:180,m",
+   "foundAs": "logo",
+   "accent": "#ac6c2d",
+   "notes": []
+  },
+  {
+   "slug": "elk-and-owl-property-management-services",
+   "company": "Elk & Owl Property Management Services",
+   "website": "https://elkandowl.ca/",
+   "mark": "logo",
+   "file": "logos/elk-and-owl-property-management-services.png",
+   "size": [
+    797,
+    235
+   ],
+   "onAccentTile": true,
+   "source": "https://elkandowl.ca/wp-content/uploads/2019/11/elk-and-owl-logo.png",
+   "foundAs": "logo",
+   "accent": "#9b1b1b",
+   "notes": []
+  },
+  {
+   "slug": "fairshare-property-management",
+   "company": "FairShare Property Management",
+   "website": "https://fairsharepropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/fairshare-property-management.png",
+   "size": [
+    584,
+    163
+   ],
+   "onAccentTile": true,
+   "source": "https://fairsharepropertymanagement.ca/wp-content/uploads/2023/08/New-Project-1.png",
+   "foundAs": "logo",
+   "accent": "#438367",
+   "notes": []
+  },
+  {
+   "slug": "prestigious-properties-canada",
+   "company": "Prestigious Properties Canada Ltd.",
+   "website": "https://www.prestprop.com/",
+   "mark": "logo",
+   "file": "logos/prestigious-properties-canada.png",
+   "size": [
+    161,
+    79
+   ],
+   "onAccentTile": false,
+   "source": "https://www.prestprop.com/wp-content/uploads/2012/09/pp_logo.png",
+   "foundAs": "logo",
+   "accent": "#886c00",
+   "notes": []
+  },
+  {
+   "slug": "rentals-in-rockies",
+   "company": "Rentals in the Rockies",
+   "website": "https://www.rentalsintherockies.com/",
+   "mark": "logo",
+   "file": "logos/rentals-in-rockies.png",
+   "size": [
+    493,
+    84
+   ],
+   "onAccentTile": true,
+   "source": "https://www.rentalsintherockies.com/wp-content/uploads/Rentals_Logo1_White-copy.png",
+   "foundAs": "logo",
+   "accent": "#498115",
+   "notes": []
+  },
+  {
+   "slug": "rockies-rentals",
+   "company": "Rockies Rentals",
+   "website": "https://www.rockiesrentals.ca/",
+   "mark": "logo",
+   "file": "logos/rockies-rentals.png",
+   "size": [
+    540,
+    250
+   ],
+   "onAccentTile": false,
+   "source": "https://book.rockiesrentals.ca/wp-content/themes/BizcorLite/images/rockies-rentals-logo.png",
+   "foundAs": "logo",
+   "accent": "#737912",
+   "notes": []
+  },
+  {
+   "slug": "s-and-t-properties",
+   "company": "S&T Properties",
+   "website": "https://stproperties.com/",
+   "mark": "logo",
+   "file": "logos/s-and-t-properties.png",
+   "size": [
+    399,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://stproperties.com/wp-content/uploads/2020/10/ST-Properties-Logo-blue.png",
+   "foundAs": "logo",
+   "accent": "#003d67",
+   "notes": []
+  },
+  {
+   "slug": "ssr-property-management-samsara-canmore",
+   "company": "SSR Property Management (Samsara Canmore)",
+   "website": "https://www.ssrproperty.com/",
+   "mark": "logo",
+   "file": "logos/ssr-property-management-samsara-canmore.png",
+   "size": [
+    365,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/bb6ecd_f9c351ec122b4e8aa53cc042199a0310~mv2_d_2480_3508_s_4_2.jpg",
+   "foundAs": "logo",
+   "accent": "#3d5975",
+   "notes": []
+  },
+  {
+   "slug": "stoneridge-mountain-resort",
+   "company": "Stoneridge Mountain Resort",
+   "website": "https://www.stoneridgeresort.ca/",
+   "mark": "logo",
+   "file": "logos/stoneridge-mountain-resort.png",
+   "size": [
+    146,
+    52
+   ],
+   "onAccentTile": false,
+   "source": "https://www.stoneridgeresort.ca/wp-content/uploads/2023/02/HE-Logo-150x56-1.png",
+   "foundAs": "logo",
+   "accent": "#005c7b",
+   "notes": []
+  },
+  {
+   "slug": "tanner-properties",
+   "company": "Tanner Properties",
+   "website": "https://www.tannerproperties.com/",
+   "mark": "logo",
+   "file": "logos/tanner-properties.png",
+   "size": [
+    900,
+    111
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/61d22be05b687d1ff72ff739/cd81da73-a054-4862-9225-03f40e3ef108/Screen+Shot+2022-01-06+at+4.30.59+PM.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#b4560f",
+   "notes": []
+  },
+  {
+   "slug": "westnest",
+   "company": "WestNest",
+   "website": "https://www.westnest.ca/",
+   "mark": "logo",
+   "file": "logos/westnest.png",
+   "size": [
+    367,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://images.squarespace-cdn.com/content/v1/6583a60d0548151d5655c239/20d0cf2b-18c7-4533-a9f2-39582cb056c6/WestNest+%2814%29.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#a96914",
+   "notes": []
+  },
+  {
+   "slug": "kidder-and-company-real-estate-and-property-mana",
+   "company": "Kidder & Company Real Estate and Property Management Ltd.",
+   "website": "https://kidderandcompany.ca/",
+   "mark": "logo",
+   "file": "logos/kidder-and-company-real-estate-and-property-mana.png",
+   "size": [
+    110,
+    32
+   ],
+   "onAccentTile": false,
+   "source": "https://kidderandcompany.ca/wp-content/uploads/2016/09/Kidder-Logo2-e1481586338544.png",
+   "foundAs": "logo",
+   "accent": "#562d82",
+   "notes": []
+  },
+  {
+   "slug": "rlm-financial",
+   "company": "RLM Financial Limited",
+   "website": "https://www.rlmfinancial.ca/",
+   "mark": "logo",
+   "file": "logos/rlm-financial.png",
+   "size": [
+    173,
+    173
+   ],
+   "onAccentTile": true,
+   "source": "https://static.wixstatic.com/media/ba2cd3_1dc5df7088d0487daf45cd9d2329b357~mv2.png",
+   "foundAs": "logo",
+   "accent": "#0046ff",
+   "notes": []
+  },
+  {
+   "slug": "st-regis-management-cold-lake-office",
+   "company": "St. Regis Management Inc. (Cold Lake office)",
+   "website": "https://www.stregis.ca/",
+   "mark": "logo",
+   "file": "logos/st-regis-management-cold-lake-office.png",
+   "size": [
+    394,
+    154
+   ],
+   "onAccentTile": false,
+   "source": "https://www.stregis.ca/wp-content/uploads/2025/01/cropped-2-1.png",
+   "foundAs": "logo",
+   "accent": "#275293",
+   "notes": []
+  },
+  {
+   "slug": "crowsnest-pass-to-md-of-willow-creek-property-ma",
+   "company": "Crowsnest Pass to MD of Willow Creek Property Management",
+   "website": "https://www.cnp-pm.ca/",
+   "mark": "logo",
+   "file": "logos/crowsnest-pass-to-md-of-willow-creek-property-ma.png",
+   "size": [
+    398,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/f4798e_cfbe6e760b2946c3a711241146b6759c~mv2.png",
+   "foundAs": "logo",
+   "accent": "#b70c12",
+   "notes": []
+  },
+  {
+   "slug": "canmore-premier-property-management",
+   "company": "Canmore Premier Property Management",
+   "website": "https://www.canmorepremier.com/",
+   "mark": "logo",
+   "file": "logos/canmore-premier-property-management.png",
+   "size": [
+    833,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://d199a9u7yadple.cloudfront.net/canmorepremier/logo_dark.1702307750138.svg",
+   "foundAs": "logo",
+   "accent": "#294071",
+   "notes": []
+  },
+  {
+   "slug": "badlands-property-management",
+   "company": "Badlands Property Management",
+   "website": "https://badlandspropertymanagement-fivkx.wordpress.com/",
+   "mark": "logo",
+   "file": "logos/badlands-property-management.png",
+   "size": [
+    217,
+    224
+   ],
+   "onAccentTile": false,
+   "source": "https://badlandspropertymanagement-fivkx.wordpress.com/wp-content/uploads/2025/07/3-edited.png",
+   "foundAs": "logo",
+   "accent": "#8c7a2f",
+   "notes": []
+  },
+  {
+   "slug": "accurate-realty-and-property-management",
+   "company": "Accurate Realty & Property Management Ltd.",
+   "website": "",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "ag-property-services",
+   "company": "AG Property Services",
+   "website": "https://agpropertyservices.ca/",
+   "mark": "logo",
+   "file": "logos/ag-property-services.png",
+   "size": [
+    900,
+    280
+   ],
+   "onAccentTile": false,
+   "source": "https://agpropertyservices.ca/wp-content/uploads/logo.png",
+   "foundAs": "logo",
+   "accent": "#3679c2",
+   "notes": []
+  },
+  {
+   "slug": "aof-team-property-management",
+   "company": "AOF Team Property Management",
+   "website": "https://www.aofteam.com/",
+   "mark": "logo",
+   "file": "logos/aof-team-property-management.png",
+   "size": [
+    388,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.prod.website-files.com/69ef6fa24c31d7e4a027f6cc/6a0d2392d6179d2d84d26628_AOF%20Real%20Estate%20Team%20Logo.png",
+   "foundAs": "logo",
+   "accent": "#1f1d1b",
+   "notes": []
+  },
+  {
+   "slug": "avail-properties",
+   "company": "Avail Properties",
+   "website": "https://www.availproperties.ca/",
+   "mark": "logo",
+   "file": "logos/avail-properties.png",
+   "size": [
+    395,
+    208
+   ],
+   "onAccentTile": false,
+   "source": "https://assets.rentsync.com/avail/images/logos/1433774356_logo-avail.jpg",
+   "foundAs": "logo",
+   "accent": "#d64d18",
+   "notes": []
+  },
+  {
+   "slug": "birchwood-equities",
+   "company": "Birchwood Equities Inc.",
+   "website": "https://www.bestedmontonapartments.ca/",
+   "mark": "logo",
+   "file": "logos/birchwood-equities.png",
+   "size": [
+    436,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://assets.rentsync.com/birchwood/images/logos/1620083524980_Artboard_1.jpg",
+   "foundAs": "logo",
+   "accent": "#800020",
+   "notes": []
+  },
+  {
+   "slug": "bradford-property-management-and-realty",
+   "company": "Bradford Property Management & Realty Ltd.",
+   "website": "https://www.bradfordpm.com/",
+   "mark": "logo",
+   "file": "logos/bradford-property-management-and-realty.png",
+   "size": [
+    339,
+    158
+   ],
+   "onAccentTile": true,
+   "source": "https://static.wixstatic.com/media/6cadb8_6d90ed8385944e11919ffdf9127d14a9.png",
+   "foundAs": "logo",
+   "accent": "#387fbb",
+   "notes": []
+  },
+  {
+   "slug": "burk-management-and-realty",
+   "company": "Burk Management & Realty Inc.",
+   "website": "https://burkmanagement.com/",
+   "mark": "logo",
+   "file": "logos/burk-management-and-realty.png",
+   "size": [
+    83,
+    64
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/84c99d69-7008-40c5-81cf-fdb449dc1efd/a%20-%20Burk%20Logo%20black%20background%202.jpg/:/rs=h:110,cg:true,m/qt=q:95",
+   "foundAs": "logo",
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "canadian-urban",
+   "company": "Canadian Urban Ltd.",
+   "website": "https://www.canadianurban.com/",
+   "mark": "logo",
+   "file": "logos/canadian-urban.png",
+   "size": [
+    900,
+    283
+   ],
+   "onAccentTile": false,
+   "source": "https://www.canadianurban.com/wp-content/uploads/2023/07/cropped-CUL_horizontal_RGB.png",
+   "foundAs": "logo",
+   "accent": "#aa0313",
+   "notes": []
+  },
+  {
+   "slug": "capcity-realty-group",
+   "company": "Capcity Realty Group",
+   "website": "https://capcityrealtygroup.com/",
+   "mark": "logo",
+   "file": "logos/capcity-realty-group.png",
+   "size": [
+    569,
+    178
+   ],
+   "onAccentTile": false,
+   "source": "https://capcityrealtygroup.com/wp-content/uploads/2013/10/capcity-logo.png",
+   "foundAs": "logo",
+   "accent": "#007da5",
+   "notes": []
+  },
+  {
+   "slug": "celtic-group-of-companies",
+   "company": "Celtic Group of Companies",
+   "website": "https://www.celticgrp.com/",
+   "mark": "logo",
+   "file": "logos/celtic-group-of-companies.png",
+   "size": [
+    331,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/da4947_18d4b731426a41d0a4ae904d658aecea~mv2.png",
+   "foundAs": "logo",
+   "accent": "#bd5b4d",
+   "notes": []
+  },
+  {
+   "slug": "christenson-developments-christenson-communities",
+   "company": "Christenson Developments (Christenson Communities)",
+   "website": "https://www.cdlhomes.com/",
+   "mark": "logo",
+   "file": "logos/christenson-developments-christenson-communities.png",
+   "size": [
+    196,
+    43
+   ],
+   "onAccentTile": true,
+   "source": "https://www.cdlhomes.com/images/global/headerLogo.png",
+   "foundAs": "logo",
+   "accent": "#977400",
+   "notes": []
+  },
+  {
+   "slug": "civida",
+   "company": "Civida",
+   "website": "https://civida.ca/",
+   "mark": "logo",
+   "file": "logos/civida.png",
+   "size": [
+    302,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://civida.ca/wp-content/themes/civida/dist/assets/svgs/logo.svg",
+   "foundAs": "logo",
+   "accent": "#277da2",
+   "notes": []
+  },
+  {
+   "slug": "deva-rentals",
+   "company": "Deva Rentals",
+   "website": "https://devarentals.com/",
+   "mark": "logo",
+   "file": "logos/deva-rentals.png",
+   "size": [
+    294,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://devarentals.com/rental-dv-logo.jpg",
+   "foundAs": "logo",
+   "accent": "#6c1517",
+   "notes": []
+  },
+  {
+   "slug": "diamond-management-group",
+   "company": "Diamond Management Group Inc.",
+   "website": "https://diamondmgmt.ca/",
+   "mark": "logo",
+   "file": "logos/diamond-management-group.png",
+   "size": [
+    737,
+    216
+   ],
+   "onAccentTile": true,
+   "source": "https://photos.alphotoscdn.com/file/al-cms/MediaLibrary/26266/logos-new-black-white-ee6829bd-5654-4d40-b7da-587f70ada572.webp",
+   "foundAs": "logo",
+   "accent": "#896a68",
+   "notes": []
+  },
+  {
+   "slug": "epic-investment-services",
+   "company": "Epic Investment Services",
+   "website": "https://epicinvestmentservices.com/",
+   "mark": "logo",
+   "file": "logos/epic-investment-services.png",
+   "size": [
+    500,
+    244
+   ],
+   "onAccentTile": false,
+   "source": "https://epicinvestmentservices.com/wp-content/themes/om-epic/assets/images/logo.gif",
+   "foundAs": "logo",
+   "accent": "#458800",
+   "notes": []
+  },
+  {
+   "slug": "fortress-properties",
+   "company": "Fortress Properties",
+   "website": "https://fortressproperties.ca/",
+   "mark": "logo",
+   "file": "logos/fortress-properties.png",
+   "size": [
+    499,
+    129
+   ],
+   "onAccentTile": false,
+   "source": "https://fortressproperties.ca/wp-content/themes/fortress-properties/dist/images/logo_2947182b.png",
+   "foundAs": "logo",
+   "accent": "#17286d",
+   "notes": []
+  },
+  {
+   "slug": "gef-seniors-housing",
+   "company": "GEF Seniors Housing",
+   "website": "https://gef.org/",
+   "mark": "logo",
+   "file": "logos/gef-seniors-housing.png",
+   "size": [
+    360,
+    152
+   ],
+   "onAccentTile": false,
+   "source": "https://gef.org/wp-content/themes/gefmain/dist/images/logo.jpg",
+   "foundAs": "logo-img",
+   "accent": "#ce365b",
+   "notes": []
+  },
+  {
+   "slug": "hallmark-management",
+   "company": "Hallmark Management Inc.",
+   "website": "https://www.hallmarkmanagement.ca/",
+   "mark": "logo",
+   "file": "logos/hallmark-management.png",
+   "size": [
+    518,
+    87
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/662646_56daa7a5fab842429a49429fc625f439~mv2.jpg",
+   "foundAs": "logo",
+   "accent": "#004970",
+   "notes": []
+  },
+  {
+   "slug": "hearthstone-management",
+   "company": "Hearthstone Management Ltd.",
+   "website": "https://hearthstonemanagement.ca/",
+   "mark": "logo",
+   "file": "logos/hearthstone-management.png",
+   "size": [
+    900,
+    60
+   ],
+   "onAccentTile": false,
+   "source": "https://hearthstonemanagement.ca/wp-content/uploads/2022/03/Icon-Text-Logo-Full-Colour.svg",
+   "foundAs": "logo",
+   "accent": "#307e98",
+   "notes": []
+  },
+  {
+   "slug": "hughes-commercial-realty-group",
+   "company": "Hughes Commercial Realty Group",
+   "website": "https://hcrgroup.ca/",
+   "mark": "logo",
+   "file": "logos/hughes-commercial-realty-group.png",
+   "size": [
+    900,
+    289
+   ],
+   "onAccentTile": false,
+   "source": "https://hcrgroup.ca/wp-content/uploads/2025/10/HCR-Group-Final-Logo-Transparent.png",
+   "foundAs": "logo",
+   "accent": "#91712e",
+   "notes": []
+  },
+  {
+   "slug": "inland-property-management",
+   "company": "Inland Property Management Ltd.",
+   "website": "https://inlandpropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/inland-property-management.png",
+   "size": [
+    855,
+    165
+   ],
+   "onAccentTile": false,
+   "source": "https://odessawieser-wqalp.wordpress.com/wp-content/uploads/2026/08/build.png",
+   "foundAs": "logo",
+   "accent": "#491d1d",
+   "notes": []
+  },
+  {
+   "slug": "live-furnished",
+   "company": "Live Furnished",
+   "website": "https://livefurnished.ca/",
+   "mark": "logo",
+   "file": "logos/live-furnished.png",
+   "size": [
+    180,
+    96
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.shortpixel.ai/client/to_auto,q_lossy,ret_img/https://livefurnished.ca/wp-content/uploads/sites/3/2019/04/Live-Furnished-Header-Logo@2x.png",
+   "foundAs": "logo",
+   "accent": "#987107",
+   "notes": []
+  },
+  {
+   "slug": "lizotte-real-estate",
+   "company": "Lizotte Real Estate",
+   "website": "https://lizotterealestate.com/",
+   "mark": "logo",
+   "file": "logos/lizotte-real-estate.png",
+   "size": [
+    900,
+    201
+   ],
+   "onAccentTile": true,
+   "source": "https://lizotterealestate.com/wp-content/uploads/2023/01/lizotte-footer-logo.svg",
+   "foundAs": "logo",
+   "accent": "#a37001",
+   "notes": []
+  },
+  {
+   "slug": "maclab-development-group",
+   "company": "Maclab Development Group",
+   "website": "https://www.maclabdevelopment.com/",
+   "mark": "logo",
+   "file": "logos/maclab-development-group.png",
+   "size": [
+    862,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://www.maclabdevelopment.com/images/ui/header-logo.svg?v=3",
+   "foundAs": "logo",
+   "accent": "#007bb0",
+   "notes": []
+  },
+  {
+   "slug": "manhattan-realty",
+   "company": "Manhattan Realty Inc.",
+   "website": "https://www.manhattanrealestate.ca/",
+   "mark": "logo",
+   "file": "logos/manhattan-realty.png",
+   "size": [
+    900,
+    204
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/5c9af4e977b90382a6282841/93f41e5c-64f9-40e9-912f-20530ff870bb/MR+2022.png",
+   "foundAs": "logo",
+   "accent": "#e1341d",
+   "notes": []
+  },
+  {
+   "slug": "maxwell-horizon",
+   "company": "Maxwell Horizon",
+   "website": "https://www.maxwellhorizon.ca/",
+   "mark": "logo",
+   "file": "logos/maxwell-horizon.png",
+   "size": [
+    581,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://assets.rentsync.com/align_property_mgmt/images/logos/1682631173998_Horizon_Logo_Brokerage_-_red__USE.png",
+   "foundAs": "logo",
+   "accent": "#d0202f",
+   "notes": []
+  },
+  {
+   "slug": "mccrae-property-management",
+   "company": "McCrae Property Management",
+   "website": "https://www.mccraeproperty.com/",
+   "mark": "logo",
+   "file": "logos/mccrae-property-management.png",
+   "size": [
+    181,
+    107
+   ],
+   "onAccentTile": false,
+   "source": "https://assets.rentsync.com/mccrae/images/logos/1652716361_logo-mccrae.png",
+   "foundAs": "logo",
+   "accent": "#678222",
+   "notes": []
+  },
+  {
+   "slug": "melcor-developments",
+   "company": "Melcor Developments Ltd.",
+   "website": "https://www.melcor.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "metro-region-property-management",
+   "company": "Metro Region Property Management",
+   "website": "https://metroregion.ca/",
+   "mark": "logo",
+   "file": "logos/metro-region-property-management.png",
+   "size": [
+    382,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.durable.co/logos/1f9CUip7BQMezy1TO6N1WqLfvMeFB7VbKNQQOFE7NwDKkQe2A57nJGarlegdP6I7.jpg",
+   "foundAs": "logo",
+   "accent": "#b25f00",
+   "notes": []
+  },
+  {
+   "slug": "mission-management",
+   "company": "Mission Management Inc.",
+   "website": "https://www.missionmanagement.ca/",
+   "mark": "logo",
+   "file": "logos/mission-management.png",
+   "size": [
+    279,
+    64
+   ],
+   "onAccentTile": false,
+   "source": "https://www.missionmanagement.ca/images/logo.jpg",
+   "foundAs": "logo-img",
+   "accent": "#a16708",
+   "notes": []
+  },
+  {
+   "slug": "nearctic-property-group",
+   "company": "Nearctic Property Group",
+   "website": "https://www.nearctic.com/",
+   "mark": "logo",
+   "file": "logos/nearctic-property-group.png",
+   "size": [
+    900,
+    177
+   ],
+   "onAccentTile": true,
+   "source": "https://www.nearctic.com/wp-content/uploads/2020/05/logo-nearctic-white.svg",
+   "foundAs": "logo",
+   "accent": "#be1d2c",
+   "notes": []
+  },
+  {
+   "slug": "pangman-development",
+   "company": "Pangman Development Corporation",
+   "website": "https://pangmandev.com/",
+   "mark": "logo",
+   "file": "logos/pangman-development.png",
+   "size": [
+    900,
+    160
+   ],
+   "onAccentTile": false,
+   "source": "https://pangmandev.com/wp-content/themes/pangman/dist/assets/images/logo.svg",
+   "foundAs": "logo",
+   "accent": "#6f8057",
+   "notes": []
+  },
+  {
+   "slug": "pinnacle-realty-and-management",
+   "company": "Pinnacle Realty & Management Inc.",
+   "website": "http://www.pinnaclemgmt.ca/",
+   "mark": "logo",
+   "file": "logos/pinnacle-realty-and-management.png",
+   "size": [
+    328,
+    91
+   ],
+   "onAccentTile": false,
+   "source": "https://pinnaclegroup.ca/wp-content/uploads/2022/07/cropped-PG-logo-360x100-1.jpg",
+   "foundAs": "logo",
+   "accent": "#286af6",
+   "notes": []
+  },
+  {
+   "slug": "precise-property-management",
+   "company": "Precise Property Management",
+   "website": "https://precisepm.ca/",
+   "mark": "logo",
+   "file": "logos/precise-property-management.png",
+   "size": [
+    643,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://precisepm.ca/wp-content/uploads/2024/06/cropped-logo-White.png",
+   "foundAs": "logo",
+   "accent": "#318170",
+   "notes": []
+  },
+  {
+   "slug": "progressive-property-management",
+   "company": "Progressive Property Management Ltd.",
+   "website": "https://progressivepropertymanagement.ca/",
+   "mark": "logo",
+   "file": "logos/progressive-property-management.png",
+   "size": [
+    291,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "http://progressivepropertymanagement.ca/wp-content/uploads/2020/09/ppm-logo-1.jpg",
+   "foundAs": "logo",
+   "accent": "#ba5004",
+   "notes": []
+  },
+  {
+   "slug": "propfit-property-management",
+   "company": "PropFit Property Management",
+   "website": "https://propfitpm.ca/",
+   "mark": "logo",
+   "file": "logos/propfit-property-management.png",
+   "size": [
+    321,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/797e17_837f95cd232e45d4b2cb6c362105ed59~mv2.png",
+   "foundAs": "logo",
+   "accent": "#008070",
+   "notes": []
+  },
+  {
+   "slug": "race-real-estate",
+   "company": "Race Real Estate",
+   "website": "https://racerealestate.com/",
+   "mark": "logo",
+   "file": "logos/race-real-estate.png",
+   "size": [
+    384,
+    30
+   ],
+   "onAccentTile": false,
+   "source": "https://racerealestate.com/wp-content/uploads/2026/01/race-logo-long.png",
+   "foundAs": "logo",
+   "accent": "#10367d",
+   "notes": []
+  },
+  {
+   "slug": "realty-72",
+   "company": "Realty 72",
+   "website": "https://realty72.ca/",
+   "mark": "logo",
+   "file": "logos/realty-72.png",
+   "size": [
+    896,
+    240
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/hJN79TL2172B16g433VGYJubJ2ERiupflEOHAvTiIXk/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL3MvYS9sL20vc2FsbWFuLXJhamFuaS1ibG9ja3MxLm15cmVhbHBhZ2V3ZWJzaXRlLmNvbS9fbWVkaWEvMjIyLnBuZz90PTE2MTc5NTAyMTAyNjg?t=1617950210268",
+   "foundAs": "logo",
+   "accent": "#006fe6",
+   "notes": []
+  },
+  {
+   "slug": "realty-group-western-realty-group",
+   "company": "Realty Group (Western Realty Group)",
+   "website": "https://www.realtygr.com/",
+   "mark": "logo",
+   "file": "logos/realty-group-western-realty-group.png",
+   "size": [
+    900,
+    168
+   ],
+   "onAccentTile": false,
+   "source": "https://www.realtygr.com/wp-content/themes/westernrealty/images/logos/wrg-logo.svg",
+   "foundAs": "logo",
+   "accent": "#d60000",
+   "notes": []
+  },
+  {
+   "slug": "realty-key-group-condominium-management",
+   "company": "Realty Key Group Condominium Management Inc.",
+   "website": "https://realtykeygroup.com/",
+   "mark": "logo",
+   "file": "logos/realty-key-group-condominium-management.png",
+   "size": [
+    250,
+    121
+   ],
+   "onAccentTile": false,
+   "source": "https://realtykeygroup.com/wp-content/uploads/2023/04/cropped-Realty-Key-Logo-250x125-1.png",
+   "foundAs": "logo",
+   "accent": "#875827",
+   "notes": []
+  },
+  {
+   "slug": "regency-developments",
+   "company": "Regency Developments",
+   "website": "https://regencydevelopments.ca/",
+   "mark": "logo",
+   "file": "logos/regency-developments.png",
+   "size": [
+    180,
+    147
+   ],
+   "onAccentTile": false,
+   "source": "https://regencydevelopments.ca/wp-content/uploads/2022/06/cropped-regency-developments-logo--180x180.png",
+   "foundAs": "logo",
+   "accent": "#997305",
+   "notes": []
+  },
+  {
+   "slug": "reliable-property-management",
+   "company": "Reliable Property Management",
+   "website": "https://www.reliablepromng.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#154d57",
+   "notes": [
+    "override: promo flyer, not a logo"
+   ]
+  },
+  {
+   "slug": "rent-xs",
+   "company": "Rent XS",
+   "website": "https://www.rentxs.ca/",
+   "mark": "logo",
+   "file": "logos/rent-xs.png",
+   "size": [
+    188,
+    47
+   ],
+   "onAccentTile": false,
+   "source": "https://s3.amazonaws.com/lws_lift/xs_properties/images/logos/1706732174468_logo-header.png",
+   "foundAs": "logo",
+   "accent": "#946f22",
+   "notes": []
+  },
+  {
+   "slug": "rivercity-property-group",
+   "company": "RiverCity Property Group",
+   "website": "https://rivercitygroup.ca/",
+   "mark": "logo",
+   "file": "logos/rivercity-property-group.png",
+   "size": [
+    709,
+    210
+   ],
+   "onAccentTile": false,
+   "source": "https://rivercitygroup.ca/assets/rivercity-logo-AhpMkobf.png",
+   "foundAs": "logo",
+   "accent": "#bf622a",
+   "notes": []
+  },
+  {
+   "slug": "roots-to-peak-management",
+   "company": "Roots to Peak Management Ltd.",
+   "website": "https://rootstopeak.com/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#054277",
+   "notes": [
+    "override: CCI membership badge"
+   ]
+  },
+  {
+   "slug": "royal-park-realty",
+   "company": "Royal Park Realty",
+   "website": "https://royalparkrealty.com/",
+   "mark": "logo",
+   "file": "logos/royal-park-realty.png",
+   "size": [
+    350,
+    123
+   ],
+   "onAccentTile": false,
+   "source": "https://royalparkrealty.com/wp-content/themes/royalpark/images/logo.png",
+   "foundAs": "logo",
+   "accent": "#c32a1b",
+   "notes": []
+  },
+  {
+   "slug": "servis-realty",
+   "company": "Servis Realty Inc.",
+   "website": "https://servisrealty.ca/",
+   "mark": "logo",
+   "file": "logos/servis-realty.png",
+   "size": [
+    500,
+    104
+   ],
+   "onAccentTile": false,
+   "source": "https://servisrealty.ca/wp-content/uploads/2021/09/SRlogolong_optwt.png",
+   "foundAs": "logo",
+   "accent": "#e01fa0",
+   "notes": []
+  },
+  {
+   "slug": "simco-management-edmonton",
+   "company": "Simco Management (Edmonton) Inc.",
+   "website": "https://simcomanagementedmonton.ca/",
+   "mark": "logo",
+   "file": "logos/simco-management-edmonton.png",
+   "size": [
+    168,
+    177
+   ],
+   "onAccentTile": false,
+   "source": "https://simcomanagementedmonton.ca/wp-content/themes/simcotheme/images/logo.png",
+   "foundAs": "logo",
+   "accent": "#816f19",
+   "notes": []
+  },
+  {
+   "slug": "stevera-property-management",
+   "company": "Stevera Property Management",
+   "website": "https://steverapm.com/",
+   "mark": "logo",
+   "file": "logos/stevera-property-management.png",
+   "size": [
+    900,
+    136
+   ],
+   "onAccentTile": false,
+   "source": "https://steverapm.com/brand/stevera-logo.svg",
+   "foundAs": "logo",
+   "accent": "#10559a",
+   "notes": []
+  },
+  {
+   "slug": "tega-property-management",
+   "company": "TEGA Property Management Ltd.",
+   "website": "",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "upskill-condominium-advisory",
+   "company": "Upskill Condominium Advisory Ltd.",
+   "website": "https://upskillcondo.ca/",
+   "mark": "logo",
+   "file": "logos/upskill-condominium-advisory.png",
+   "size": [
+    545,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/64b93aac4eba2639bee9e4f0/33bdc115-aaf1-4dd7-81a8-b73a2b9238ad/Vector-2.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#1a1a1a",
+   "notes": []
+  },
+  {
+   "slug": "westcorp-property-management",
+   "company": "Westcorp Property Management Inc.",
+   "website": "https://www.westcorp.net/",
+   "mark": "logo",
+   "file": "logos/westcorp-property-management.png",
+   "size": [
+    178,
+    43
+   ],
+   "onAccentTile": true,
+   "source": "https://www.westcorp.net/app/themes/westcorp-bones/images/logo.png?1530894156",
+   "foundAs": "logo",
+   "accent": "#92680e",
+   "notes": []
+  },
+  {
+   "slug": "yorkton-group",
+   "company": "Yorkton Group",
+   "website": "https://www.yorktongroup.com/",
+   "mark": "logo",
+   "file": "logos/yorkton-group.png",
+   "size": [
+    682,
+    78
+   ],
+   "onAccentTile": false,
+   "source": "https://www.yorktongroup.com/wp-content/uploads/2017/01/logo-final.png",
+   "foundAs": "logo",
+   "accent": "#887754",
+   "notes": []
+  },
+  {
+   "slug": "zenith-commercial",
+   "company": "Zenith Commercial",
+   "website": "https://zenithcommercial.ca/",
+   "mark": "logo",
+   "file": "logos/zenith-commercial.png",
+   "size": [
+    200,
+    125
+   ],
+   "onAccentTile": true,
+   "source": "https://zenithcommercial.ca/brand/zenith-mark-cream-200.png",
+   "foundAs": "logo",
+   "accent": "#907321",
+   "notes": []
+  },
+  {
+   "slug": "century-21-twin-realty",
+   "company": "CENTURY 21 Twin Realty",
+   "website": "https://twinrealty.c21.ca/edson-property-management",
+   "mark": "logo",
+   "file": "logos/century-21-twin-realty.png",
+   "size": [
+    900,
+    223
+   ],
+   "onAccentTile": false,
+   "source": "https://images-static.moxiworks.com/static/images/br/C21Canada/nonQuebecK-Z/Moxi_Pri_Twin%20Realty_Gold.png",
+   "foundAs": "logo",
+   "accent": "#8a794b",
+   "notes": []
+  },
+  {
+   "slug": "re-max-boxshaw-realty-edson",
+   "company": "RE/MAX Boxshaw Realty Edson",
+   "website": "https://www.remaxedson.com/rental-property",
+   "mark": "logo",
+   "file": "logos/re-max-boxshaw-realty-edson.png",
+   "size": [
+    291,
+    54
+   ],
+   "onAccentTile": false,
+   "source": "https://www.remaxedson.com/hosted/users/logo/remax_logo_web.jpg",
+   "foundAs": "logo",
+   "accent": "#dc1c2e",
+   "notes": []
+  },
+  {
+   "slug": "20-20-management",
+   "company": "20|20 Management",
+   "website": "https://2020management.ca/",
+   "mark": "logo",
+   "file": "logos/20-20-management.png",
+   "size": [
+    533,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/e62040f2-3d0c-4359-ba2c-c3f5a319e05d/Logo%20With%20Slogan.png/:/",
+   "foundAs": "logo-img",
+   "accent": "#347283",
+   "notes": []
+  },
+  {
+   "slug": "alberta-property-management-solutions",
+   "company": "Alberta Property Management Solutions Inc.",
+   "website": "https://www.albertamanagement.com/",
+   "mark": "logo",
+   "file": "logos/alberta-property-management-solutions.png",
+   "size": [
+    416,
+    108
+   ],
+   "onAccentTile": false,
+   "source": "https://www.albertamanagement.com/layout/images/logo.jpg",
+   "foundAs": "logo",
+   "accent": "#cd0009",
+   "notes": []
+  },
+  {
+   "slug": "wawatay-management-group",
+   "company": "Wawatay Management Group Inc.",
+   "website": "https://www.wawatay.com/",
+   "mark": "logo",
+   "file": "logos/wawatay-management-group.png",
+   "size": [
+    151,
+    199
+   ],
+   "onAccentTile": false,
+   "source": "https://www.wawatay.com/uploads/1/4/5/5/14550702/published/logo-cropped.jpg?1689029661",
+   "foundAs": "logo",
+   "accent": "#9e6507",
+   "notes": []
+  },
+  {
+   "slug": "wood-buffalo-housing",
+   "company": "Wood Buffalo Housing",
+   "website": "https://wbhousing.ca/",
+   "mark": "logo",
+   "file": "logos/wood-buffalo-housing.png",
+   "size": [
+    390,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://wbhousing.ca/wp-content/uploads/2022/09/WBH_Logo_2018_REVISED_Col.svg",
+   "foundAs": "logo",
+   "accent": "#0863fc",
+   "notes": []
+  },
+  {
+   "slug": "ymm-property-rentals-coldwell-banker-fort-mcmurr",
+   "company": "YMM Property Rentals (Coldwell Banker Fort McMurray PM Division)",
+   "website": "https://www.ymmpropertyrentals.ca/",
+   "mark": "logo",
+   "file": "logos/ymm-property-rentals-coldwell-banker-fort-mcmurr.png",
+   "size": [
+    212,
+    48
+   ],
+   "onAccentTile": false,
+   "source": "https://www.ymmpropertyrentals.ca/images/logo.png",
+   "foundAs": "logo",
+   "accent": "#306093",
+   "notes": []
+  },
+  {
+   "slug": "re-max-edge-realty-and-property-management",
+   "company": "RE/MAX Edge Realty and Property Management",
+   "website": "https://remaxedgepm.com/",
+   "mark": "logo",
+   "file": "logos/re-max-edge-realty-and-property-management.png",
+   "size": [
+    164,
+    88
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/d6c9bf5d-4f92-4fe7-a164-3d493077075b/Remax%20Edge%20PM%20logo%202.jpg/:/rs=h:132,cg:true,m/qt=q:95",
+   "foundAs": "logo",
+   "accent": "#8c0d0e",
+   "notes": []
+  },
+  {
+   "slug": "approved-properties-better-homes-and-gardens-rea",
+   "company": "Approved Properties (Better Homes and Gardens Real Estate)",
+   "website": "https://www.approvedproperties.ca/",
+   "mark": "logo",
+   "file": "logos/approved-properties-better-homes-and-gardens-rea.png",
+   "size": [
+    453,
+    119
+   ],
+   "onAccentTile": false,
+   "source": "https://www.approvedproperties.ca/wp-content/uploads/2020/10/approved-properties-better-homes-gardens-grande-prairie-logo.jpg",
+   "foundAs": "logo",
+   "accent": "#2f8a3f",
+   "notes": []
+  },
+  {
+   "slug": "equity-rentals",
+   "company": "Equity Rentals",
+   "website": "https://equity.rentals/",
+   "mark": "logo",
+   "file": "logos/equity-rentals.png",
+   "size": [
+    900,
+    278
+   ],
+   "onAccentTile": false,
+   "source": "https://equity.rentals/wp-content/uploads/2021/03/EQ-Logo-2x1-Transparent.webp",
+   "foundAs": "logo",
+   "accent": "#9a020c",
+   "notes": []
+  },
+  {
+   "slug": "grande-spirit-foundation",
+   "company": "Grande Spirit Foundation",
+   "website": "https://www.grandespirit.org/",
+   "mark": "logo",
+   "file": "logos/grande-spirit-foundation.png",
+   "size": [
+    147,
+    134
+   ],
+   "onAccentTile": false,
+   "source": "https://www.grandespirit.org/wp-content/uploads/2021/03/gsf_logo.png.webp",
+   "foundAs": "logo",
+   "accent": "#5e8011",
+   "notes": []
+  },
+  {
+   "slug": "grassroots-realty-group",
+   "company": "Grassroots Realty Group",
+   "website": "https://grassrootsrealtygroup.ca/property-management/",
+   "mark": "logo",
+   "file": "logos/grassroots-realty-group.png",
+   "size": [
+    296,
+    296
+   ],
+   "onAccentTile": true,
+   "source": "https://grassrootsrealtygroup.ca/wp-content/uploads/2026/06/LogoCrest-White-300x300.png",
+   "foundAs": "logo",
+   "accent": "#ed233d",
+   "notes": []
+  },
+  {
+   "slug": "key-investment-property-management",
+   "company": "Key Investment Property Management Inc.",
+   "website": "https://keyproperty.ca/",
+   "mark": "logo",
+   "file": "logos/key-investment-property-management.png",
+   "size": [
+    881,
+    194
+   ],
+   "onAccentTile": false,
+   "source": "https://keyproperty.ca/wp-content/uploads/2019/06/Colour.png",
+   "foundAs": "logo",
+   "accent": "#637827",
+   "notes": []
+  },
+  {
+   "slug": "park-property-management-group",
+   "company": "Park Property Management Group",
+   "website": "https://parkpmg.ca/",
+   "mark": "logo",
+   "file": "logos/park-property-management-group.png",
+   "size": [
+    379,
+    114
+   ],
+   "onAccentTile": false,
+   "source": "https://parkpmg.ca/wp-content/uploads/2026/05/pp-desktop-header-logo@2x.png",
+   "foundAs": "logo",
+   "accent": "#897356",
+   "notes": []
+  },
+  {
+   "slug": "prime-property-management",
+   "company": "Prime Property Management",
+   "website": "https://www.gpprime.net/",
+   "mark": "logo",
+   "file": "logos/prime-property-management.png",
+   "size": [
+    245,
+    52
+   ],
+   "onAccentTile": false,
+   "source": "https://assets.rentsync.com/prime_pm/images/logos/1748611596480_Untitled_design__4_.png",
+   "foundAs": "logo",
+   "accent": "#1d5565",
+   "notes": []
+  },
+  {
+   "slug": "royal-lepage-property-management-grande-prairie",
+   "company": "Royal LePage Property Management Grande Prairie",
+   "website": "https://rentrlp.ca/",
+   "mark": "logo",
+   "file": "logos/royal-lepage-property-management-grande-prairie.png",
+   "size": [
+    168,
+    110
+   ],
+   "onAccentTile": false,
+   "source": "https://rentrlp.ca/apple-touch-icon-180x180.png",
+   "foundAs": "logo",
+   "accent": "#e12120",
+   "notes": []
+  },
+  {
+   "slug": "sutton-group-grande-prairie-property-management",
+   "company": "Sutton Group Grande Prairie Property Management",
+   "website": "https://www.suttonpm.com/",
+   "mark": "logo",
+   "file": "logos/sutton-group-grande-prairie-property-management.png",
+   "size": [
+    900,
+    199
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/694186bb7c4ca722830ca265/3be3a16c-001f-491e-a642-7e64e08d31af/Logo+%281%29.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#ea2c3a",
+   "notes": []
+  },
+  {
+   "slug": "balsam-court",
+   "company": "Balsam Court",
+   "website": "https://balsamcourt.com/",
+   "mark": "logo",
+   "file": "logos/balsam-court.png",
+   "size": [
+    423,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://balsamcourt.com/wp-content/uploads/2025/08/balsam-court-logo.png",
+   "foundAs": "logo",
+   "accent": "#583c2c",
+   "notes": []
+  },
+  {
+   "slug": "parkland-foundation",
+   "company": "Parkland Foundation",
+   "website": "https://www.parklandfoundation.ca/",
+   "mark": "logo",
+   "file": "logos/parkland-foundation.png",
+   "size": [
+    466,
+    56
+   ],
+   "onAccentTile": false,
+   "source": "https://www.parklandfoundation.ca/images/logo-parkland-lg.png",
+   "foundAs": "logo",
+   "accent": "#640833",
+   "notes": []
+  },
+  {
+   "slug": "leduc-op-properties",
+   "company": "Leduc Co-op Properties",
+   "website": "https://leduccoopproperties.ca/",
+   "mark": "logo",
+   "file": "logos/leduc-op-properties.png",
+   "size": [
+    108,
+    59
+   ],
+   "onAccentTile": false,
+   "source": "https://img1.wsimg.com/isteam/ip/6ae9c232-5e8a-4c7a-9e48-71891d5356e2/cooplarge.jpg/:/rs=h:75,cg:true,m/qt=q:95",
+   "foundAs": "logo",
+   "accent": "#8f6e6e",
+   "notes": []
+  },
+  {
+   "slug": "calnan-core-investment-fund",
+   "company": "Calnan / CORE Investment Fund",
+   "website": "https://www.calnan.co/",
+   "mark": "logo",
+   "file": "logos/calnan-core-investment-fund.png",
+   "size": [
+    900,
+    219
+   ],
+   "onAccentTile": false,
+   "source": "https://www.calnan.co/images/CREG%20Logo.png?dpl=dpl_E8ATECPxjmnQUY5H7iacCPnjMPed",
+   "foundAs": "logo",
+   "accent": "#926d1e",
+   "notes": []
+  },
+  {
+   "slug": "grassroots-realty-south",
+   "company": "Grassroots Realty South",
+   "website": "https://grassrootsrealtysouth.ca/",
+   "mark": "logo",
+   "file": "logos/grassroots-realty-south.png",
+   "size": [
+    331,
+    125
+   ],
+   "onAccentTile": true,
+   "source": "https://grassrootsrealtygroup.ca/south/wp-content/uploads/2021/01/grassroots-realty-group-logo.png",
+   "foundAs": "logo",
+   "accent": "#151b26",
+   "notes": []
+  },
+  {
+   "slug": "shift-real-estate-investments-shift-rei",
+   "company": "Shift Real Estate Investments (Shift REI)",
+   "website": "https://www.shiftrei.ca/",
+   "mark": "logo",
+   "file": "logos/shift-real-estate-investments-shift-rei.png",
+   "size": [
+    874,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://cdn.prod.website-files.com/62cf34045bf9f25fb6bc593d/64480c4812b572287296f408_Shift%20Portal%20Logo%20WHITE.png",
+   "foundAs": "logo",
+   "accent": "#b62026",
+   "notes": []
+  },
+  {
+   "slug": "summit-lethbridge-summit-property-group",
+   "company": "Summit Lethbridge (Summit Property Group)",
+   "website": "https://summitlethbridge.ca/",
+   "mark": "logo",
+   "file": "logos/summit-lethbridge-summit-property-group.png",
+   "size": [
+    462,
+    270
+   ],
+   "onAccentTile": false,
+   "source": "https://summitlethbridge.ca/wp-content/uploads/2025/08/Final-Logo-1.webp",
+   "foundAs": "logo",
+   "accent": "#2273b2",
+   "notes": []
+  },
+  {
+   "slug": "coldwell-banker-cityside-realty",
+   "company": "Coldwell Banker Cityside Realty",
+   "website": "https://coldwellbankercitysiderealty.com/",
+   "mark": "logo",
+   "file": "logos/coldwell-banker-cityside-realty.png",
+   "size": [
+    365,
+    74
+   ],
+   "onAccentTile": true,
+   "source": "https://coldwellbankercitysiderealty.com/wp-content/themes/coldwell/images/logo.png",
+   "foundAs": "logo",
+   "accent": "#38447e",
+   "notes": []
+  },
+  {
+   "slug": "gartner-management",
+   "company": "Gartner Management",
+   "website": "https://www.gartnermanagement.ca/",
+   "mark": "logo",
+   "file": "logos/gartner-management.png",
+   "size": [
+    825,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/2ab3f7_951a43f680d040ce84b9840a0fd4ca97~mv2.png",
+   "foundAs": "logo",
+   "accent": "#cd0000",
+   "notes": []
+  },
+  {
+   "slug": "lloydminster-region-housing-group",
+   "company": "Lloydminster Region Housing Group",
+   "website": "https://lrhg.ca/",
+   "mark": "logo",
+   "file": "logos/lloydminster-region-housing-group.png",
+   "size": [
+    450,
+    84
+   ],
+   "onAccentTile": false,
+   "source": "https://lrhg.ca/wp-content/themes/lrhg/images/logo.png",
+   "foundAs": "logo",
+   "accent": "#883845",
+   "notes": []
+  },
+  {
+   "slug": "mac-s-realty-and-property-management",
+   "company": "Mac's Realty Ltd. & Property Management",
+   "website": "https://www.macsrealty.ca/",
+   "mark": "logo",
+   "file": "logos/mac-s-realty-and-property-management.png",
+   "size": [
+    274,
+    109
+   ],
+   "onAccentTile": false,
+   "source": "https://www.macsrealty.ca/_media/site-logo-1550412465467.jpg",
+   "foundAs": "logo",
+   "accent": "#767257",
+   "notes": []
+  },
+  {
+   "slug": "zonimi-management",
+   "company": "Zonimi Management",
+   "website": "https://www.zonimi.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#323644",
+   "notes": [
+    "touch-icon: download failed"
+   ]
+  },
+  {
+   "slug": "angie-s-best-choice-property-management",
+   "company": "Angie's Best Choice Property Management",
+   "website": "https://angiesbestchoice.com/",
+   "mark": "logo",
+   "file": "logos/angie-s-best-choice-property-management.png",
+   "size": [
+    438,
+    125
+   ],
+   "onAccentTile": false,
+   "source": "https://angiesbestchoice.com/wp-content/uploads/2016/02/AngieLogo3-4.png",
+   "foundAs": "logo",
+   "accent": "#920b06",
+   "notes": []
+  },
+  {
+   "slug": "coulee-view-properties",
+   "company": "Coulee View Properties",
+   "website": "https://couleeviewproperties.ca/",
+   "mark": "logo",
+   "file": "logos/coulee-view-properties.png",
+   "size": [
+    900,
+    214
+   ],
+   "onAccentTile": false,
+   "source": "https://couleeviewproperties.ca/wp-content/uploads/2024/09/CouleeViewProperties-logo.svg",
+   "foundAs": "logo",
+   "accent": "#a94624",
+   "notes": []
+  },
+  {
+   "slug": "first-choice-property-management",
+   "company": "First Choice Property Management",
+   "website": "https://firstchoicepropertymgmt.squarespace.com/",
+   "mark": "logo",
+   "file": "logos/first-choice-property-management.png",
+   "size": [
+    900,
+    294
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/5e273557c77db1531bd1ea14/bfe30678-cb6a-45ae-b135-463ff259adc5/04081CFD-E962-4C68-B0A3-142CD481647B.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#536c7c",
+   "notes": []
+  },
+  {
+   "slug": "homewatch-medicine-hat",
+   "company": "Homewatch Medicine Hat",
+   "website": "https://www.homewatchmedicinehat.com/",
+   "mark": "logo",
+   "file": "logos/homewatch-medicine-hat.png",
+   "size": [
+    250,
+    80
+   ],
+   "onAccentTile": false,
+   "source": "https://www.homewatchmedicinehat.com/uploads/3/4/8/5/34852804/homewatch-logo-rec-with-tagline-10.jpg",
+   "foundAs": "logo",
+   "accent": "#1b1bd3",
+   "notes": []
+  },
+  {
+   "slug": "starks-property",
+   "company": "Starks Property",
+   "website": "https://starks.ca/starksproperty/",
+   "mark": "logo",
+   "file": "logos/starks-property.png",
+   "size": [
+    267,
+    76
+   ],
+   "onAccentTile": false,
+   "source": "http://starks.ca/wp-content/uploads/2018/12/StarksLogo-e1546918130617.png",
+   "foundAs": "logo",
+   "accent": "#cc2127",
+   "notes": []
+  },
+  {
+   "slug": "tmv-property-group",
+   "company": "TMV Property Group Ltd.",
+   "website": "https://tmvpropertygroup.ca/",
+   "mark": "logo",
+   "file": "logos/tmv-property-group.png",
+   "size": [
+    216,
+    143
+   ],
+   "onAccentTile": false,
+   "source": "https://tmvpropertygroup.ca/wp-content/uploads/2024/02/cropped-site-logo.png",
+   "foundAs": "logo",
+   "accent": "#151b26",
+   "notes": []
+  },
+  {
+   "slug": "melissa-juneau-realty-and-property-management",
+   "company": "Melissa Juneau Realty & Property Management",
+   "website": "https://melissajuneaurealty.com/",
+   "mark": "logo",
+   "file": "logos/melissa-juneau-realty-and-property-management.png",
+   "size": [
+    623,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://iss-cdn.myrealpage.com/6dzghKR4r1n2IXR3_KsIRyYZGO5wWUnYSw8qWL-rhXA/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL20vZS9sL2kvbWVsaXNzYS1qdW5lYXUxLm15cmVhbHBhZ2V3ZWJzaXRlLmNvbS9fbWVkaWEvVW50aXRsZWRfZGVzaWduX18xXy1yZW1vdmViZy5wbmc_dD0xNjk4MDc1MTc0NTMy?t=1698075174532",
+   "foundAs": "logo",
+   "accent": "#8f6a27",
+   "notes": []
+  },
+  {
+   "slug": "partners-properties",
+   "company": "Partners Properties Ltd.",
+   "website": "https://www.partnersproperties.ca/",
+   "mark": "logo",
+   "file": "logos/partners-properties.png",
+   "size": [
+    269,
+    71
+   ],
+   "onAccentTile": true,
+   "source": "https://resource.rentcafe.com/image/upload/x_0,y_0,w_3192,h_844,c_crop/q_auto,f_auto,c_limit,w_269,h_71/s3/2/238208/partnersproperties_logo.png",
+   "foundAs": "logo",
+   "accent": "#447890",
+   "notes": []
+  },
+  {
+   "slug": "prairie-management-and-realty",
+   "company": "Prairie Management & Realty Inc.",
+   "website": "https://prairiemanagement.ca/",
+   "mark": "logo",
+   "file": "logos/prairie-management-and-realty.png",
+   "size": [
+    300,
+    66
+   ],
+   "onAccentTile": false,
+   "source": "https://prairiemanagement.ca/content-images/logo.png",
+   "foundAs": "logo",
+   "accent": "#a27107",
+   "notes": []
+  },
+  {
+   "slug": "rlmr-holdings",
+   "company": "RLMR Holdings Ltd.",
+   "website": "https://www.rlmrholdings.com/",
+   "mark": "logo",
+   "file": "logos/rlmr-holdings.png",
+   "size": [
+    367,
+    227
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/6793d57262cf3c1b6d989f59/8879fa94-b711-488f-8b13-bb3a17b58be2/RLMR+Holdings+logo.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#243c58",
+   "notes": []
+  },
+  {
+   "slug": "black-mountain-property-management",
+   "company": "Black Mountain Property Management",
+   "website": "https://www.blackmountainpropertymgmt.com/",
+   "mark": "logo",
+   "file": "logos/black-mountain-property-management.png",
+   "size": [
+    265,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/1a06f7_a214ce606c0d454fb630e5754a850c7f~mv2_d_2744_2807_s_4_2.png",
+   "foundAs": "logo",
+   "accent": "#84721e",
+   "notes": []
+  },
+  {
+   "slug": "century-21-maximum",
+   "company": "Century 21 Maximum",
+   "website": "https://maximum.c21.ca/",
+   "mark": "logo",
+   "file": "logos/century-21-maximum.png",
+   "size": [
+    900,
+    209
+   ],
+   "onAccentTile": false,
+   "source": "https://images-static.moxiworks.com/static/images/br/C21Canada/nonQuebecK-Z/Moxi_Pri_Maximum_Gold.png",
+   "foundAs": "logo",
+   "accent": "#86775c",
+   "notes": []
+  },
+  {
+   "slug": "devereaux-property-management-services",
+   "company": "Devereaux Property Management Services Ltd.",
+   "website": "https://www.devpropmgt.com/",
+   "mark": "logo",
+   "file": "logos/devereaux-property-management-services.png",
+   "size": [
+    341,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://devpropmgt.com/wp-content/uploads/2019/08/Logo-Large.png",
+   "foundAs": "logo",
+   "accent": "#d0370f",
+   "notes": []
+  },
+  {
+   "slug": "high-rise-property-management",
+   "company": "High Rise Property Management",
+   "website": "https://highrisepropertymgmt.ca/",
+   "mark": "logo",
+   "file": "logos/high-rise-property-management.png",
+   "size": [
+    300,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://highrisepropertymgmt.ca/favicon.svg",
+   "foundAs": "icon",
+   "accent": "#8a6d3f",
+   "notes": []
+  },
+  {
+   "slug": "laebon-rental-communities",
+   "company": "Laebon Rental Communities",
+   "website": "https://laebonrentalcommunities.com/",
+   "mark": "logo",
+   "file": "logos/laebon-rental-communities.png",
+   "size": [
+    301,
+    42
+   ],
+   "onAccentTile": false,
+   "source": "https://laebonrentalcommunities.com/wp-content/themes/laebon/images/temp_logo.png",
+   "foundAs": "logo",
+   "accent": "#313a54",
+   "notes": []
+  },
+  {
+   "slug": "panterra-developments",
+   "company": "Panterra Developments Corp.",
+   "website": "https://www.panterradevelopments.com/",
+   "mark": "logo",
+   "file": "logos/panterra-developments.png",
+   "size": [
+    900,
+    297
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/b1ed0a_b4c7795f85794903896762de837a4681~mv2.png",
+   "foundAs": "logo",
+   "accent": "#283b62",
+   "notes": []
+  },
+  {
+   "slug": "realty-executives-alberta-elite-realty-store",
+   "company": "Realty Executives Alberta Elite (The Realty Store)",
+   "website": "https://therealtystore.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#e02b20",
+   "notes": [
+    "override: strip of partner logos"
+   ]
+  },
+  {
+   "slug": "red-key-realty-and-property-management",
+   "company": "Red Key Realty & Property Management",
+   "website": "https://redkeyproperties.ca/",
+   "mark": "logo",
+   "file": "logos/red-key-realty-and-property-management.png",
+   "size": [
+    900,
+    199
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/GR2QVU9GyZ5RVi_xsiYb9R0PBx2X2KinXGgVIs_EKlg/rs:auto:1600:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL2wvYS91L3IvbGF1cmEtaGVucmlrc2VuLm15cmVhbHBhZ2V3ZWJzaXRlLmNvbS9fbWVkaWEvcXVpY2stdXBsb2Fkcy9SZWQgS2V5IExvZ28tdHJhbnNwYXJlbnQtMTcwMDUxMTQ5OTg1NS5wbmc_dD0xNzAwNTExNDk5ODA5?t=1700511499809",
+   "foundAs": "logo",
+   "accent": "#006fe6",
+   "notes": []
+  },
+  {
+   "slug": "salomons-commercial",
+   "company": "Salomons Commercial",
+   "website": "https://salomonscommercial.com/",
+   "mark": "logo",
+   "file": "logos/salomons-commercial.png",
+   "size": [
+    900,
+    164
+   ],
+   "onAccentTile": false,
+   "source": "https://salomonscommercial.com/wp-content/uploads/2024/05/salomon-logo.svg",
+   "foundAs": "logo",
+   "accent": "#aa6917",
+   "notes": []
+  },
+  {
+   "slug": "property-shop",
+   "company": "The Property Shop Inc.",
+   "website": "http://www.thepropertyshop.ca/",
+   "mark": "logo",
+   "file": "logos/property-shop.png",
+   "size": [
+    463,
+    95
+   ],
+   "onAccentTile": true,
+   "source": "http://fiveht.wpenginepowered.com/wp-content/themes/realia/img/property%20shop_header%20logo.png",
+   "foundAs": "logo",
+   "accent": "#0581b5",
+   "notes": []
+  },
+  {
+   "slug": "heartland-housing-foundation",
+   "company": "Heartland Housing Foundation",
+   "website": "https://www.heartlandhousing.ca/",
+   "mark": "logo",
+   "file": "logos/heartland-housing-foundation.png",
+   "size": [
+    197,
+    96
+   ],
+   "onAccentTile": true,
+   "source": "https://www.heartlandhousing.ca/images/icon.png",
+   "foundAs": "touch-icon",
+   "accent": "#817522",
+   "notes": []
+  },
+  {
+   "slug": "homevest-property-management",
+   "company": "HomeVest Property Management Inc.",
+   "website": "https://www.hvpropmgmt.com/",
+   "mark": "logo",
+   "file": "logos/homevest-property-management.png",
+   "size": [
+    300,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/6762c15c735e002e4081feac/2c93c4b9-26d9-48d3-9eb8-5a476d899ce7/HVPM_logo_dark.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#ae5a09",
+   "notes": []
+  },
+  {
+   "slug": "prince-property",
+   "company": "Prince Property Inc.",
+   "website": "https://www.princeproperty.ca/",
+   "mark": "logo",
+   "file": "logos/prince-property.png",
+   "size": [
+    502,
+    91
+   ],
+   "onAccentTile": false,
+   "source": "https://www.princeproperty.ca/wp-content/uploads/2015/02/prince-property-logo.png",
+   "foundAs": "logo",
+   "accent": "#082d6e",
+   "notes": []
+  },
+  {
+   "slug": "property-masters",
+   "company": "Property Masters",
+   "website": "https://propertymasters.ca/",
+   "mark": "logo",
+   "file": "logos/property-masters.png",
+   "size": [
+    265,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://propertymasters.ca/assets/E282EEC4-B02B-4D23-B1FB-FF01F386B9D2_1758250152212-1QH0nJOZ.png",
+   "foundAs": "logo",
+   "accent": "#147d93",
+   "notes": []
+  },
+  {
+   "slug": "realty-executives-focus-realty-focus",
+   "company": "Realty Executives Focus (Realty Focus)",
+   "website": "https://realtyfocus.com/",
+   "mark": "logo",
+   "file": "logos/realty-executives-focus-realty-focus.png",
+   "size": [
+    810,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.avenuehq.com/wp-content/uploads/sites/2841/2025/01/RF_Combination-Logo-with-Border_Digital-Full-Color.jpg",
+   "foundAs": "logo",
+   "accent": "#2c577a",
+   "notes": []
+  },
+  {
+   "slug": "skyline-property-management",
+   "company": "Skyline Property Management Inc.",
+   "website": "https://skylineproperty.ca/",
+   "mark": "monogram",
+   "file": null,
+   "size": null,
+   "onAccentTile": false,
+   "source": null,
+   "foundAs": null,
+   "accent": "#94733a",
+   "notes": [
+    "override: CCI membership badge"
+   ]
+  },
+  {
+   "slug": "lesser-slave-lake-regional-housing-authority",
+   "company": "Lesser Slave Lake Regional Housing Authority",
+   "website": "https://slavelakehousing.com/",
+   "mark": "logo",
+   "file": "logos/lesser-slave-lake-regional-housing-authority.png",
+   "size": [
+    280,
+    278
+   ],
+   "onAccentTile": false,
+   "source": "https://slavelakehousing.com/wp-content/uploads/2022/11/hrh_logo_original.png",
+   "foundAs": "logo",
+   "accent": "#2e3760",
+   "notes": []
+  },
+  {
+   "slug": "royal-lepage-progressive-realty-slave-lake",
+   "company": "Royal LePage Progressive Realty (Slave Lake)",
+   "website": "https://royallepageslavelake.com/property-management.html",
+   "mark": "logo",
+   "file": "logos/royal-lepage-progressive-realty-slave-lake.png",
+   "size": [
+    734,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://royallepageslavelake.com/_media/quick-uploads/Royal%20LePage%20logo%202.png",
+   "foundAs": "logo",
+   "accent": "#e71825",
+   "notes": []
+  },
+  {
+   "slug": "gsk-properties",
+   "company": "GSK Properties",
+   "website": "https://gskproperties.ca/",
+   "mark": "logo",
+   "file": "logos/gsk-properties.png",
+   "size": [
+    568,
+    300
+   ],
+   "onAccentTile": true,
+   "source": "https://gskproperties.ca/icons/GSK_Properties_white.svg?dpl=dpl_H1SLAR8DqgMfDKmCg1auConcK3DZ",
+   "foundAs": "logo",
+   "accent": "#0b69fd",
+   "notes": []
+  },
+  {
+   "slug": "yeg-xpanded",
+   "company": "YEG Xpanded",
+   "website": "https://www.yegxpanded.com/",
+   "mark": "logo",
+   "file": "logos/yeg-xpanded.png",
+   "size": [
+    615,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://images.squarespace-cdn.com/content/v1/65663a0cdd1a4c385d587c70/7287b82d-556a-4d3a-bbb2-5660f159e959/YEG-XPANDED-LOGO.png?format=1500w",
+   "foundAs": "logo",
+   "accent": "#896500",
+   "notes": []
+  },
+  {
+   "slug": "bermont-realty",
+   "company": "Bermont Realty",
+   "website": "https://bermontrealty.com/",
+   "mark": "logo",
+   "file": "logos/bermont-realty.png",
+   "size": [
+    245,
+    92
+   ],
+   "onAccentTile": false,
+   "source": "https://iss-cdn.myrealpage.com/gYNUNxdcLoolL_DPm4C1JxxDarG1K86h07RQtBoXon0/rs:auto:0:0:0/g:sm/bG9jYWw6Ly8vZGF0YS9hcHAvd3BzL2IvZS9yL20vYmVybW9udC1yZWFsdHktYmxvY2tzLm15cmVhbHBhZ2V3ZWJzaXRlLmNvbS9fbWVkaWEvcXVpY2stdXBsb2Fkcy9iZXJtb250X2xvZ28ucG5nP3Q9MTcxNzQ0NDA0Mzk1OQ?t=1717444043959",
+   "foundAs": "logo",
+   "accent": "#1f3a5f",
+   "notes": []
+  },
+  {
+   "slug": "sunrise-estate-services",
+   "company": "Sunrise Estate Services",
+   "website": "https://sunriseestateservices.ca/",
+   "mark": "logo",
+   "file": "logos/sunrise-estate-services.png",
+   "size": [
+    300,
+    203
+   ],
+   "onAccentTile": true,
+   "source": "https://sunriseestateservices.ca/wp-content/uploads/2022/08/Sunrise-Estate-Services-White-Logo-300x203.png",
+   "foundAs": "logo",
+   "accent": "#b85c06",
+   "notes": []
+  },
+  {
+   "slug": "bds-properties",
+   "company": "BDS Properties",
+   "website": "https://bdsproperties.com/",
+   "mark": "logo",
+   "file": "logos/bds-properties.png",
+   "size": [
+    240,
+    142
+   ],
+   "onAccentTile": false,
+   "source": "https://bdsproperties.com/wp-content/uploads/2026/01/BDS.png",
+   "foundAs": "logo",
+   "accent": "#cc5252",
+   "notes": []
+  },
+  {
+   "slug": "hilltop-realty",
+   "company": "Hilltop Realty",
+   "website": "https://www.hilltop.ca/",
+   "mark": "logo",
+   "file": "logos/hilltop-realty.png",
+   "size": [
+    351,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://cdn.prod.website-files.com/69eb875108737b4ec7e54158/69fa2b1c938ef9aab8654257_hilltop-reality-svg-01.svg",
+   "foundAs": "logo",
+   "accent": "#3467b2",
+   "notes": []
+  },
+  {
+   "slug": "alliance-rental-management",
+   "company": "Alliance Rental Management",
+   "website": "https://www.alliancerental.ca/",
+   "mark": "logo",
+   "file": "logos/alliance-rental-management.png",
+   "size": [
+    416,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://static.wixstatic.com/media/1614ed_8755e36368b14876be99a462e5b7f875~mv2.png",
+   "foundAs": "logo",
+   "accent": "#937734",
+   "notes": []
+  },
+  {
+   "slug": "new-imperial-suites",
+   "company": "New Imperial Suites",
+   "website": "https://newimperial.ca/",
+   "mark": "logo",
+   "file": "logos/new-imperial-suites.png",
+   "size": [
+    340,
+    300
+   ],
+   "onAccentTile": false,
+   "source": "https://newimperial.ca/wp-content/uploads/2024/08/New-Imperial-Inn-Wetaskiwin-2023.png",
+   "foundAs": "logo",
+   "accent": "#b65a10",
+   "notes": []
+  }
+ ]
+}

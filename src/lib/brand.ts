@@ -6,8 +6,14 @@ import brands from "../brands.json";
 export interface Brand {
   slug: string;
   name: string;
-  /** optional https logo; falls back to the company name in type */
+  /** self-hosted logo "logos/<slug>.png" (under the app's base path) or a legacy https URL;
+      no logo = a monogram in the accent colour */
   logo?: string;
+  /** logo pixel size, for layout before it loads */
+  logoW?: number;
+  logoH?: number;
+  /** white/light logo on a transparent background: shown on an accent tile instead of white */
+  logoLight?: boolean;
   /** hex, used for buttons and the report rule */
   accent?: string;
   city?: string;
@@ -57,6 +63,30 @@ export function accentOf(b: Brand): string {
 export function luminance(hex: string) {
   const c = [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4));
   return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+}
+
+const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+
+/** URL to load the logo from (same origin for self-hosted logos, so the PDF can always read it). */
+export function logoUrl(b: Brand): string | null {
+  const l = (b.logo ?? "").trim();
+  if (!l) return null;
+  if (/^https:\/\//.test(l)) return l;
+  return `${BASE}/${l.replace(/^\/+/, "")}`;
+}
+
+const MONO_STOP = new Set(["the", "and", "of", "inc", "ltd", "limited", "corp", "co", "llc", "group"]);
+/** Two-letter monogram, e.g. "Hallmark Management Inc." -> "HM", "20|20 Management" -> "20". */
+export function monogram(name: string): string {
+  const words = name.replace(/&/g, " ").split(/[^A-Za-z0-9]+/).filter((w) => w && !MONO_STOP.has(w.toLowerCase()));
+  if (!words.length) return "SL";
+  if (/^\d+$/.test(words[0])) return words[0].slice(0, 2);
+  return (words[0][0] + (words[1]?.[0] ?? words[0][1] ?? "")).toUpperCase();
+}
+
+/** Darker shade of a hex colour (for gradients and pressed states). */
+export function shade(hex: string, k = 0.72): string {
+  return "#" + hexRgb(hex).map((v) => Math.round(v * k).toString(16).padStart(2, "0")).join("");
 }
 
 export const hexRgb = (hex: string): [number, number, number] => [1, 3, 5].map((i) => parseInt(hex.slice(i, i + 2), 16)) as [number, number, number];
